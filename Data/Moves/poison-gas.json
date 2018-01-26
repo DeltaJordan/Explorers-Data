@@ -1,0 +1,11 @@
+{
+  "Id": "poison-gas",
+  "Name": "Poison Gas",
+  "MoveId": 196,
+  "Description": "Afflicts the target with a Poisoned status. A Pokémon with the Poisoned status takes damage periodically.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 8,
+  "BasePP": 27,
+  "Accuracy": 84
+}

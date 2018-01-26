@@ -1,0 +1,1102 @@
+{
+  "Id": "wailord",
+  "DexId": 321,
+  "RawIndex": 349,
+  "Name": "Wailord",
+  "GameSeries": 1,
+  "PrimaryType": 3,
+  "SecondaryType": 0,
+  "Category": "Float Whale",
+  "LevelStats": [
+    {
+      "RequiredExp": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 9,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 23,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 40,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 87,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 190,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 295,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 553,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1116,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 1682,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2571,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 4745,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 6923,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 10794,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 14668,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 19012,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 23361,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 28190,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 33023,
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 37860,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 42733,
+      "HP": 3,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 48378,
+      "HP": 3,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 54028,
+      "HP": 3,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 59684,
+      "HP": 3,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 66886,
+      "HP": 3,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 75649,
+      "HP": 3,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 85183,
+      "HP": 3,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 95489,
+      "HP": 3,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 106568,
+      "HP": 3,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 118419,
+      "HP": 3,
+      "Attack": 2,
+      "Defense": 2,
+      "SpecialAttack": 2,
+      "SpecialDefense": 2
+    },
+    {
+      "RequiredExp": 131043,
+      "HP": 3,
+      "Attack": 2,
+      "Defense": 2,
+      "SpecialAttack": 2,
+      "SpecialDefense": 2
+    },
+    {
+      "RequiredExp": 144439,
+      "HP": 3,
+      "Attack": 2,
+      "Defense": 2,
+      "SpecialAttack": 2,
+      "SpecialDefense": 2
+    },
+    {
+      "RequiredExp": 160164,
+      "HP": 3,
+      "Attack": 2,
+      "Defense": 2,
+      "SpecialAttack": 2,
+      "SpecialDefense": 2
+    },
+    {
+      "RequiredExp": 176661,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 193930,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 211972,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 230786,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 250372,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 270731,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 291861,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 313765,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 336441,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 359889,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 384882,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 411419,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 439501,
+      "HP": 2,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 469128,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 500299,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 533016,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 567276,
+      "HP": 1,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 603082,
+      "HP": 0,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 640432,
+      "HP": 1,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 679057,
+      "HP": 0,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 717690,
+      "HP": 1,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 756330,
+      "HP": 0,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 794978,
+      "HP": 1,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 833634,
+      "HP": 0,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 872297,
+      "HP": 1,
+      "Attack": 0,
+      "Defense": 0,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 910968,
+      "HP": 0,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 0,
+      "SpecialDefense": 0
+    },
+    {
+      "RequiredExp": 949647,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 988333,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1027028,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1065730,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1104440,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1143157,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1181882,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1220616,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1259356,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1298104,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1336860,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1375625,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1414396,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1453175,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1491962,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1530757,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1569559,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1608369,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1647188,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1686013,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1724846,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1763688,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1802536,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1841393,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1880257,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1919129,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1958009,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 1996896,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2035792,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2074694,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2113604,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2152523,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2191449,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2230383,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2269324,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2308274,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2347230,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2386195,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2425167,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2464148,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    },
+    {
+      "RequiredExp": 2503181,
+      "HP": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "SpecialAttack": 1,
+      "SpecialDefense": 1
+    }
+  ],
+  "GenderEnitities": [
+    {
+      "Evolution": {
+        "PreEvoDexId": 320,
+        "PreEvoRawId": 348,
+        "Method": 1,
+        "Param1": 40,
+        "Param2": null
+      },
+      "Gender": 1,
+      "IQGroup": 4,
+      "PrimaryAbility": 66,
+      "SecondaryAbility": 41,
+      "BaseExpYield": 153,
+      "RecruitRate": -120.0,
+      "BaseStats": {
+        "HP": 40,
+        "Attack": 15,
+        "Defense": 13,
+        "SpecialAttack": 15,
+        "SpecialDefense": 13
+      },
+      "ExclusiveItems": {
+        "OneStarExclusiveA": null,
+        "OneStarExclusiveB": null,
+        "TwoStarExclusive": null,
+        "ThreeStarExclusive": 1243
+      }
+    },
+    {
+      "Evolution": {
+        "PreEvoDexId": 320,
+        "PreEvoRawId": 948,
+        "Method": 1,
+        "Param1": 40,
+        "Param2": null
+      },
+      "Gender": 2,
+      "IQGroup": 4,
+      "PrimaryAbility": 66,
+      "SecondaryAbility": 41,
+      "BaseExpYield": 153,
+      "RecruitRate": -120.0,
+      "BaseStats": {
+        "HP": 40,
+        "Attack": 15,
+        "Defense": 13,
+        "SpecialAttack": 15,
+        "SpecialDefense": 13
+      },
+      "ExclusiveItems": {
+        "OneStarExclusiveA": null,
+        "OneStarExclusiveB": null,
+        "TwoStarExclusive": null,
+        "ThreeStarExclusive": 1243
+      }
+    }
+  ],
+  "Movesets": [
+    {
+      "LevelUpMoves": [
+        {
+          "Level": 1,
+          "MoveId": 105
+        },
+        {
+          "Level": 1,
+          "MoveId": 217
+        },
+        {
+          "Level": 1,
+          "MoveId": 254
+        },
+        {
+          "Level": 1,
+          "MoveId": 308
+        },
+        {
+          "Level": 4,
+          "MoveId": 217
+        },
+        {
+          "Level": 7,
+          "MoveId": 308
+        },
+        {
+          "Level": 11,
+          "MoveId": 105
+        },
+        {
+          "Level": 14,
+          "MoveId": 32
+        },
+        {
+          "Level": 17,
+          "MoveId": 46
+        },
+        {
+          "Level": 21,
+          "MoveId": 310
+        },
+        {
+          "Level": 24,
+          "MoveId": 130
+        },
+        {
+          "Level": 27,
+          "MoveId": 232
+        },
+        {
+          "Level": 31,
+          "MoveId": 469
+        },
+        {
+          "Level": 34,
+          "MoveId": 113
+        },
+        {
+          "Level": 37,
+          "MoveId": 215
+        },
+        {
+          "Level": 46,
+          "MoveId": 156
+        },
+        {
+          "Level": 54,
+          "MoveId": 205
+        },
+        {
+          "Level": 62,
+          "MoveId": 240
+        }
+      ],
+      "EggMoves": null,
+      "HmTmMoves": {
+        "MoveIds": [
+          12,
+          14,
+          24,
+          29,
+          48,
+          50,
+          56,
+          67,
+          73,
+          104,
+          118,
+          158,
+          197,
+          219,
+          227,
+          232,
+          242,
+          263,
+          270,
+          284,
+          301,
+          304,
+          310,
+          324,
+          326,
+          328,
+          345,
+          360,
+          394,
+          455,
+          469,
+          471,
+          534,
+          535
+        ]
+      }
+    },
+    {
+      "LevelUpMoves": [
+        {
+          "Level": 1,
+          "MoveId": 105
+        },
+        {
+          "Level": 1,
+          "MoveId": 217
+        },
+        {
+          "Level": 1,
+          "MoveId": 254
+        },
+        {
+          "Level": 1,
+          "MoveId": 308
+        },
+        {
+          "Level": 4,
+          "MoveId": 217
+        },
+        {
+          "Level": 7,
+          "MoveId": 308
+        },
+        {
+          "Level": 11,
+          "MoveId": 105
+        },
+        {
+          "Level": 14,
+          "MoveId": 32
+        },
+        {
+          "Level": 17,
+          "MoveId": 46
+        },
+        {
+          "Level": 21,
+          "MoveId": 310
+        },
+        {
+          "Level": 24,
+          "MoveId": 130
+        },
+        {
+          "Level": 27,
+          "MoveId": 232
+        },
+        {
+          "Level": 31,
+          "MoveId": 469
+        },
+        {
+          "Level": 34,
+          "MoveId": 113
+        },
+        {
+          "Level": 37,
+          "MoveId": 215
+        },
+        {
+          "Level": 46,
+          "MoveId": 156
+        },
+        {
+          "Level": 54,
+          "MoveId": 205
+        },
+        {
+          "Level": 62,
+          "MoveId": 240
+        }
+      ],
+      "EggMoves": null,
+      "HmTmMoves": {
+        "MoveIds": [
+          12,
+          14,
+          24,
+          29,
+          48,
+          50,
+          56,
+          67,
+          73,
+          104,
+          118,
+          158,
+          197,
+          219,
+          227,
+          232,
+          242,
+          263,
+          270,
+          284,
+          301,
+          304,
+          310,
+          324,
+          326,
+          328,
+          345,
+          360,
+          394,
+          455,
+          469,
+          471,
+          534,
+          535
+        ]
+      }
+    }
+  ]
+}

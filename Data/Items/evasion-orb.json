@@ -1,0 +1,16 @@
+{
+  "Id": "evasion-orb",
+  "Name": "Evasion Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Boosts the user's evasiveness.",
+  "LongDescription": "A stat-boosting item that raises the user's evasiveness by 1 level.      Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 304,
+  "Param1": 56,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "barrier",
+  "Name": "Barrier",
+  "MoveId": 258,
+  "Description": "Boosts the user's Defense by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 16,
+  "Accuracy": 125
+}

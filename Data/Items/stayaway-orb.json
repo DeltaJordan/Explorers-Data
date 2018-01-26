@@ -1,0 +1,16 @@
+{
+  "Id": "stayaway-orb",
+  "Name": "Stayaway Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Warps enemy to the stairway.",
+  "LongDescription": "An item that afflicts an enemy in the user's line of sight with a Petrified status, then warps it near the floor's stairs.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 320,
+  "Param1": 375,
+  "Param2": 0,
+  "Param3": 0
+}

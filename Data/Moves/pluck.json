@@ -1,0 +1,11 @@
+{
+  "Id": "pluck",
+  "Name": "Pluck",
+  "MoveId": 490,
+  "Description": "Inflicts damage on the target. If the enemy has a beneficial food item, such as a Berry, the user steals and eats it, gaining its effect.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 10,
+  "BasePP": 15,
+  "Accuracy": 100
+}

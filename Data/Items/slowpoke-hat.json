@@ -1,0 +1,16 @@
+{
+  "Id": "slowpoke-hat",
+  "Name": "Slowpoke Hat",
+  "Rarity": 8,
+  "RarityParameter": 79,
+  "ItemCategory": 15,
+  "ShortDescription": "Slowpoke-specific item.",
+  "LongDescription": "May reduce the Movement Speed of attacking enemies by 1 level when hit. Keep it in the Treasure Bag to give its benefit to all of these team members: Slowpoke, Slowbro, and Slowking.  Finding a Slowpoke Hat at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 1073,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

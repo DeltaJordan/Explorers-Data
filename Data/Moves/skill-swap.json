@@ -1,0 +1,11 @@
+{
+  "Id": "skill-swap",
+  "Name": "Skill Swap",
+  "MoveId": 137,
+  "Description": "Switches the user's ability with that of the target.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 14,
+  "Accuracy": 100
+}

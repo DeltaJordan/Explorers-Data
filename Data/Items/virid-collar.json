@@ -1,0 +1,16 @@
+{
+  "Id": "virid-collar",
+  "Name": "Virid Collar",
+  "Rarity": 10,
+  "RarityParameter": 512,
+  "ItemCategory": 15,
+  "ShortDescription": "Leafeon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Poisoned status, a Paralysis status, or a Sleep status. Keep it in the Treasure Bag to give its benefit to all of these team members: Leafeon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 450,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

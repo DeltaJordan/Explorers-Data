@@ -1,0 +1,11 @@
+{
+  "Id": "fake-out",
+  "Name": "Fake Out",
+  "MoveId": 226,
+  "Description": "Inflicts damage on a target up to 2 tiles away. It may also afflict the targeted enemy with a Cringe status condition, making it incapable of attacking or using moves.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 8,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 80
+}

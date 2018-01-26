@@ -1,0 +1,16 @@
+{
+  "Id": "dusk-globe",
+  "Name": "Dusk Globe",
+  "Rarity": 4,
+  "RarityParameter": 16,
+  "ItemCategory": 15,
+  "ShortDescription": "Dark-type-specific item.",
+  "LongDescription": "Prevents Fighting-type moves from damaging Dark-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Dark-type Pokémon.  You can get a Dusk Globe at the Croagunk Swap Shop by swapping: a Black Silk, a Dark Dust, and a Dark Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 569,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

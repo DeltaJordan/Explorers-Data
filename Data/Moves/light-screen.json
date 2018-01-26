@@ -1,0 +1,11 @@
+{
+  "Id": "light-screen",
+  "Name": "Light Screen",
+  "MoveId": 259,
+  "Description": "Gives the Pokémon that uses this move the Light Screen status, which halves the damage from Special Attack moves.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 14,
+  "Accuracy": 125
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "flash-cannon",
+  "Name": "Flash Cannon",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Flash Cannon.",
+  "LongDescription": "Teaches the move Flash Cannon, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also reduce the target's Special Defense by 1 level.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 283,
+  "Param1": 536,
+  "Param2": 21,
+  "Param3": 21
+}

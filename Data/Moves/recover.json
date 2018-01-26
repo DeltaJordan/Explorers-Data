@@ -1,0 +1,11 @@
+{
+  "Id": "recover",
+  "Name": "Recover",
+  "MoveId": 117,
+  "Description": "Restores the user's HP by half its maximum HP.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 125
+}

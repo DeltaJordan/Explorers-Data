@@ -1,0 +1,16 @@
+{
+  "Id": "waterfall",
+  "Name": "Waterfall",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Waterfall.",
+  "LongDescription": "Teaches the move Waterfall, but won't if the Pokémon knows the move. It's reusable, and it can't be used in a dungeon. Move inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, which makes its actions fail.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 291,
+  "Param1": 158,
+  "Param2": 0,
+  "Param3": 0
+}

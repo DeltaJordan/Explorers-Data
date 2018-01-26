@@ -1,0 +1,16 @@
+{
+  "Id": "avalanche",
+  "Name": "Avalanche",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Avalanche.",
+  "LongDescription": "Teaches the move Avalanche.  It can't be used if the move is known. Move gives the user a Bide status. A user with Bide status waits, then does double any damage it took under Bide status.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 264,
+  "Param1": 535,
+  "Param2": 2,
+  "Param3": 2
+}

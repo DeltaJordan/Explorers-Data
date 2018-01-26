@@ -1,0 +1,16 @@
+{
+  "Id": "wavy-charm",
+  "Name": "Wavy Charm",
+  "Rarity": 7,
+  "RarityParameter": 131,
+  "ItemCategory": 15,
+  "ShortDescription": "Lapras-specific item.",
+  "LongDescription": "Halves Selfdestruct and explosion damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Lapras.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 764,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

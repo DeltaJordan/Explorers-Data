@@ -1,0 +1,16 @@
+{
+  "Id": "link-box",
+  "Name": "Link Box",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 10,
+  "ShortDescription": "Links moves.",
+  "LongDescription": "A marvelous box that lets the user link moves together and delink them again. Note: Moves connected with a link automatically lose their link if either move's PP drops to zero.",
+  "BuyPrice": 9000,
+  "SellPrice": 150,
+  "SpriteId": 10,
+  "ItemId": 362,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

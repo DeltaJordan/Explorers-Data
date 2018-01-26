@@ -1,0 +1,16 @@
+{
+  "Id": "protector",
+  "Name": "Protector",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "A heavy, durable piece of protective equipment. It allows a certain kind of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 5,
+  "ItemId": 153,
+  "Param1": 0,
+  "Param2": 2,
+  "Param3": 2
+}

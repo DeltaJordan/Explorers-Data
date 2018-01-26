@@ -1,0 +1,16 @@
+{
+  "Id": "space-globe",
+  "Name": "Space Globe",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts power of moves.",
+  "LongDescription": "The ultimate globe, it holds the power to pass through space and time itself. A held item that boosts the power of the Pokémon's moves. The effect is a significant increase in the power of moves used.",
+  "BuyPrice": 9000,
+  "SellPrice": 1,
+  "SpriteId": 15,
+  "ItemId": 43,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "warp-seed",
+  "Name": "Warp Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Warps a Pokémon.",
+  "LongDescription": "A food item that warps the Pokémon to a different place on the floor. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 20,
+  "SellPrice": 10,
+  "SpriteId": 14,
+  "ItemId": 86,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

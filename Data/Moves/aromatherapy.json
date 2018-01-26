@@ -1,0 +1,11 @@
+{
+  "Id": "aromatherapy",
+  "Name": "Aromatherapy",
+  "MoveId": 15,
+  "Description": "Heals all status problems of the user and team members in the room.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 4,
+  "BasePP": 12,
+  "Accuracy": 125
+}

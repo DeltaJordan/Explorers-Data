@@ -1,0 +1,16 @@
+{
+  "Id": "goggle-specs",
+  "Name": "Goggle Specs",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Enhances vision.",
+  "LongDescription": "A held item that lets the Pokémon see hidden traps and Pokémon with Invisible status.",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 13,
+  "ItemId": 33,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

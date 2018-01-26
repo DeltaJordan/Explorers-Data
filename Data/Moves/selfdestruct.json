@@ -1,0 +1,11 @@
+{
+  "Id": "selfdestruct",
+  "Name": "Selfdestruct",
+  "MoveId": 123,
+  "Description": "Makes the user blow up in an explosion, inflicting damage on all Pokémon within a 1-tile range. It also destroys walls and items.\nRange: Pokémon within 1-tile range",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "submission",
+  "Name": "Submission",
+  "MoveId": 116,
+  "Description": "Inflicts damage on the target, but it also hurts the user.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 15,
+  "Type": 7,
+  "BasePP": 17,
+  "Accuracy": 84
+}

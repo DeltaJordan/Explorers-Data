@@ -1,0 +1,11 @@
+{
+  "Id": "rock-smash",
+  "Name": "Rock Smash",
+  "MoveId": 29,
+  "Description": "Smashes through the wall the user is facing.\nRange: Wall",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 99,
+  "Accuracy": 100
+}

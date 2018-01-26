@@ -1,0 +1,16 @@
+{
+  "Id": "mossy-rock",
+  "Name": "Mossy Rock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "A stone covered in lush moss that exudes the vitality of plants. It allows a certain kind of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 61,
+  "ItemId": 164,
+  "Param1": 0,
+  "Param2": 11,
+  "Param3": 11
+}

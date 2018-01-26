@@ -1,0 +1,11 @@
+{
+  "Id": "gunk-shot",
+  "Name": "Gunk Shot",
+  "MoveId": 485,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage.\nRange: Line of sight",
+  "Category": 0,
+  "BasePower": 22,
+  "Type": 8,
+  "BasePP": 6,
+  "Accuracy": 80
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "projectile",
+  "Name": "projectile",
+  "MoveId": 405,
+  "Description": "$$$    Basic Information:",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 57,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "roar",
+  "Name": "Roar",
+  "MoveId": 284,
+  "Description": "Sends the target flying. If the target hits a wall or another Pokémon, it sustains damage.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 14,
+  "Accuracy": 100
+}

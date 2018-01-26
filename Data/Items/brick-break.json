@@ -1,0 +1,16 @@
+{
+  "Id": "brick-break",
+  "Name": "Brick Break",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Brick Break.",
+  "LongDescription": "Teaches the move Brick Break, but won't if the Pokémon knows the move. Move shatters the target's Reflect or Light Screen and inflicts damage.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 218,
+  "Param1": 72,
+  "Param2": 0,
+  "Param3": 0
+}

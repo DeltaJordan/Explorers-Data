@@ -1,0 +1,11 @@
+{
+  "Id": "magnet-bomb",
+  "Name": "Magnet Bomb",
+  "MoveId": 523,
+  "Description": "Inflicts damage on the target. It never misses.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 17,
+  "BasePP": 10,
+  "Accuracy": 125
+}

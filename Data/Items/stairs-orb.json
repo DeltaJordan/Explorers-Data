@@ -1,0 +1,16 @@
+{
+  "Id": "stairs-orb",
+  "Name": "Stairs Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Locates the stairway.",
+  "LongDescription": "A sensory item that shows the location of the floor's stairway.      Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 350,
+  "Param1": 409,
+  "Param2": 0,
+  "Param3": 0
+}

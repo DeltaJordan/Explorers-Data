@@ -1,0 +1,16 @@
+{
+  "Id": "fire-blast",
+  "Name": "Fire Blast",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Fire Blast.",
+  "LongDescription": "Teaches the move Fire Blast, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. It thaws and frees frozen Pokémon.",
+  "BuyPrice": 9000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 225,
+  "Param1": 157,
+  "Param2": 0,
+  "Param3": 0
+}

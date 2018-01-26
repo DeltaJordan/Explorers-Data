@@ -1,0 +1,16 @@
+{
+  "Id": "dam-scarf",
+  "Name": "Dam Scarf",
+  "Rarity": 8,
+  "RarityParameter": 434,
+  "ItemCategory": 15,
+  "ShortDescription": "Bibarel-specific item.",
+  "LongDescription": "Absorbs damage from Electric-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Bidoof and Bibarel.  You can get a Dam Scarf at the Croagunk Swap Shop by swapping: a Biba-Tooth, a Biba-Card, and a River Charm. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 897,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

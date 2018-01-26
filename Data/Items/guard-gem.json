@@ -1,0 +1,16 @@
+{
+  "Id": "guard-gem",
+  "Name": "Guard Gem",
+  "Rarity": 3,
+  "RarityParameter": 12,
+  "ItemCategory": 15,
+  "ShortDescription": "Bug-type-specific item.",
+  "LongDescription": "During a Clear condition, protects Bug-type Pokémon from status problems. Keep it in the Treasure Bag to give its benefit to all of these team members: Bug-type Pokémon.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 552,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

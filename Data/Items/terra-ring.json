@@ -1,0 +1,16 @@
+{
+  "Id": "terra-ring",
+  "Name": "Terra Ring",
+  "Rarity": 8,
+  "RarityParameter": 415,
+  "ItemCategory": 15,
+  "ShortDescription": "Groudon-specific item.",
+  "LongDescription": "Boosts the Pokémon's Attack Speed by 1 level during a Sunny condition. Keep it in the Treasure Bag to give its benefit to the team's Groudon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 54,
+  "ItemId": 489,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

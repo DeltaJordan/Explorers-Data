@@ -1,0 +1,11 @@
+{
+  "Id": "item-toss",
+  "Name": "Item-Toss",
+  "MoveId": 408,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 96,
+  "Accuracy": 100
+}

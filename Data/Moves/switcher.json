@@ -1,0 +1,11 @@
+{
+  "Id": "switcher",
+  "Name": "Switcher",
+  "MoveId": 367,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 17,
+  "Accuracy": 100
+}

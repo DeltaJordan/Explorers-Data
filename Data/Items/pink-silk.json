@@ -1,0 +1,16 @@
+{
+  "Id": "pink-silk",
+  "Name": "Pink Silk",
+  "Rarity": 1,
+  "RarityParameter": 8,
+  "ItemCategory": 15,
+  "ShortDescription": "Poison-type-specific item.",
+  "LongDescription": "Slightly boosts the Attack and Defense of Poison-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Poison-type Pokémon.  Swap a Pink Silk and a Poison Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 56,
+  "ItemId": 534,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

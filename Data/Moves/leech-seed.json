@@ -1,0 +1,11 @@
+{
+  "Id": "leech-seed",
+  "Name": "Leech Seed",
+  "MoveId": 329,
+  "Description": "Afflicts the targeted enemy with a Leech Seed status condition. A Pokémon with the Leech Seed status loses some HP every few turns, which restores the user's HP by the same amount.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 4,
+  "BasePP": 17,
+  "Accuracy": 90
+}

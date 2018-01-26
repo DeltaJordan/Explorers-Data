@@ -1,0 +1,16 @@
+{
+  "Id": "no-slip-cap",
+  "Name": "No-Slip Cap",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Keeps items from stickiness?",
+  "LongDescription": "While you are holding this, occasionally items in your Treasure Bag will become sticky. It looks a lot like the No-Stick Cap, so be careful not to confuse them!",
+  "BuyPrice": 8000,
+  "SellPrice": 550,
+  "SpriteId": 4,
+  "ItemId": 13,
+  "Param1": 0,
+  "Param2": 5,
+  "Param3": 7
+}

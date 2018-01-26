@@ -1,0 +1,11 @@
+{
+  "Id": "flail",
+  "Name": "Flail",
+  "MoveId": 121,
+  "Description": "Inflicts damage on the target. The lower the user's HP, the greater the damage it inflicts.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

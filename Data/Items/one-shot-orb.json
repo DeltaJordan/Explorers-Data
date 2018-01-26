@@ -1,0 +1,16 @@
+{
+  "Id": "one-shot-orb",
+  "Name": "One-Shot Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "One-hit KO's a target.",
+  "LongDescription": "A weapon item that defeats the target in one shot, if it hits.      Range: Enemy in front",
+  "BuyPrice": 500,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 337,
+  "Param1": 392,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "x-ray-specs",
+  "Name": "X-Ray Specs",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Locates items and enemies.",
+  "LongDescription": "A team-leader held item that enables the leader to see the locations of all items and enemies on the floor.",
+  "BuyPrice": 9000,
+  "SellPrice": 900,
+  "SpriteId": 13,
+  "ItemId": 24,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

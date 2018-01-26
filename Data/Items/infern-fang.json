@@ -1,0 +1,16 @@
+{
+  "Id": "infern-fang",
+  "Name": "Infern-Fang",
+  "Rarity": 6,
+  "RarityParameter": 425,
+  "ItemCategory": 15,
+  "ShortDescription": "Infernape-specific item.",
+  "LongDescription": "Slightly boosts Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Chimchar, Monferno, and Infernape.  Swap an Infern-Hair and an Infern-Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 32,
+  "ItemId": 731,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

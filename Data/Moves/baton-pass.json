@@ -1,0 +1,11 @@
+{
+  "Id": "baton-pass",
+  "Name": "Baton Pass",
+  "MoveId": 252,
+  "Description": "Switches the user's position with the positions of other Pokémon in the room successively.\nRange: All Pokémon in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 125
+}

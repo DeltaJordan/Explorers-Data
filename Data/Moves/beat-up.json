@@ -1,0 +1,11 @@
+{
+  "Id": "beat-up",
+  "Name": "Beat Up",
+  "MoveId": 269,
+  "Description": "Summons the team members from the floor to surround the user.\nRange: Team members on the floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 15,
+  "Accuracy": 100
+}

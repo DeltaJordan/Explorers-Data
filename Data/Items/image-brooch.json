@@ -1,0 +1,16 @@
+{
+  "Id": "image-brooch",
+  "Name": "Image Brooch",
+  "Rarity": 8,
+  "RarityParameter": 478,
+  "ItemCategory": 15,
+  "ShortDescription": "Bronzor-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Blinker status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Bronzor and Bronzong.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 47,
+  "ItemId": 1325,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

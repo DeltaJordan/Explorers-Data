@@ -1,0 +1,16 @@
+{
+  "Id": "red-gummi",
+  "Name": "Red Gummi",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Raises IQ.",
+  "LongDescription": "A food item that permanently raises the IQ of a team member. Fire-type Pokémon like it most. It also somewhat fills the Pokémon's Belly.",
+  "BuyPrice": 800,
+  "SellPrice": 50,
+  "SpriteId": 17,
+  "ItemId": 120,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

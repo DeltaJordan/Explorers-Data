@@ -1,0 +1,16 @@
+{
+  "Id": "blue-silk",
+  "Name": "Blue Silk",
+  "Rarity": 1,
+  "RarityParameter": 3,
+  "ItemCategory": 15,
+  "ShortDescription": "Water-type-specific item.",
+  "LongDescription": "Slightly boosts the Special Attack and Special Defense of Water-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Water-type Pokémon.  Swap a Blue Silk and a Water Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 56,
+  "ItemId": 514,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

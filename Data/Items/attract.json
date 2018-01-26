@@ -1,0 +1,16 @@
+{
+  "Id": "attract",
+  "Name": "Attract",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Attract.",
+  "LongDescription": "Teaches the move Attract, but won't if the Pokémon knows the move. Move inflicts an Infatuated status on a target, making it incapable of action. Caution: this move affects only enemies that are the opposite gender of the user.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 232,
+  "Param1": 326,
+  "Param2": 0,
+  "Param3": 0
+}

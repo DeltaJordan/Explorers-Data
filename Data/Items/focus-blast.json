@@ -1,0 +1,16 @@
+{
+  "Id": "focus-blast",
+  "Name": "Focus Blast",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Focus Blast.",
+  "LongDescription": "Teaches the move Focus Blast, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 239,
+  "Param1": 454,
+  "Param2": 0,
+  "Param3": 0
+}

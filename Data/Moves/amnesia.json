@@ -1,0 +1,11 @@
+{
+  "Id": "amnesia",
+  "Name": "Amnesia",
+  "MoveId": 215,
+  "Description": "Boosts the user's Special Defense by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 22,
+  "Accuracy": 125
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "steel-wing",
+  "Name": "Steel Wing",
+  "MoveId": 244,
+  "Description": "Inflicts damage on the target. It may also boost the user's Defense by 1 level.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 35,
+  "Type": 17,
+  "BasePP": 10,
+  "Accuracy": 88
+}

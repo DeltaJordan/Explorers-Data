@@ -1,0 +1,16 @@
+{
+  "Id": "radar-orb",
+  "Name": "Radar Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Locates Pokémon.",
+  "LongDescription": "A sensory item that reveals the location of all enemies on the floor.      Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 332,
+  "Param1": 387,
+  "Param2": 0,
+  "Param3": 0
+}

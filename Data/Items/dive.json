@@ -1,0 +1,16 @@
+{
+  "Id": "dive",
+  "Name": "Dive",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Dive.",
+  "LongDescription": "Teaches the move Dive.  It can't be used if the move is known. Move gives the user a Diving status, which causes the user to charge power for 1 turn, then try a powerful attack on the next turn. You can't link this move and can use it only on water.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 261,
+  "Param1": 156,
+  "Param2": 0,
+  "Param3": 0
+}

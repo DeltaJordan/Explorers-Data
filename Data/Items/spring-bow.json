@@ -1,0 +1,16 @@
+{
+  "Id": "spring-bow",
+  "Name": "Spring Bow",
+  "Rarity": 8,
+  "RarityParameter": 353,
+  "ItemCategory": 15,
+  "ShortDescription": "Spoink-specific item.",
+  "LongDescription": "Raises the chance of finding money after defeating enemies. Keep it in the Treasure Bag to give its benefit to all of these team members: Spoink and Grumpig.  Finding a Spring Bow at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1247,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

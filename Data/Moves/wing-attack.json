@@ -1,0 +1,11 @@
+{
+  "Id": "wing-attack",
+  "Name": "Wing Attack",
+  "MoveId": 178,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 10,
+  "BasePP": 20,
+  "Accuracy": 95
+}

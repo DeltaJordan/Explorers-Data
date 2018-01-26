@@ -1,0 +1,11 @@
+{
+  "Id": "psywave",
+  "Name": "Psywave",
+  "MoveId": 108,
+  "Description": "Inflicts damage on the target, even at a distance. The higher the user's level, the greater the damage.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 19,
+  "Accuracy": 88
+}

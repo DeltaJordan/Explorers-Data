@@ -1,0 +1,16 @@
+{
+  "Id": "sandy-orb",
+  "Name": "Sandy Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Causes a sandstorm.",
+  "LongDescription": "A climate-control item that changes the dungeon floor's weather to a Sandstorm condition.",
+  "BuyPrice": 70,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 305,
+  "Param1": 141,
+  "Param2": 0,
+  "Param3": 0
+}

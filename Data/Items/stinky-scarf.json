@@ -1,0 +1,16 @@
+{
+  "Id": "stinky-scarf",
+  "Name": "Stinky Scarf",
+  "Rarity": 8,
+  "RarityParameter": 476,
+  "ItemCategory": 15,
+  "ShortDescription": "Stunky-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Cringe status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Stunky and Skuntank.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1323,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

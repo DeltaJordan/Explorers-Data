@@ -1,0 +1,11 @@
+{
+  "Id": "sweet-scent",
+  "Name": "Sweet Scent",
+  "MoveId": 10,
+  "Description": "Reduces the evasiveness of all enemies in the room by 1 level.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

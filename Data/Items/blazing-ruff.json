@@ -1,0 +1,16 @@
+{
+  "Id": "blazing-ruff",
+  "Name": "Blazing Ruff",
+  "Rarity": 8,
+  "RarityParameter": 425,
+  "ItemCategory": 15,
+  "ShortDescription": "Infernape-specific item.",
+  "LongDescription": "Absorbs damage from Water-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Chimchar, Monferno, and Infernape.  You can get a Blazing Ruff at the Croagunk Swap Shop by swapping: an Infern-Hair, an Infern-Fang, and an Infern-Seal. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 733,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

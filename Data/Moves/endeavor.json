@@ -1,0 +1,11 @@
+{
+  "Id": "endeavor",
+  "Name": "Endeavor",
+  "MoveId": 66,
+  "Description": "Inflicts damage on the target equal to the target's HP minus the user's HP.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 100
+}

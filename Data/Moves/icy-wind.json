@@ -1,0 +1,11 @@
+{
+  "Id": "icy-wind",
+  "Name": "Icy Wind",
+  "MoveId": 97,
+  "Description": "Inflicts damage on the target, even at a distance. It also reduces the target's Movement Speed by 1 level.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 5,
+  "Type": 6,
+  "BasePP": 13,
+  "Accuracy": 84
+}

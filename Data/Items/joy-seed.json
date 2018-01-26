@@ -1,0 +1,16 @@
+{
+  "Id": "joy-seed",
+  "Name": "Joy Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Raises level by 1.",
+  "LongDescription": "A food item that raises the Pokémon's level by 1. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 6500,
+  "SellPrice": 650,
+  "SpriteId": 14,
+  "ItemId": 89,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

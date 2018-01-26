@@ -1,0 +1,16 @@
+{
+  "Id": "substitute",
+  "Name": "Substitute",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Substitute.",
+  "LongDescription": "Teaches the move Substitute, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with the Decoy status condition. A Pokémon with the Decoy status is likely to draw the attention of foes and be attacked by its allies.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 282,
+  "Param1": 304,
+  "Param2": 20,
+  "Param3": 20
+}

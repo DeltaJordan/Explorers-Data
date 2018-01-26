@@ -1,0 +1,11 @@
+{
+  "Id": "detect",
+  "Name": "Detect",
+  "MoveId": 305,
+  "Description": "Gives the user a Protect status. A Pokémon with the Protect status doesn't take damage from enemy attacks and moves and is also protected from the effects of moves.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 12,
+  "Accuracy": 100
+}

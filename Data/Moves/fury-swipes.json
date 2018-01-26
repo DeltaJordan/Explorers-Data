@@ -1,0 +1,11 @@
+{
+  "Id": "fury-swipes",
+  "Name": "Fury Swipes",
+  "MoveId": 312,
+  "Description": "Inflicts damage on the target using 2 to 5 attacks in a single turn.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 5,
+  "Type": 1,
+  "BasePP": 10,
+  "Accuracy": 55
+}

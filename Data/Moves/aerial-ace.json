@@ -1,0 +1,11 @@
+{
+  "Id": "aerial-ace",
+  "Name": "Aerial Ace",
+  "MoveId": 179,
+  "Description": "Inflicts damage on the target. It never misses.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 10,
+  "BasePP": 8,
+  "Accuracy": 125
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "snorlax-fang",
+  "Name": "Snorlax Fang",
+  "Rarity": 6,
+  "RarityParameter": 488,
+  "ItemCategory": 15,
+  "ShortDescription": "Snorlax-specific item.",
+  "LongDescription": "Slightly boosts Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Munchlax and Snorlax.  Swap a Snorlax Gasp and a Snorlax Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 32,
+  "ItemId": 751,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

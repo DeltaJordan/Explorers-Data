@@ -1,0 +1,16 @@
+{
+  "Id": "grass-knot",
+  "Name": "Grass Knot",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Grass Knot.",
+  "LongDescription": "Teaches the move Grass Knot, but won't if the Pokémon knows the move. Move inflicts damage on the target. Its damage rises with the target's weight.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 278,
+  "Param1": 458,
+  "Param2": 16,
+  "Param3": 16
+}

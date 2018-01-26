@@ -1,0 +1,16 @@
+{
+  "Id": "bossy-scarf",
+  "Name": "Bossy Scarf",
+  "Rarity": 8,
+  "RarityParameter": 369,
+  "ItemCategory": 15,
+  "ShortDescription": "Corphish-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Cringe status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Corphish and Crawdaunt.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1263,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

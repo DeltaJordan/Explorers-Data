@@ -1,0 +1,16 @@
+{
+  "Id": "marine-crown",
+  "Name": "Marine Crown",
+  "Rarity": 8,
+  "RarityParameter": 428,
+  "ItemCategory": 15,
+  "ShortDescription": "Empoleon-specific item.",
+  "LongDescription": "Absorbs damage from Ground-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Piplup, Prinplup, and Empoleon.  You can get a Marine Crown at the Croagunk Swap Shop by swapping: an Empol-Claw, an Empol-Horn, and an Empol-Seal. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 31,
+  "ItemId": 745,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

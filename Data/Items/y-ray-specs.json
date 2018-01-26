@@ -1,0 +1,16 @@
+{
+  "Id": "y-ray-specs",
+  "Name": "Y-Ray Specs",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Locates items and enemies...?",
+  "LongDescription": "When the leader is holding this, items and enemies will not appear on the map. If anyone else holds this, they will be affected by the Blinker status. It looks a lot like the X-Ray Specs, so be careful not to confuse them!",
+  "BuyPrice": 9000,
+  "SellPrice": 900,
+  "SpriteId": 13,
+  "ItemId": 14,
+  "Param1": 0,
+  "Param2": 5,
+  "Param3": 7
+}

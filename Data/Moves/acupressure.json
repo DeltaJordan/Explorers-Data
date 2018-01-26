@@ -1,0 +1,11 @@
+{
+  "Id": "acupressure",
+  "Name": "Acupressure",
+  "MoveId": 492,
+  "Description": "Boosts Attack, Defense, Special Attack, or Special Defense by 2 levels, but which gets boosted is random. Affects all team members in the room.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

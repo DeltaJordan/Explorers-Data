@@ -1,0 +1,11 @@
+{
+  "Id": "itemize",
+  "Name": "Itemize",
+  "MoveId": 403,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 17,
+  "Accuracy": 100
+}

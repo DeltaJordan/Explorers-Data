@@ -1,0 +1,11 @@
+{
+  "Id": "mirror-coat",
+  "Name": "Mirror Coat",
+  "MoveId": 316,
+  "Description": "Gives the user a Mirror Coat status, which reflects the damage from Special Attack moves back at an enemy.\nRange: User",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 15,
+  "Accuracy": 100
+}

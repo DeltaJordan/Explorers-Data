@@ -1,0 +1,11 @@
+{
+  "Id": "minimize",
+  "Name": "Minimize",
+  "MoveId": 169,
+  "Description": "Boosts the user's evasiveness by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 125
+}

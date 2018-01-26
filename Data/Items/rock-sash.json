@@ -1,0 +1,16 @@
+{
+  "Id": "rock-sash",
+  "Name": "Rock Sash",
+  "Rarity": 8,
+  "RarityParameter": 409,
+  "ItemCategory": 15,
+  "ShortDescription": "Regirock-specific item.",
+  "LongDescription": "Halves damage Physical Attacks do to the Pokémon. Its effect doesn't add to that of the Reflect status. Keep it in the Treasure Bag to give its benefit to the team's Regirock.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 483,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

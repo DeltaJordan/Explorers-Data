@@ -1,0 +1,16 @@
+{
+  "Id": "power-bangle",
+  "Name": "Power Bangle",
+  "Rarity": 10,
+  "RarityParameter": 264,
+  "ItemCategory": 15,
+  "ShortDescription": "Hitmontop-specific item.",
+  "LongDescription": "Enables the Pokémon to ignore the effects of an enemy's Reflect and Light Screen when attacking. Keep it in the Treasure Bag to give its benefit to all of these team members: Hitmontop.",
+  "BuyPrice": 3000,
+  "SellPrice": 100,
+  "SpriteId": 54,
+  "ItemId": 455,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

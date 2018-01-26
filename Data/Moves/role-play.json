@@ -1,0 +1,11 @@
+{
+  "Id": "role-play",
+  "Name": "Role Play",
+  "MoveId": 220,
+  "Description": "Copies the target's ability. The user regains its usual ability when it leaves the floor.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 17,
+  "Accuracy": 100
+}

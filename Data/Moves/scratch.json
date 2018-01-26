@@ -1,0 +1,11 @@
+{
+  "Id": "scratch",
+  "Name": "Scratch",
+  "MoveId": 260,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 1,
+  "BasePP": 28,
+  "Accuracy": 90
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "punishment",
+  "Name": "Punishment",
+  "MoveId": 445,
+  "Description": "Inflicts damage on the target. Its power is boosted if any of the target's Attack, Defense, Special Attack, and Special Defense stats are elevated.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 1,
+  "Type": 16,
+  "BasePP": 8,
+  "Accuracy": 88
+}

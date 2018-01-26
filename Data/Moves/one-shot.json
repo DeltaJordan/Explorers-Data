@@ -1,0 +1,11 @@
+{
+  "Id": "one-shot",
+  "Name": "One-Shot",
+  "MoveId": 392,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 200,
+  "Type": 0,
+  "BasePP": 3,
+  "Accuracy": 100
+}

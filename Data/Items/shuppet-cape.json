@@ -1,0 +1,16 @@
+{
+  "Id": "shuppet-cape",
+  "Name": "Shuppet Cape",
+  "Rarity": 8,
+  "RarityParameter": 385,
+  "ItemCategory": 15,
+  "ShortDescription": "Shuppet-specific item.",
+  "LongDescription": "During a Cloudy condition, boosts evasiveness by 2 levels. Keep it in the Treasure Bag to give its benefit to all of these team members: Shuppet and Banette.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1274,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

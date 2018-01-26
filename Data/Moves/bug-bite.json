@@ -1,0 +1,11 @@
+{
+  "Id": "bug-bite",
+  "Name": "Bug Bite",
+  "MoveId": 529,
+  "Description": "Inflicts damage on the target. If the enemy has a beneficial food item, such as a Berry, the user steals and eats it, gaining its effect.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 11,
+  "Type": 12,
+  "BasePP": 12,
+  "Accuracy": 100
+}

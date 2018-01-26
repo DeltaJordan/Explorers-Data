@@ -1,0 +1,16 @@
+{
+  "Id": "seedot-hat",
+  "Name": "Seedot Hat",
+  "Rarity": 8,
+  "RarityParameter": 301,
+  "ItemCategory": 15,
+  "ShortDescription": "Seedot-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Seedot, Nuzleaf, and Shiftry.  Finding a Seedot Hat at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 1200,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

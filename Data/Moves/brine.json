@@ -1,0 +1,11 @@
+{
+  "Id": "brine",
+  "Name": "Brine",
+  "MoveId": 469,
+  "Description": "Inflicts damage on the target. It will inflict double damage if the target's HP is down to half or lower.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 8,
+  "Type": 3,
+  "BasePP": 8,
+  "Accuracy": 88
+}

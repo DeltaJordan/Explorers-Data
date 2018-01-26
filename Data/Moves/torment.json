@@ -1,0 +1,11 @@
+{
+  "Id": "torment",
+  "Name": "Torment",
+  "MoveId": 22,
+  "Description": "Prevents the target from using the last move it used. The effect persists as long as the target remains on the floor.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 16,
+  "Accuracy": 100
+}

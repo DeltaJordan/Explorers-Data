@@ -1,0 +1,11 @@
+{
+  "Id": "reviver",
+  "Name": "Reviver",
+  "MoveId": 395,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 4,
+  "Accuracy": 100
+}

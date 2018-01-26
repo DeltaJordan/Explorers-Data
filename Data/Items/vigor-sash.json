@@ -1,0 +1,16 @@
+{
+  "Id": "vigor-sash",
+  "Name": "Vigor Sash",
+  "Rarity": 8,
+  "RarityParameter": 315,
+  "ItemCategory": 15,
+  "ShortDescription": "Vigoroth-specific item.",
+  "LongDescription": "Enables the Pokémon to ignore Reflect and Light Screen when attacking. Keep it in the Treasure Bag to give its benefit to all of these team members: Slakoth, Vigoroth, and Slaking.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1215,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "fight-torc",
+  "Name": "Fight Torc",
+  "Rarity": 8,
+  "RarityParameter": 84,
+  "ItemCategory": 15,
+  "ShortDescription": "Dodrio-specific item.",
+  "LongDescription": "Absorbs damage from Rock-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Doduo and Dodrio.  Finding a Fight Torc at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 1079,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "blizzard",
+  "Name": "Blizzard",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Blizzard.",
+  "LongDescription": "Teaches the move Blizzard, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status. A Pokémon with the Frozen status is incapable of action. It never misses during a Hail condition.",
+  "BuyPrice": 9000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 201,
+  "Param1": 270,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "racket-band",
+  "Name": "Racket Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Helps awaken Pokémon.",
+  "LongDescription": "A held item that helps awaken sleeping Pokémon enemies. It only works on Pokémon that were asleep from the start.",
+  "BuyPrice": 3000,
+  "SellPrice": 300,
+  "SpriteId": 4,
+  "ItemId": 36,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "sacred-fire",
+  "Name": "Sacred Fire",
+  "MoveId": 149,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 50,
+  "Type": 2,
+  "BasePP": 10,
+  "Accuracy": 88
+}

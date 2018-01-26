@@ -1,0 +1,16 @@
+{
+  "Id": "time-shield",
+  "Name": "Time Shield",
+  "Rarity": 8,
+  "RarityParameter": 525,
+  "ItemCategory": 15,
+  "ShortDescription": "Dialga-specific item.",
+  "LongDescription": "Halves the damage the Pokémon takes from moves and attacks. Keep it in the Treasure Bag to give its benefit to the team's Dialga.  It is among the rarest of items, dedicated exclusively to Dialga, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 46,
+  "ItemId": 498,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

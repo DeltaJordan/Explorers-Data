@@ -1,0 +1,11 @@
+{
+  "Id": "stomp",
+  "Name": "Stomp",
+  "MoveId": 271,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 90
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "slak-scarf",
+  "Name": "Slak-Scarf",
+  "Rarity": 8,
+  "RarityParameter": 315,
+  "ItemCategory": 15,
+  "ShortDescription": "Slakoth-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Sleep status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Slakoth, Vigoroth, and Slaking.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1214,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

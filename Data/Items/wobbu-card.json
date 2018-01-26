@@ -1,0 +1,16 @@
+{
+  "Id": "wobbu-card",
+  "Name": "Wobbu-Card",
+  "Rarity": 6,
+  "RarityParameter": 392,
+  "ItemCategory": 15,
+  "ShortDescription": "Wobbuffet-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Wynaut and Wobbuffet.  Swap a Wobbu-Sweat and a Wobbu-Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 887,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

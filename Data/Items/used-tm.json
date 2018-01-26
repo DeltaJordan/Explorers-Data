@@ -1,0 +1,16 @@
+{
+  "Id": "used-tm",
+  "Name": "Used TM",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 11,
+  "ShortDescription": "A used-up TM.",
+  "LongDescription": "The remains of the TM  after use. You can restore it to its original state using the move Recycle so it can be used again. Caution: some TMs can't be restored.",
+  "BuyPrice": 1,
+  "SellPrice": 1,
+  "SpriteId": 8,
+  "ItemId": 187,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

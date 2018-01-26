@@ -1,0 +1,11 @@
+{
+  "Id": "power-whip",
+  "Name": "Power Whip",
+  "MoveId": 511,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 42,
+  "Type": 4,
+  "BasePP": 8,
+  "Accuracy": 80
+}

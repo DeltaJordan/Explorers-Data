@@ -1,0 +1,16 @@
+{
+  "Id": "aqua-collar",
+  "Name": "Aqua Collar",
+  "Rarity": 10,
+  "RarityParameter": 134,
+  "ItemCategory": 15,
+  "ShortDescription": "Vaporeon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a  Cringe status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Vaporeon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 445,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

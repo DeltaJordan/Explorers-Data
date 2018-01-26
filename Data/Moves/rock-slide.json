@@ -1,0 +1,11 @@
+{
+  "Id": "rock-slide",
+  "Name": "Rock Slide",
+  "MoveId": 30,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 14,
+  "Type": 13,
+  "BasePP": 13,
+  "Accuracy": 90
+}

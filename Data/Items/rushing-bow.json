@@ -1,0 +1,16 @@
+{
+  "Id": "rushing-bow",
+  "Name": "Rushing Bow",
+  "Rarity": 8,
+  "RarityParameter": 128,
+  "ItemCategory": 15,
+  "ShortDescription": "Tauros-specific item.",
+  "LongDescription": "Makes the Pokémon counterstrike against Physical Attacks, inflicting the same damage on an attacker. Keep it in the Treasure Bag to give its benefit to all of these team members: Tauros.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1114,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "leafy-tie",
+  "Name": "Leafy Tie",
+  "Rarity": 8,
+  "RarityParameter": 1,
+  "ItemCategory": 15,
+  "ShortDescription": "Bulbasaur-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Bulbasaur, Ivysaur, and Venusaur.  You can get a Leafy Tie at the Croagunk Swap Shop by swapping: a Bulba-Claw, a Bulba-Fang, and a Grass-Guard. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 577,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

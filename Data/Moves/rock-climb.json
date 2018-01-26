@@ -1,0 +1,11 @@
+{
+  "Id": "rock-climb",
+  "Name": "Rock Climb",
+  "MoveId": 541,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Confused status condition, which makes its movements and attacks go astray.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 1,
+  "BasePP": 14,
+  "Accuracy": 88
+}

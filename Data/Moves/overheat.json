@@ -1,0 +1,11 @@
+{
+  "Id": "overheat",
+  "Name": "Overheat",
+  "MoveId": 41,
+  "Description": "Inflicts damage on all enemies within a 1-tile range, but also reduces the user's Special Attack by 2 levels. It will thaw frozen Pokémon.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 20,
+  "Type": 2,
+  "BasePP": 10,
+  "Accuracy": 84
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "tri-attack",
+  "Name": "Tri Attack",
+  "MoveId": 207,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Paralysis status condition, a Burn condition, or a Frozen condition.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 6,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

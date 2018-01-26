@@ -1,0 +1,16 @@
+{
+  "Id": "swords-dance",
+  "Name": "Swords Dance",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Swords Dance.",
+  "LongDescription": "Teaches the move Swords Dance, but won't if the Pokémon knows the move. Move boosts the user's Attack by 2 levels.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 267,
+  "Param1": 181,
+  "Param2": 5,
+  "Param3": 5
+}

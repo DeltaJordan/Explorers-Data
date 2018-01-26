@@ -1,0 +1,16 @@
+{
+  "Id": "golden-apple",
+  "Name": "Golden Apple",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Completely fills the Belly.",
+  "LongDescription": "A miraculous apple that glows with an alluring golden aura. It's far too precious and beautiful to even consider eating! If it were eaten, however, it would completely fill and greatly enlarge the Pokémon's Belly.",
+  "BuyPrice": 5000,
+  "SellPrice": 1,
+  "SpriteId": 3,
+  "ItemId": 115,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "belly-drum",
+  "Name": "Belly Drum",
+  "MoveId": 257,
+  "Description": "Boosts the user's Attack to its maximum value, but it empties the user's Belly to just 1. It has no effect if the Belly is 1 or less.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 10,
+  "Accuracy": 100
+}

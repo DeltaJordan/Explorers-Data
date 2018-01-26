@@ -1,0 +1,16 @@
+{
+  "Id": "rock-smash",
+  "Name": "Rock Smash",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Rock Smash.",
+  "LongDescription": "Teaches the move Rock Smash, but won't if the Pokémon knows the move. It's reusable, and it can't be used in a dungeon. Move smashes through the wall the user is facing.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 290,
+  "Param1": 29,
+  "Param2": 0,
+  "Param3": 0
+}

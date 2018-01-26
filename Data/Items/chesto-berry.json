@@ -1,0 +1,16 @@
+{
+  "Id": "chesto-berry",
+  "Name": "Chesto Berry",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Prevents sleep.",
+  "LongDescription": "A food item that gives Sleepless status to the user, which prevents Sleep. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 30,
+  "SellPrice": 3,
+  "SpriteId": 2,
+  "ItemId": 90,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

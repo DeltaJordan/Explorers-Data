@@ -1,0 +1,11 @@
+{
+  "Id": "constrict",
+  "Name": "Constrict",
+  "MoveId": 71,
+  "Description": "Inflicts damage on the target. It may also reduce the target's Movement Speed by 1 level.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 90
+}

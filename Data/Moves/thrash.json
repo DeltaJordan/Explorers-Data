@@ -1,0 +1,11 @@
+{
+  "Id": "thrash",
+  "Name": "Thrash",
+  "MoveId": 9,
+  "Description": "Makes the user attack 3 times in random directions.\nRange: Adjacent Pokémon",
+  "Category": 0,
+  "BasePower": 18,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 78
+}

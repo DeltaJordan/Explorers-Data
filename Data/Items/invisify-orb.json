@@ -1,0 +1,16 @@
+{
+  "Id": "invisify-orb",
+  "Name": "Invisify Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Turns the user invisible.",
+  "LongDescription": "An item that gives the user an Invisible status. A Pokémon with the Invisible status is cloaked from view.",
+  "BuyPrice": 150,
+  "SellPrice": 50,
+  "SpriteId": 15,
+  "ItemId": 336,
+  "Param1": 391,
+  "Param2": 0,
+  "Param3": 0
+}

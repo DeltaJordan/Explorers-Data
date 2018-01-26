@@ -1,0 +1,16 @@
+{
+  "Id": "swamp-bangle",
+  "Name": "Swamp Bangle",
+  "Rarity": 8,
+  "RarityParameter": 286,
+  "ItemCategory": 15,
+  "ShortDescription": "Swampert-specific item.",
+  "LongDescription": "Absorbs damage from Grass-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Mudkip, Marshtomp, and Swampert.  You can get a Swamp Bangle at the Croagunk Swap Shop by swapping: a Swamp-Mud, a Swamp-Card, and a Swamp-Seal. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 701,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

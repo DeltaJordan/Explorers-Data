@@ -1,0 +1,16 @@
+{
+  "Id": "sky-gift",
+  "Name": "Sky Gift",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Send it to a friend!",
+  "LongDescription": "It is said that this wonderful gift falls from the sky. Give it to friends and guild members as a token of appreciation and see what happens!   Shaymin's Delivery Service in the Shaymin Village will send this item to friends on your behalf.",
+  "BuyPrice": 8000,
+  "SellPrice": 1,
+  "SpriteId": 5,
+  "ItemId": 180,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

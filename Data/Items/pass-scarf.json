@@ -1,0 +1,16 @@
+{
+  "Id": "pass-scarf",
+  "Name": "Pass Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Passes on effects of moves.",
+  "LongDescription": "A held item that causes the Pokémon to shrug off any effects from moves and pass them on to an adjacent Pokémon but also makes the Pokémon's Belly go down every time it happens. Note: the effects of some moves can't be passed.",
+  "BuyPrice": 6500,
+  "SellPrice": 650,
+  "SpriteId": 4,
+  "ItemId": 51,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

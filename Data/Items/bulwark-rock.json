@@ -1,0 +1,16 @@
+{
+  "Id": "bulwark-rock",
+  "Name": "Bulwark Rock",
+  "Rarity": 7,
+  "RarityParameter": 481,
+  "ItemCategory": 15,
+  "ShortDescription": "Mr. Mime-specific item.",
+  "LongDescription": "Slightly boosts Defense and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Mime Jr. and Mr. Mime.  Swap a Mime Key and a Mime Card for a Bulwark Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 952,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

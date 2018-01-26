@@ -1,0 +1,16 @@
+{
+  "Id": "sludge-bomb",
+  "Name": "Sludge Bomb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Sludge Bomb.",
+  "LongDescription": "Teaches the move Sludge Bomb, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 223,
+  "Param1": 280,
+  "Param2": 0,
+  "Param3": 0
+}

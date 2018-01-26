@@ -1,0 +1,11 @@
+{
+  "Id": "snatch",
+  "Name": "Snatch",
+  "MoveId": 334,
+  "Description": "Gives the user a Snatch status, which lets the user steal the effects from all moves used by Pokémon on the floor.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 17,
+  "Accuracy": 100
+}

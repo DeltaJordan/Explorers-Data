@@ -1,0 +1,16 @@
+{
+  "Id": "glare-sash",
+  "Name": "Glare Sash",
+  "Rarity": 8,
+  "RarityParameter": 438,
+  "ItemCategory": 15,
+  "ShortDescription": "Luxray-specific item.",
+  "LongDescription": "Absorbs damage from Ground-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Shinx, Luxio, and Luxray.  You can get a Glare Sash at the Croagunk Swap Shop by swapping: a Luxray Claw, a Luxray Fang, and a Glare Tag. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 909,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

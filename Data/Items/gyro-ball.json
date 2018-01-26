@@ -1,0 +1,16 @@
+{
+  "Id": "gyro-ball",
+  "Name": "Gyro Ball",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Gyro Ball.",
+  "LongDescription": "Teaches the move Gyro Ball, but won't if the Pokémon knows the move. Move inflicts damage on the target and double damage on a target if the user has a Half Speed status.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 266,
+  "Param1": 475,
+  "Param2": 4,
+  "Param3": 4
+}

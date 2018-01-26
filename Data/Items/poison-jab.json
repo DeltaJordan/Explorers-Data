@@ -1,0 +1,16 @@
+{
+  "Id": "poison-jab",
+  "Name": "Poison Jab",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Poison Jab.",
+  "LongDescription": "Teaches the move Poison Jab, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 276,
+  "Param1": 495,
+  "Param2": 14,
+  "Param3": 14
+}

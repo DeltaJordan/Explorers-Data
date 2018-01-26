@@ -1,0 +1,11 @@
+{
+  "Id": "covet",
+  "Name": "Covet",
+  "MoveId": 287,
+  "Description": "Inflicts damage on the target. It also snatches the target's held item and makes it the user's, but only if the user is not already holding an item.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 8,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 88
+}

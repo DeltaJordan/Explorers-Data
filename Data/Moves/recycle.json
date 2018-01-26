@@ -1,0 +1,11 @@
+{
+  "Id": "recycle",
+  "Name": "Recycle",
+  "MoveId": 337,
+  "Description": "Repairs TMs designated as a Used TM and restores them so they can be reused. Caution: you can't recycle a Used TM that taught Recycle.\nRange: Item",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 10,
+  "Accuracy": 100
+}

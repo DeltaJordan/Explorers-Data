@@ -1,0 +1,11 @@
+{
+  "Id": "avalanche",
+  "Name": "Avalanche",
+  "MoveId": 535,
+  "Description": "Gives the user a Bide status. A Pokémon that has a Bide status waits, then does double any damage it took under Bide status.\nRange: User",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 6,
+  "BasePP": 12,
+  "Accuracy": 100
+}

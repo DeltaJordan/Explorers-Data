@@ -1,0 +1,16 @@
+{
+  "Id": "warp-orb",
+  "Name": "Warp Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Warps a target elsewhere.",
+  "LongDescription": "An item that warps a distant Pokémon to a different spot on the floor.      Range: Line of sight",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 314,
+  "Param1": 369,
+  "Param2": 0,
+  "Param3": 0
+}

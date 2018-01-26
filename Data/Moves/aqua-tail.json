@@ -1,0 +1,11 @@
+{
+  "Id": "aqua-tail",
+  "Name": "Aqua Tail",
+  "MoveId": 433,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 3,
+  "BasePP": 11,
+  "Accuracy": 80
+}

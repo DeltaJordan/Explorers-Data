@@ -1,0 +1,16 @@
+{
+  "Id": "heroic-medal",
+  "Name": "Heroic Medal",
+  "Rarity": 9,
+  "RarityParameter": 263,
+  "ItemCategory": 15,
+  "ShortDescription": "Tyrogue-specific item.",
+  "LongDescription": "Enables the Pokémon to deal full damage to Ghost-type enemies using Normal- and Fighting-type moves. Keep it in the Treasure Bag to give its benefit to all of these team members: Tyrogue.  It is an extremely rare item rumored to be held by some baby Tyrogue when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 6,
+  "ItemId": 460,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

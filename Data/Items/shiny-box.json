@@ -1,0 +1,16 @@
+{
+  "Id": "shiny-box",
+  "Name": "Shiny Box",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 14,
+  "ShortDescription": "There is something inside!",
+  "LongDescription": "A box that sparkles and shines. It likely contains something but won't give up its secrets easily. Take it to Xatu in Treasure Town for appraisal.",
+  "BuyPrice": 8000,
+  "SellPrice": 200,
+  "SpriteId": 19,
+  "ItemId": 372,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

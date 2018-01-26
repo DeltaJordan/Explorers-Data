@@ -1,0 +1,16 @@
+{
+  "Id": "cut",
+  "Name": "Cut",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Cut.",
+  "LongDescription": "Teaches the move Cut, but won't if the Pokémon knows the move. It's reusable, and it can't be used in a dungeon. Move inflicts damage on all enemies within a 1-tile range.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 285,
+  "Param1": 18,
+  "Param2": 0,
+  "Param3": 0
+}

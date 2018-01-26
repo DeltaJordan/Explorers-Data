@@ -1,0 +1,16 @@
+{
+  "Id": "earth-gem",
+  "Name": "Earth Gem",
+  "Rarity": 3,
+  "RarityParameter": 9,
+  "ItemCategory": 15,
+  "ShortDescription": "Ground-type-specific item.",
+  "LongDescription": "During a Sandstorm condition, protects Ground-type Pokémon from status problems. Keep it in the Treasure Bag to give its benefit to all of these team members: Ground-type Pokémon.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 540,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "facade",
+  "Name": "Facade",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Facade.",
+  "LongDescription": "Teaches the move Facade, but won't if the Pokémon knows the move. Move inflicts damage on the target and double damage if the user has a Burn, Poisoned, or Badly Poisoned status.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 229,
+  "Param1": 67,
+  "Param2": 0,
+  "Param3": 0
+}

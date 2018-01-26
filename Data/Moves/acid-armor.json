@@ -1,0 +1,11 @@
+{
+  "Id": "acid-armor",
+  "Name": "Acid Armor",
+  "MoveId": 202,
+  "Description": "Boosts the user's Defense by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 8,
+  "BasePP": 16,
+  "Accuracy": 125
+}

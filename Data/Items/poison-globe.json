@@ -1,0 +1,16 @@
+{
+  "Id": "poison-globe",
+  "Name": "Poison Globe",
+  "Rarity": 4,
+  "RarityParameter": 8,
+  "ItemCategory": 15,
+  "ShortDescription": "Poison-type-specific item.",
+  "LongDescription": "Prevents Ground-type moves from damaging Poison-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Poison-type Pokémon.  You can get a Poison Globe at the Croagunk Swap Shop by swapping: a Pink Silk, a Poison Dust, and a Poison Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 537,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

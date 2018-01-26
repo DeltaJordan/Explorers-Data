@@ -1,0 +1,16 @@
+{
+  "Id": "prism-ruff",
+  "Name": "Prism Ruff",
+  "Rarity": 10,
+  "RarityParameter": 133,
+  "ItemCategory": 15,
+  "ShortDescription": "Eevee-specific item.",
+  "LongDescription": "Protects against weather damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Eevee.   You can get a Prism Ruff at the Croagunk Swap Shop by swapping: Eevee Tail, Eevee Card, and Evolve Charm. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 444,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

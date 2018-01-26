@@ -1,0 +1,11 @@
+{
+  "Id": "egg-bomb",
+  "Name": "Egg Bomb",
+  "MoveId": 166,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 78
+}

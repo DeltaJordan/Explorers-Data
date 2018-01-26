@@ -1,0 +1,11 @@
+{
+  "Id": "super-fang",
+  "Name": "Super Fang",
+  "MoveId": 20,
+  "Description": "Inflicts damage on the target by halving its existing HP.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 90
+}

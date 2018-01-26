@@ -1,0 +1,16 @@
+{
+  "Id": "chatot-scarf",
+  "Name": "Chatot Scarf",
+  "Rarity": 8,
+  "RarityParameter": 483,
+  "ItemCategory": 15,
+  "ShortDescription": "Chatot-specific item.",
+  "LongDescription": "May make the Pokémon bounce received moves back at the attacker. Keep it in the Treasure Bag to give its benefit to all of these team members: Chatot.  Finding a Chatot Scarf at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1327,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "purple-jewel",
+  "Name": "Purple Jewel",
+  "Rarity": 9,
+  "RarityParameter": 481,
+  "ItemCategory": 15,
+  "ShortDescription": "Mime Jr.-specific item.",
+  "LongDescription": "Enables the Pokémon to deal full damage to Dark-type enemies using Psychic-type moves. Keep it in the Treasure Bag to give its benefit to all of these team members: Mime Jr.  It is an extremely rare item rumored to be held by some baby Mime Jr. when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 49,
+  "ItemId": 467,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "reviver-seed",
+  "Name": "Reviver Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Revives fainted Pokémon.",
+  "LongDescription": "An item that revives a fainted Pokémon, then becomes a Plain Seed after use. It can be used only by a Pokémon that knows the Item Master IQ Skill.",
+  "BuyPrice": 800,
+  "SellPrice": 80,
+  "SpriteId": 14,
+  "ItemId": 73,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

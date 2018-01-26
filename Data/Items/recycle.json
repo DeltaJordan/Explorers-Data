@@ -1,0 +1,16 @@
+{
+  "Id": "recycle",
+  "Name": "Recycle",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Recycle.",
+  "LongDescription": "Teaches the move Recycle, but won't if the Pokémon knows the move. Move repairs a TM shown as a Used TM and restores it to its original state so it can be used again. Caution: you can't recycle a Used TM that taught Recycle.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 254,
+  "Param1": 337,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "grovy-card",
+  "Name": "Grovy-Card",
+  "Rarity": 6,
+  "RarityParameter": 280,
+  "ItemCategory": 15,
+  "ShortDescription": "Grovyle-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Treecko, Grovyle, and Sceptile.  Swap a Grovy-Shoot and a Grovy-Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 671,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

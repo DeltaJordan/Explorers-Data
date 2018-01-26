@@ -1,0 +1,11 @@
+{
+  "Id": "substitute",
+  "Name": "Substitute",
+  "MoveId": 304,
+  "Description": "Afflicts the targeted Pokémon with a Decoy status condition. A Pokémon with the Decoy status is viewed as a foe by its allies. It also becomes likely to draw the attention of foes.\nRange: Facing Pokémon",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 7,
+  "Accuracy": 125
+}

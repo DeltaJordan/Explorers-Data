@@ -1,0 +1,16 @@
+{
+  "Id": "rock-climb",
+  "Name": "Rock Climb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Rock Climb.",
+  "LongDescription": "Teaches the move Rock Climb, but won't if the Pokémon knows the move. It's reusable, and it can't be used in a dungeon. Move inflicts damage on the target. It may also afflict the targeted enemy with a Confused status, which makes its movements and attacks go astray.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 292,
+  "Param1": 541,
+  "Param2": 0,
+  "Param3": 0
+}

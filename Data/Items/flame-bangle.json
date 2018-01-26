@@ -1,0 +1,16 @@
+{
+  "Id": "flame-bangle",
+  "Name": "Flame Bangle",
+  "Rarity": 8,
+  "RarityParameter": 4,
+  "ItemCategory": 15,
+  "ShortDescription": "Charizard-specific item.",
+  "LongDescription": "Absorbs damage from Water-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Charmander, Charmeleon, and Charizard.  You can get a Flame Bangle at the Croagunk Swap Shop by swapping: a Chariz-Claw, a Chariz-Fang, and a Chariz-Seal. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 597,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

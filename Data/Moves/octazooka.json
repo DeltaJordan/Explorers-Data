@@ -1,0 +1,11 @@
+{
+  "Id": "octazooka",
+  "Name": "Octazooka",
+  "MoveId": 44,
+  "Description": "Inflicts damage on the target, even at a distance. It may also reduce the target's accuracy by 1 level.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 8,
+  "Type": 3,
+  "BasePP": 15,
+  "Accuracy": 88
+}

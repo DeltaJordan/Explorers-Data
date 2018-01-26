@@ -1,0 +1,11 @@
+{
+  "Id": "nature-power",
+  "Name": "Nature Power",
+  "MoveId": 119,
+  "Description": "Uses a specific move that is based on which dungeon terrain the Pokémon is in.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 24,
+  "Accuracy": 125
+}

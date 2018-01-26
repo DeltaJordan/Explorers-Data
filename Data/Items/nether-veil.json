@@ -1,0 +1,16 @@
+{
+  "Id": "nether-veil",
+  "Name": "Nether Veil",
+  "Rarity": 8,
+  "RarityParameter": 529,
+  "ItemCategory": 15,
+  "ShortDescription": "Giratina-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Constriction status condition. Keep it in the Treasure Bag to give its benefit to the team's Giratina.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 502,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

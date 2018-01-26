@@ -1,0 +1,11 @@
+{
+  "Id": "razor-leaf",
+  "Name": "Razor Leaf",
+  "MoveId": 251,
+  "Description": "Inflicts damage on the target, even at a distance. It has a high critical-hit rate.\nRange: Line of sight",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 4,
+  "BasePP": 12,
+  "Accuracy": 84
+}

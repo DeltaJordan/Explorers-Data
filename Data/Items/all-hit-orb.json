@@ -1,0 +1,16 @@
+{
+  "Id": "all-hit-orb",
+  "Name": "All-Hit Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Boosts critical-hit ratios.",
+  "LongDescription": "An item that gives the user and team members in the room a Focus Energy status. A Pokémon with the Focus Energy status will have its critical-hit ratio boosted to its highest level.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 358,
+  "Param1": 428,
+  "Param2": 0,
+  "Param3": 0
+}

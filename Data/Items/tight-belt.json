@@ -1,0 +1,16 @@
+{
+  "Id": "tight-belt",
+  "Name": "Tight Belt",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Fully suppresses hunger.",
+  "LongDescription": "A held item that prevents the Pokémon's Belly from going down each turn. If the holder travels through a wall or if it uses a move with a link, its Belly will still go down.",
+  "BuyPrice": 8000,
+  "SellPrice": 800,
+  "SpriteId": 4,
+  "ItemId": 30,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

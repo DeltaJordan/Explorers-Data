@@ -1,0 +1,11 @@
+{
+  "Id": "dig",
+  "Name": "Dig",
+  "MoveId": 8,
+  "Description": "Gives the user a Digging status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. You can't link this move.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 9,
+  "BasePP": 12,
+  "Accuracy": 100
+}

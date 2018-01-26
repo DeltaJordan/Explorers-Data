@@ -1,0 +1,11 @@
+{
+  "Id": "embargo",
+  "Name": "Embargo",
+  "MoveId": 466,
+  "Description": "Afflicts the targeted enemy with an Embargo status condition. A Pokémon with the Embargo status can't use items.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 18,
+  "Accuracy": 100
+}

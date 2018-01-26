@@ -1,0 +1,11 @@
+{
+  "Id": "smellingsalt",
+  "Name": "SmellingSalt",
+  "MoveId": 78,
+  "Description": "Inflicts damage on the target, doing more if it has a Paralysis status, but it will then heal the target's Paralysis status.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 88
+}

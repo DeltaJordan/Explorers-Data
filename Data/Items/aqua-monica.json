@@ -1,0 +1,16 @@
+{
+  "Id": "aqua-monica",
+  "Name": "Aqua-Monica",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "A remarkable harmonica that plays melodies serene as flowing water, rumored to steal watery hearts. When held by the team leader, this item makes it easier to recruit defeated Water-type Pokémon to the team.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 7,
+  "ItemId": 62,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

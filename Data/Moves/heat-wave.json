@@ -1,0 +1,11 @@
+{
+  "Id": "heat-wave",
+  "Name": "Heat Wave",
+  "MoveId": 230,
+  "Description": "Inflicts damage on enemies in the room. It may also afflict enemies in the room with a Burn status condition. It thaws out frozen Pokémon.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 10,
+  "Type": 2,
+  "BasePP": 8,
+  "Accuracy": 80
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "dusk-collar",
+  "Name": "Dusk Collar",
+  "Rarity": 10,
+  "RarityParameter": 197,
+  "ItemCategory": 15,
+  "ShortDescription": "Umbreon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Blinker status, which obscures vision. Keep it in the Treasure Bag to give its benefit to all of these team members: Umbreon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 449,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

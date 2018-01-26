@@ -1,0 +1,11 @@
+{
+  "Id": "dragon-rush",
+  "Name": "Dragon Rush",
+  "MoveId": 498,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 40,
+  "Type": 15,
+  "BasePP": 8,
+  "Accuracy": 80
+}

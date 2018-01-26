@@ -1,0 +1,16 @@
+{
+  "Id": "havoc-robe",
+  "Name": "Havoc Robe",
+  "Rarity": 8,
+  "RarityParameter": 150,
+  "ItemCategory": 15,
+  "ShortDescription": "Mewtwo-specific item.",
+  "LongDescription": "Boosts the greater PP consumption forced on enemies by the Pokémon's Pressure ability. Keep it in the Treasure Bag to give its benefit to the team's Mewtwo.  It is among the rarest of items, dedicated exclusively to Mewtwo, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 57,
+  "ItemId": 475,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "blowback-orb",
+  "Name": "Blowback Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Knocks a foe flying.",
+  "LongDescription": "A weapon item that sends a distant Pokémon flying back, taking damage if it then hits a wall or another Pokémon.     Range: Line of sight",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 313,
+  "Param1": 368,
+  "Param2": 0,
+  "Param3": 0
+}

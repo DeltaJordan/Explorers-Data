@@ -1,0 +1,11 @@
+{
+  "Id": "hidden-power",
+  "Name": "Hidden Power",
+  "MoveId": 324,
+  "Description": "Inflicts damage on the target. The move's type and power change with the dungeon.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 12,
+  "Accuracy": 88
+}

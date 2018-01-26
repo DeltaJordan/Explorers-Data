@@ -1,0 +1,11 @@
+{
+  "Id": "earth-power",
+  "Name": "Earth Power",
+  "MoveId": 484,
+  "Description": "Inflicts damage on all enemies in the room with the user. It may also reduce their Special Defense by 1 level.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 9,
+  "Type": 9,
+  "BasePP": 8,
+  "Accuracy": 88
+}

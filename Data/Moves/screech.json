@@ -1,0 +1,11 @@
+{
+  "Id": "screech",
+  "Name": "Screech",
+  "MoveId": 27,
+  "Description": "Greatly reduces the target's Defense.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 88
+}

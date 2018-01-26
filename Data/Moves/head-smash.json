@@ -1,0 +1,11 @@
+{
+  "Id": "head-smash",
+  "Name": "Head Smash",
+  "MoveId": 533,
+  "Description": "Inflicts damage on the target. But it also hurts the user.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 50,
+  "Type": 13,
+  "BasePP": 5,
+  "Accuracy": 80
+}

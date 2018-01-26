@@ -1,0 +1,16 @@
+{
+  "Id": "bolt-fang",
+  "Name": "Bolt Fang",
+  "Rarity": 8,
+  "RarityParameter": 270,
+  "ItemCategory": 15,
+  "ShortDescription": "Raikou-specific item.",
+  "LongDescription": "Enables the Pokémon to ignore the effects of an enemy's Reflect and Light Screen when attacking. Keep it in the Treasure Bag to give its benefit to the team's Raikou.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 32,
+  "ItemId": 477,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

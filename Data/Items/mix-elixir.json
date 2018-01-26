@@ -1,0 +1,16 @@
+{
+  "Id": "mix-elixir",
+  "Name": "Mix Elixir",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Restores PP...?",
+  "LongDescription": "A drink that restores the PP of all moves, but only for Linoone. It also slightly fills the Pokémon's Belly. It is a Lookalike Item for the Max Elixir. Remember, it can be used only on Linoone, so be careful!",
+  "BuyPrice": 250,
+  "SellPrice": 25,
+  "SpriteId": 12,
+  "ItemId": 116,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

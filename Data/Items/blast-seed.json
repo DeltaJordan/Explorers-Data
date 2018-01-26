@@ -1,0 +1,16 @@
+{
+  "Id": "blast-seed",
+  "Name": "Blast Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Damages a target in front.",
+  "LongDescription": "A food item that makes the user breathe high-damage fire at a Pokémon the user is facing, whether friend or enemy. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 30,
+  "SellPrice": 15,
+  "SpriteId": 14,
+  "ItemId": 87,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

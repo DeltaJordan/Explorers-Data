@@ -1,0 +1,16 @@
+{
+  "Id": "steel-globe",
+  "Name": "Steel Globe",
+  "Rarity": 4,
+  "RarityParameter": 17,
+  "ItemCategory": 15,
+  "ShortDescription": "Steel-type-specific item.",
+  "LongDescription": "Prevents Ground-type moves from damaging Steel-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Steel-type Pokémon.  You can get a Steel Globe at the Croagunk Swap Shop by swapping: an Iron Silk, a Steel Dust, and a Metal Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 573,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

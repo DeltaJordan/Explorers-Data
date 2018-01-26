@@ -1,0 +1,16 @@
+{
+  "Id": "strong-sash",
+  "Name": "Strong Sash",
+  "Rarity": 8,
+  "RarityParameter": 363,
+  "ItemCategory": 15,
+  "ShortDescription": "Zangoose-specific item.",
+  "LongDescription": "Makes the Pokémon counterstrike against Physical Attacks, inflicting the same damage on an attacker. Keep it in the Treasure Bag to give its benefit to all of these team members: Zangoose.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1257,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

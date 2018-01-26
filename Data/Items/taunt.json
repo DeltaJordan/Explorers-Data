@@ -1,0 +1,16 @@
+{
+  "Id": "taunt",
+  "Name": "Taunt",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Taunt.",
+  "LongDescription": "Teaches the move Taunt, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with a Taunted status condition, which restricts a Pokémon to using only moves that inflict damage.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 199,
+  "Param1": 172,
+  "Param2": 0,
+  "Param3": 0
+}

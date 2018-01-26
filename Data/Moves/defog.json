@@ -1,0 +1,11 @@
+{
+  "Id": "defog",
+  "Name": "Defog",
+  "MoveId": 456,
+  "Description": "Reduces the evasiveness of all enemies in the room by 1 level. It blows away Mist and similar defensive moves, as well as a Fog condition.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 10,
+  "BasePP": 14,
+  "Accuracy": 88
+}

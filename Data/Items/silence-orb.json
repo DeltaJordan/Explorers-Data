@@ -1,0 +1,16 @@
+{
+  "Id": "silence-orb",
+  "Name": "Silence Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes an enemy muzzled.",
+  "LongDescription": "An item that afflicts a distant target with a Muzzled status condition. A Pokémon with the Muzzled status is incapable of using moves or items that require the use of its mouth.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 329,
+  "Param1": 384,
+  "Param2": 0,
+  "Param3": 0
+}

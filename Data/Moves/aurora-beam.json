@@ -1,0 +1,11 @@
+{
+  "Id": "aurora-beam",
+  "Name": "Aurora Beam",
+  "MoveId": 42,
+  "Description": "Inflicts damage on the target, even at a distance. It may also halve the target's Attack.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 10,
+  "Type": 6,
+  "BasePP": 17,
+  "Accuracy": 65
+}

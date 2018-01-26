@@ -1,0 +1,16 @@
+{
+  "Id": "fly",
+  "Name": "Fly",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Fly.",
+  "LongDescription": "Teaches the move Fly, but won't if the Pokémon knows the move. It's reusable, and it can't be used in a dungeon. Move gives the user a Flying status, which causes the user to charge power for 1 turn, then try a powerful attack on the next turn. You can't link it.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 286,
+  "Param1": 153,
+  "Param2": 0,
+  "Param3": 0
+}

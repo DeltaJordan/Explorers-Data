@@ -1,0 +1,16 @@
+{
+  "Id": "focus-punch",
+  "Name": "Focus Punch",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Focus Punch.",
+  "LongDescription": "Teaches the move Focus Punch, but won't if the Pokémon knows the move. Move gives the user a Focus Punch status, which causes the user to charge power for 1 turn, then try a powerful attack on the next turn. You can't link this move.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 188,
+  "Param1": 75,
+  "Param2": 0,
+  "Param3": 0
+}

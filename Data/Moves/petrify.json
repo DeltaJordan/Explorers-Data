@@ -1,0 +1,11 @@
+{
+  "Id": "petrify",
+  "Name": "Petrify",
+  "MoveId": 374,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 22,
+  "Accuracy": 100
+}

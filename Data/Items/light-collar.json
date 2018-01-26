@@ -1,0 +1,16 @@
+{
+  "Id": "light-collar",
+  "Name": "Light Collar",
+  "Rarity": 10,
+  "RarityParameter": 196,
+  "ItemCategory": 15,
+  "ShortDescription": "Espeon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Confused status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Espeon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 448,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

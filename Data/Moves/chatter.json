@@ -1,0 +1,11 @@
+{
+  "Id": "chatter",
+  "Name": "Chatter",
+  "MoveId": 446,
+  "Description": "Inflicts damage on enemies within a 1-tile range. It may also afflict enemies with a Confused status condition.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 10,
+  "Type": 10,
+  "BasePP": 12,
+  "Accuracy": 88
+}

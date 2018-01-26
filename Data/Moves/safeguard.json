@@ -1,0 +1,11 @@
+{
+  "Id": "safeguard",
+  "Name": "Safeguard",
+  "MoveId": 134,
+  "Description": "Gives the Pokémon that uses this move and all team members in the room the Safeguard status, which prevents status problems.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 13,
+  "Accuracy": 125
+}

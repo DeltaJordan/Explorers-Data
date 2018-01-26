@@ -1,0 +1,16 @@
+{
+  "Id": "x-eye-seed",
+  "Name": "X-Eye Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Causes hallucinations.",
+  "LongDescription": "A food item that gives Cross-Eyed status to the user. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 60,
+  "SellPrice": 6,
+  "SpriteId": 14,
+  "ItemId": 76,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

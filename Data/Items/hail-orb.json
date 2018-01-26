@@ -1,0 +1,16 @@
+{
+  "Id": "hail-orb",
+  "Name": "Hail Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Changes the weather to hail.",
+  "LongDescription": "A climate-control item that changes the dungeon floor's weather to a Hail condition.",
+  "BuyPrice": 70,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 301,
+  "Param1": 14,
+  "Param2": 0,
+  "Param3": 0
+}

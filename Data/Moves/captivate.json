@@ -1,0 +1,11 @@
+{
+  "Id": "captivate",
+  "Name": "Captivate",
+  "MoveId": 534,
+  "Description": "Reduces the target's Special Attack by 2 levels. Caution: this move affects only enemies that are the opposite gender of the user.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 20,
+  "Accuracy": 100
+}

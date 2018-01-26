@@ -1,0 +1,11 @@
+{
+  "Id": "mach-punch",
+  "Name": "Mach Punch",
+  "MoveId": 300,
+  "Description": "Inflicts damage on a target up to 2 tiles away.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 8,
+  "Type": 7,
+  "BasePP": 22,
+  "Accuracy": 90
+}

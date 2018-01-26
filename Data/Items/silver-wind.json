@@ -1,0 +1,16 @@
+{
+  "Id": "silver-wind",
+  "Name": "Silver Wind",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Silver Wind.",
+  "LongDescription": "Teaches the move Silver Wind, but won't if the Pokémon knows the move. Move inflicts damage on all enemies in the room. It may also boost the user's Attack, Special Attack, Defense, Special Defense, and Movement Speed by 1 level.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 249,
+  "Param1": 82,
+  "Param2": 0,
+  "Param3": 0
+}

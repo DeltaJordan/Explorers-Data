@@ -1,0 +1,16 @@
+{
+  "Id": "solarbeam",
+  "Name": "SolarBeam",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches SolarBeam.",
+  "LongDescription": "Teaches the move SolarBeam, but won't if the Pokémon knows the move. Move gives the user SolarBeam status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. During a Sunny condition, it charges for an immediate attack. You can't link this move.",
+  "BuyPrice": 7000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 209,
+  "Param1": 151,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "light-box",
+  "Name": "Light Box",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 14,
+  "ShortDescription": "There is something inside!",
+  "LongDescription": "A box that is surprisingly slight. It likely contains something but won't give up its secrets easily. Take it to Xatu in Treasure Town for appraisal.",
+  "BuyPrice": 8000,
+  "SellPrice": 200,
+  "SpriteId": 19,
+  "ItemId": 390,
+  "Param1": 2,
+  "Param2": 2,
+  "Param3": 2
+}

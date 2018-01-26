@@ -1,0 +1,11 @@
+{
+  "Id": "flamethrower",
+  "Name": "Flamethrower",
+  "MoveId": 53,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 18,
+  "Type": 2,
+  "BasePP": 12,
+  "Accuracy": 88
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "hurl-orb",
+  "Name": "Hurl Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Hurls a Pokémon.",
+  "LongDescription": "A weapon item that hurls the target toward another enemy Pokémon to inflict damage.     Range: Enemy in front",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 347,
+  "Param1": 406,
+  "Param2": 0,
+  "Param3": 0
+}

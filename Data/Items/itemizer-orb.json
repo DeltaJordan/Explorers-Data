@@ -1,0 +1,16 @@
+{
+  "Id": "itemizer-orb",
+  "Name": "Itemizer Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Turns a Pokémon into an item.",
+  "LongDescription": "A special item that transforms the target into an item.      Range: Enemy in front",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 346,
+  "Param1": 403,
+  "Param2": 0,
+  "Param3": 0
+}

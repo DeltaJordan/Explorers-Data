@@ -1,0 +1,16 @@
+{
+  "Id": "brine",
+  "Name": "Brine",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Brine.",
+  "LongDescription": "Teaches the move Brine, but won't if the Pokémon knows the move. Move inflicts damage on the target. It will inflict double damage if the target's HP is down to half or lower.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 242,
+  "Param1": 469,
+  "Param2": 0,
+  "Param3": 0
+}

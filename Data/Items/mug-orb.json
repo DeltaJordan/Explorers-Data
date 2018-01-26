@@ -1,0 +1,16 @@
+{
+  "Id": "mug-orb",
+  "Name": "Mug Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Deals damage and steals item.",
+  "LongDescription": "A weapon item that inflicts damage on the target, even at a distance. It also steals the target's held item and makes it the user's. This added effect works only if the user is not holding an item.   Range: Enemy in line of sight",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 309,
+  "Param1": 364,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "slip-seed",
+  "Name": "Slip Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Induces sleep...?",
+  "LongDescription": "A food item that gives the Slip status, where it is possible to walk on water. It also somewhat fills the Pokémon's Belly. It is a Lookalike Item for the Sleep Seed, but you'll be pleasantly surprised when you make a mistake on this one!",
+  "BuyPrice": 70,
+  "SellPrice": 35,
+  "SpriteId": 14,
+  "ItemId": 106,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

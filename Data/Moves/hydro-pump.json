@@ -1,0 +1,11 @@
+{
+  "Id": "hydro-pump",
+  "Name": "Hydro Pump",
+  "MoveId": 240,
+  "Description": "Inflicts damage on the target, even at a distance.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 24,
+  "Type": 3,
+  "BasePP": 8,
+  "Accuracy": 84
+}

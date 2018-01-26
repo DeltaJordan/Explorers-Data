@@ -1,0 +1,16 @@
+{
+  "Id": "energy-ball",
+  "Name": "Energy Ball",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Energy Ball.",
+  "LongDescription": "Teaches the move Energy Ball, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 240,
+  "Param1": 443,
+  "Param2": 0,
+  "Param3": 0
+}

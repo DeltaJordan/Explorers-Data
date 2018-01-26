@@ -1,0 +1,16 @@
+{
+  "Id": "dark-pulse",
+  "Name": "Dark Pulse",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Dark Pulse.",
+  "LongDescription": "Teaches the move Dark Pulse, but won't if the Pokémon knows the move. Move inflicts damage on enemies within a 1-tile range. It may also afflict enemies with a Cringe status condition, which makes its actions fail.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 271,
+  "Param1": 436,
+  "Param2": 9,
+  "Param3": 9
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "lumi-torc",
+  "Name": "Lumi-Torc",
+  "Rarity": 8,
+  "RarityParameter": 498,
+  "ItemCategory": 15,
+  "ShortDescription": "Lumineon-specific item.",
+  "LongDescription": "Absorbs damage from Electric-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Finneon and Lumineon.  Finding a Lumi-Torc at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 1336,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "shadow-gem",
+  "Name": "Shadow Gem",
+  "Rarity": 3,
+  "RarityParameter": 14,
+  "ItemCategory": 15,
+  "ShortDescription": "Ghost-type-specific item.",
+  "LongDescription": "During a Fog condition, boosts the Movement Speed of Ghost-type Pokémon by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Ghost-type Pokémon ",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 560,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

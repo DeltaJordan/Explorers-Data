@@ -1,0 +1,11 @@
+{
+  "Id": "copycat",
+  "Name": "Copycat",
+  "MoveId": 525,
+  "Description": "Causes the user to unleash the same move as the last one used by the facing enemy. Some moves can't be copied.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 19,
+  "Accuracy": 100
+}

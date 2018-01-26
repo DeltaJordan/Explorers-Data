@@ -1,0 +1,16 @@
+{
+  "Id": "rock-polish",
+  "Name": "Rock Polish",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Rock Polish.",
+  "LongDescription": "Teaches the move Rock Polish, but won't if the Pokémon knows the move. Move boosts the user's Movement Speed by 2 levels.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 256,
+  "Param1": 540,
+  "Param2": 0,
+  "Param3": 0
+}

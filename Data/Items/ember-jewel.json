@@ -1,0 +1,16 @@
+{
+  "Id": "ember-jewel",
+  "Name": "Ember Jewel",
+  "Rarity": 7,
+  "RarityParameter": 267,
+  "ItemCategory": 15,
+  "ShortDescription": "Magby-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Magby, Magmar, and Magmortar.  Swap a Magby Claw and a Magby Card for an Ember Jewel at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 848,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

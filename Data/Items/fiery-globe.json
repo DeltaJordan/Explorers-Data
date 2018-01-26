@@ -1,0 +1,16 @@
+{
+  "Id": "fiery-globe",
+  "Name": "Fiery Globe",
+  "Rarity": 4,
+  "RarityParameter": 2,
+  "ItemCategory": 15,
+  "ShortDescription": "Fire-type-specific item.",
+  "LongDescription": "Prevents Water-type moves from damaging Fire-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Fire-type Pokémon.  You can get a Fiery Globe at the Croagunk Swap Shop by swapping: a Red Silk, a Fire Dust, and a Fiery Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 513,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

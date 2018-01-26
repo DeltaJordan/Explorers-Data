@@ -1,0 +1,16 @@
+{
+  "Id": "terra-cymbal",
+  "Name": "Terra Cymbal",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "A marvelous cymbal with a colossal crash that shakes the ground, rumored to steal even the most grounded hearts. When held by the team leader, it is easier to recruit defeated Ground-type Pokémon to the team.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 7,
+  "ItemId": 61,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

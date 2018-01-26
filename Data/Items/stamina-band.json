@@ -1,0 +1,16 @@
+{
+  "Id": "stamina-band",
+  "Name": "Stamina Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Suppresses hunger.",
+  "LongDescription": "A held item that slows how quickly the Pokémon's Belly goes down.",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 4,
+  "ItemId": 38,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

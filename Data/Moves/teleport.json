@@ -1,0 +1,11 @@
+{
+  "Id": "teleport",
+  "Name": "Teleport",
+  "MoveId": 187,
+  "Description": "Warps the user to another tile on the floor.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 7,
+  "Accuracy": 125
+}

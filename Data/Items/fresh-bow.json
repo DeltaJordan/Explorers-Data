@@ -1,0 +1,16 @@
+{
+  "Id": "fresh-bow",
+  "Name": "Fresh Bow",
+  "Rarity": 8,
+  "RarityParameter": 152,
+  "ItemCategory": 15,
+  "ShortDescription": "Chikorita-specific item.",
+  "LongDescription": "Boosts the maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Chikorita, Bayleef, and Meganium.  You can get a Fresh Bow at the Croagunk Swap Shop by swapping: a Chiko-Claw, a Chiko-Card, and a Dawn Jewel. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 633,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

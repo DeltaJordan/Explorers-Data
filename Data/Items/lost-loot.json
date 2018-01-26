@@ -1,0 +1,16 @@
+{
+  "Id": "lost-loot",
+  "Name": "Lost Loot",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Can be sold for lots of money.",
+  "LongDescription": "An ancient box rumored to have been stashed away by an exploration team long ago, said to be bursting with gold, silver, and other treasure. It is worth an enormous amount of money!",
+  "BuyPrice": 9999,
+  "SellPrice": 4000,
+  "SpriteId": 5,
+  "ItemId": 186,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

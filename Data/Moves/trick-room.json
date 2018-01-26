@@ -1,0 +1,11 @@
+{
+  "Id": "trick-room",
+  "Name": "Trick Room",
+  "MoveId": 499,
+  "Description": "Boosts or reduces the Movement Speed of all Pokémon on the floor by 1 level. The effect is random.\nRange: All Pokémon on the floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 10,
+  "Accuracy": 100
+}

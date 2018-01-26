@@ -1,0 +1,16 @@
+{
+  "Id": "iggly-card",
+  "Name": "Iggly-Card",
+  "Rarity": 6,
+  "RarityParameter": 174,
+  "ItemCategory": 15,
+  "ShortDescription": "Igglybuff-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Igglybuff, Jigglypuff, and Wigglytuff.  Swap an Iggly-Dew and an Iggly-Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 783,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

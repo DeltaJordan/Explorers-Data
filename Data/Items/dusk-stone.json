@@ -1,0 +1,16 @@
+{
+  "Id": "dusk-stone",
+  "Name": "Dusk Stone",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "An odd stone with a mesmerizing darkness. It allows certain kinds of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 55,
+  "ItemId": 162,
+  "Param1": 0,
+  "Param2": 9,
+  "Param3": 9
+}

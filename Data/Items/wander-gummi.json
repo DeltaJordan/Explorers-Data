@@ -1,0 +1,16 @@
+{
+  "Id": "wander-gummi",
+  "Name": "Wander Gummi",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Raises IQ...?",
+  "LongDescription": "When used, this item causes the user's eyes to become gunky, and the user gets Blinker status. A Lookalike Item for Wonder Gummi, so be careful!",
+  "BuyPrice": 3500,
+  "SellPrice": 60,
+  "SpriteId": 17,
+  "ItemId": 168,
+  "Param1": 0,
+  "Param2": 15,
+  "Param3": 15
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "thunder-wave",
+  "Name": "Thunder Wave",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Thunder Wave.",
+  "LongDescription": "Teaches the move Thunder Wave, but won't if the Pokémon knows the move. Move inflicts a Paralysis status on a target. A Pokémon with the Paralysis status condition has slowed movement and is incapable of action.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 265,
+  "Param1": 192,
+  "Param2": 3,
+  "Param3": 3
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "ingrain",
+  "Name": "Ingrain",
+  "MoveId": 233,
+  "Description": "Gives the user an Ingrain status. A Pokémon with the Ingrain status is incapable of moving but regains HP every few turns.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 4,
+  "BasePP": 22,
+  "Accuracy": 100
+}

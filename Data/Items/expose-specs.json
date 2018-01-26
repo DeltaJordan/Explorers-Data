@@ -1,0 +1,16 @@
+{
+  "Id": "expose-specs",
+  "Name": "Expose Specs",
+  "Rarity": 8,
+  "RarityParameter": 163,
+  "ItemCategory": 15,
+  "ShortDescription": "Hoothoot-specific item.",
+  "LongDescription": "Increases the damage inflicted on  Ghost-type enemies with Normal- and  Fighting-type moves. Keep it in the Treasure Bag to give its benefit to all of these team members: Hoothoot and Noctowl.  Finding Expose Specs at the Croagunk Swap Shop is very lucky! Make sure you get this item before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 13,
+  "ItemId": 1129,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

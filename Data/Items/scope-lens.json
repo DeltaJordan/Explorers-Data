@@ -1,0 +1,16 @@
+{
+  "Id": "scope-lens",
+  "Name": "Scope Lens",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts critical-hit ratio.",
+  "LongDescription": "A held item that boosts the Pokémon's critical-hit rate for moves and attacks.",
+  "BuyPrice": 7500,
+  "SellPrice": 450,
+  "SpriteId": 13,
+  "ItemId": 19,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

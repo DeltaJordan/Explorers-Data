@@ -1,0 +1,16 @@
+{
+  "Id": "pluck",
+  "Name": "Pluck",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Pluck.",
+  "LongDescription": "Teaches the move Pluck, but won't if the Pokémon knows the move. Move inflicts damage on the target. If the enemy is holding an item such as  a Berry, the user steals it and uses it.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 280,
+  "Param1": 490,
+  "Param2": 18,
+  "Param3": 18
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "takeaway",
+  "Name": "Takeaway",
+  "MoveId": 364,
+  "Description": "$$$    Basic Information:",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 12,
+  "Accuracy": 100
+}

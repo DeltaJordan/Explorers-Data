@@ -1,0 +1,16 @@
+{
+  "Id": "transfer-orb",
+  "Name": "Transfer Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Transforms Pokémon.",
+  "LongDescription": "An item that transforms the target into a different Pokémon.      Range: Enemy in front",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 315,
+  "Param1": 370,
+  "Param2": 0,
+  "Param3": 0
+}

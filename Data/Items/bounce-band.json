@@ -1,0 +1,16 @@
+{
+  "Id": "bounce-band",
+  "Name": "Bounce Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Bounces thrown items back.",
+  "LongDescription": "A held item that makes thrown items bounce straight back from the Pokémon.",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 4,
+  "ItemId": 45,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

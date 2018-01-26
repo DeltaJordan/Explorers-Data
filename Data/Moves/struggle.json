@@ -1,0 +1,11 @@
+{
+  "Id": "struggle",
+  "Name": "Struggle",
+  "MoveId": 352,
+  "Description": "Inflicts damage on the target. But it also inflicts damage on the user in the amount of 1/4 of its maximum HP.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 30,
+  "Type": 1,
+  "BasePP": 1,
+  "Accuracy": 100
+}

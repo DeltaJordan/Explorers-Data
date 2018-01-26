@@ -1,0 +1,11 @@
+{
+  "Id": "surf",
+  "Name": "Surf",
+  "MoveId": 219,
+  "Description": "Inflicts damage on the target. It will inflict double damage on a Diving target.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 30,
+  "Type": 3,
+  "BasePP": 11,
+  "Accuracy": 88
+}

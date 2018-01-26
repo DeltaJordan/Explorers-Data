@@ -1,0 +1,16 @@
+{
+  "Id": "thunderbolt",
+  "Name": "Thunderbolt",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Thunderbolt.",
+  "LongDescription": "Teaches the move Thunderbolt, but won't if the Pokémon knows the move. Move inflicts damage on all enemies within a 1-tile range. It may also afflict the enemies within a 1-tile range with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and can't take action.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 211,
+  "Param1": 129,
+  "Param2": 0,
+  "Param3": 0
+}

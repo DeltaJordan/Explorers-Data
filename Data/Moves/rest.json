@@ -1,0 +1,11 @@
+{
+  "Id": "rest",
+  "Name": "Rest",
+  "MoveId": 232,
+  "Description": "Gives the user a Napping status. A Pokémon with the Napping status falls asleep, then later awakens with all HP restored and status problems healed.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 8,
+  "Accuracy": 125
+}

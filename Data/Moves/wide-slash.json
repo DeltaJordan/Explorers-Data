@@ -1,0 +1,11 @@
+{
+  "Id": "wide-slash",
+  "Name": "Wide Slash",
+  "MoveId": 360,
+  "Description": "Inflicts damage on enemies on the 3 tiles in front of the user--diagonally and directly in front.\nRange: Facing tile and 2 flanking tiles",
+  "Category": 0,
+  "BasePower": 20,
+  "Type": 0,
+  "BasePP": 10,
+  "Accuracy": 88
+}

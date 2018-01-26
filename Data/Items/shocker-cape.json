@@ -1,0 +1,16 @@
+{
+  "Id": "shocker-cape",
+  "Name": "Shocker Cape",
+  "Rarity": 8,
+  "RarityParameter": 172,
+  "ItemCategory": 15,
+  "ShortDescription": "Pichu-specific item.",
+  "LongDescription": "Boosts the maximum PP. Keep it in the Treasure Bag to give its benefit to all of these team members: Pichu, Pikachu, and Raichu.  You can get a Shocker Cape at the Croagunk Swap Shop by swapping: a Pichu Hair, a Pichu Card, and an Express Tag. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 613,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

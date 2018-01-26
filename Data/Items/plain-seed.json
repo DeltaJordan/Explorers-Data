@@ -1,0 +1,16 @@
+{
+  "Id": "plain-seed",
+  "Name": "Plain Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Just an ordinary seed.",
+  "LongDescription": "A food item that has no special effect. It slightly fills the Pokémon's Belly.",
+  "BuyPrice": 6,
+  "SellPrice": 1,
+  "SpriteId": 14,
+  "ItemId": 85,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "wonder-egg",
+  "Name": "Wonder Egg",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "A strangely colored egg.",
+  "LongDescription": "An Egg with bizarre colors that have never been seen before. What could this Egg be?",
+  "BuyPrice": 8000,
+  "SellPrice": 500,
+  "SpriteId": 62,
+  "ItemId": 178,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

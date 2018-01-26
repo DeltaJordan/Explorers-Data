@@ -1,0 +1,16 @@
+{
+  "Id": "clear-silk",
+  "Name": "Clear Silk",
+  "Rarity": 1,
+  "RarityParameter": 6,
+  "ItemCategory": 15,
+  "ShortDescription": "Ice-type-specific item.",
+  "LongDescription": "Slightly boosts the Special Attack and Special Defense of Ice-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Ice-type Pokémon.  Swap a Clear Silk and an Icy Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 40,
+  "ItemId": 526,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

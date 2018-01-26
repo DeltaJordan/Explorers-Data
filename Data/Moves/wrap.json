@@ -1,0 +1,11 @@
+{
+  "Id": "wrap",
+  "Name": "Wrap",
+  "MoveId": 294,
+  "Description": "Gives the user the Wrap status and inflicts the targeted enemy with the Wrapped status. This makes both Pokémon incapable of action.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 88
+}

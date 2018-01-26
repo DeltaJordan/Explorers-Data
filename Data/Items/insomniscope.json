@@ -1,0 +1,16 @@
+{
+  "Id": "insomniscope",
+  "Name": "Insomniscope",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Prevents sleep.",
+  "LongDescription": "A held item that prevents a Sleep status condition, a Nightmare status, a Napping status, or a Yawning status from being inflicted on the Pokémon.",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 13,
+  "ItemId": 28,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "revive-robe",
+  "Name": "Revive Robe",
+  "Rarity": 8,
+  "RarityParameter": 418,
+  "ItemCategory": 15,
+  "ShortDescription": "Deoxys-specific item.",
+  "LongDescription": "Boosts the greater PP consumption forced on enemies by the Pokémon's Pressure ability. Keep it in the Treasure Bag to give its benefit to the team's Deoxys.  It is among the rarest of items, dedicated exclusively to Deoxys, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 57,
+  "ItemId": 492,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

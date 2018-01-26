@@ -1,0 +1,16 @@
+{
+  "Id": "icy-globe",
+  "Name": "Icy Globe",
+  "Rarity": 4,
+  "RarityParameter": 6,
+  "ItemCategory": 15,
+  "ShortDescription": "Ice-type-specific item.",
+  "LongDescription": "Prevents Fire-type moves from damaging Ice-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Ice-type Pokémon.  You can get an Icy Globe at the Croagunk Swap Shop by swapping: a Clear Silk, an Icy Dust, and an Icy Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 529,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

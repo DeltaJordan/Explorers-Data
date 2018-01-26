@@ -1,0 +1,11 @@
+{
+  "Id": "spacial-rend",
+  "Name": "Spacial Rend",
+  "MoveId": 435,
+  "Description": "Inflicts damage on all enemies in the room. It has a high critical-hit rate.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 15,
+  "Type": 15,
+  "BasePP": 5,
+  "Accuracy": 80
+}

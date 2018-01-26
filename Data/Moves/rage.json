@@ -1,0 +1,11 @@
+{
+  "Id": "rage",
+  "Name": "Rage",
+  "MoveId": 19,
+  "Description": "Gives the user an Enraged status, which boosts its Attack by 1 level every time the user takes damage.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

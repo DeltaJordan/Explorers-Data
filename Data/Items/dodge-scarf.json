@@ -1,0 +1,16 @@
+{
+  "Id": "dodge-scarf",
+  "Name": "Dodge Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Evades thrown items.",
+  "LongDescription": "A held item that prevents any thrown item from hitting the Pokémon.",
+  "BuyPrice": 5000,
+  "SellPrice": 500,
+  "SpriteId": 4,
+  "ItemId": 44,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

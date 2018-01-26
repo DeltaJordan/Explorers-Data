@@ -1,0 +1,11 @@
+{
+  "Id": "water-gun",
+  "Name": "Water Gun",
+  "MoveId": 308,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 5,
+  "Type": 3,
+  "BasePP": 17,
+  "Accuracy": 88
+}

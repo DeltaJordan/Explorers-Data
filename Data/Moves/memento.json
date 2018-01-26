@@ -1,0 +1,11 @@
+{
+  "Id": "memento",
+  "Name": "Memento",
+  "MoveId": 43,
+  "Description": "Greatly reduces the Attack and Special Attack of all enemies in the room. It also cuts the user's HP to 1, then warps the user to a different tile on the floor.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 15,
+  "Accuracy": 100
+}

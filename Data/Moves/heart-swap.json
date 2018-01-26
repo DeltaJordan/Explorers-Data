@@ -1,0 +1,11 @@
+{
+  "Id": "heart-swap",
+  "Name": "Heart Swap",
+  "MoveId": 506,
+  "Description": "Swaps any modified stat levels and rates for stats like Attack and Defense with the Pokémon the user is facing.\nRange: Facing Pokémon, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 10,
+  "Accuracy": 100
+}

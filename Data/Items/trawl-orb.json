@@ -1,0 +1,16 @@
+{
+  "Id": "trawl-orb",
+  "Name": "Trawl Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Pulls in all items on the floor.",
+  "LongDescription": "An item that pulls all items on the floor to the user. Beware: if Kecleon has a shop on the floor, pulling items away will be seen as an attempt to steal from Kecleon!   Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 322,
+  "Param1": 377,
+  "Param2": 0,
+  "Param3": 0
+}

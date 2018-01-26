@@ -1,0 +1,16 @@
+{
+  "Id": "mystery-part",
+  "Name": "Mystery Part",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "An enigmatic machine part.",
+  "LongDescription": "A mysterious mechanical part of unknown purpose. It has lain undisturbed for eons, veiled by legendary mystery.",
+  "BuyPrice": 5000,
+  "SellPrice": 1,
+  "SpriteId": 18,
+  "ItemId": 173,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

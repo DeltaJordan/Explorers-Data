@@ -1,0 +1,16 @@
+{
+  "Id": "sunny-orb",
+  "Name": "Sunny Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes the weather sunny.",
+  "LongDescription": "A climate-control item that changes the dungeon floor's weather to a Sunny condition.",
+  "BuyPrice": 70,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 302,
+  "Param1": 223,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "focus-energy",
+  "Name": "Focus Energy",
+  "MoveId": 74,
+  "Description": "Gives the Pokémon that uses this move the Focus Energy status, which raises its critical-hit rate.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 125
+}

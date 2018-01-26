@@ -1,0 +1,16 @@
+{
+  "Id": "captivate",
+  "Name": "Captivate",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Captivate.",
+  "LongDescription": "Teaches the move Captivate, but won't if the Pokémon knows the move. Move reduces the target's Special Attack by 2 levels. Caution: this move affects only enemies that are the opposite gender of the user.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 270,
+  "Param1": 534,
+  "Param2": 8,
+  "Param3": 8
+}

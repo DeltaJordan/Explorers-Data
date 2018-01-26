@@ -1,0 +1,11 @@
+{
+  "Id": "bonemerang",
+  "Name": "Bonemerang",
+  "MoveId": 290,
+  "Description": "Inflicts damage on the target using 2 attacks in a single turn, even at a distance.\nRange: Line of sight",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 9,
+  "BasePP": 14,
+  "Accuracy": 75
+}

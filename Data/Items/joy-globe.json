@@ -1,0 +1,16 @@
+{
+  "Id": "joy-globe",
+  "Name": "Joy Globe",
+  "Rarity": 4,
+  "RarityParameter": 1,
+  "ItemCategory": 15,
+  "ShortDescription": "Normal-type-specific item.",
+  "LongDescription": "Prevents Fighting-type moves from damaging Normal-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Normal-type Pokémon.   You can get a Joy Globe at the Croagunk Swap Shop by swapping: a White Silk, a Normal Dust, and a White Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 15,
+  "ItemId": 509,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

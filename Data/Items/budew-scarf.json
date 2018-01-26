@@ -1,0 +1,16 @@
+{
+  "Id": "budew-scarf",
+  "Name": "Budew Scarf",
+  "Rarity": 8,
+  "RarityParameter": 441,
+  "ItemCategory": 15,
+  "ShortDescription": "Budew-specific item.",
+  "LongDescription": "May restore the PP of one of the Pokémon's moves upon taking damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Budew, Roselia, and Roserade.  Finding a Budew Scarf at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1302,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

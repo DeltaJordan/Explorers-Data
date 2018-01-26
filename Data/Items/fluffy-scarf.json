@@ -1,0 +1,16 @@
+{
+  "Id": "fluffy-scarf",
+  "Name": "Fluffy Scarf",
+  "Rarity": 8,
+  "RarityParameter": 179,
+  "ItemCategory": 15,
+  "ShortDescription": "Flaaffy-specific item.",
+  "LongDescription": "Halves damage received from Special Attacks. Cannot be coupled with Light Screen status. Keep it in the Treasure Bag to give its benefit to all of these team members: Mareep, Flaaffy, and Ampharos.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1141,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

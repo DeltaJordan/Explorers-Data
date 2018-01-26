@@ -1,0 +1,16 @@
+{
+  "Id": "heated-bow",
+  "Name": "Heated Bow",
+  "Rarity": 8,
+  "RarityParameter": 77,
+  "ItemCategory": 15,
+  "ShortDescription": "Ponyta-specific item.",
+  "LongDescription": "During a Sunny condition, boosts Movement Speed by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Ponyta and Rapidash.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1071,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

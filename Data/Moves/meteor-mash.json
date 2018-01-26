@@ -1,0 +1,11 @@
+{
+  "Id": "meteor-mash",
+  "Name": "Meteor Mash",
+  "MoveId": 103,
+  "Description": "Inflicts damage on the target, even at a distance. It may also boost the user's Attack by 1 level.\nRange: Line of sight",
+  "Category": 0,
+  "BasePower": 20,
+  "Type": 17,
+  "BasePP": 9,
+  "Accuracy": 88
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "focus-blast",
+  "Name": "Focus Blast",
+  "MoveId": 454,
+  "Description": "Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 25,
+  "Type": 7,
+  "BasePP": 6,
+  "Accuracy": 80
+}

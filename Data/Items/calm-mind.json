@@ -1,0 +1,16 @@
+{
+  "Id": "calm-mind",
+  "Name": "Calm Mind",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Calm Mind.",
+  "LongDescription": "Teaches the move Calm Mind, but won't if the Pokémon knows the move. Move boosts the user's Special Attack and Special Defense by 1 level.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 191,
+  "Param1": 319,
+  "Param2": 0,
+  "Param3": 0
+}

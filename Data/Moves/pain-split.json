@@ -1,0 +1,11 @@
+{
+  "Id": "pain-split",
+  "Name": "Pain Split",
+  "MoveId": 21,
+  "Description": "Adds the HP of the user and the target, then shares it equally between the two Pokémon.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

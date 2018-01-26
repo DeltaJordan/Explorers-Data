@@ -1,0 +1,16 @@
+{
+  "Id": "aloft-mantle",
+  "Name": "Aloft Mantle",
+  "Rarity": 8,
+  "RarityParameter": 147,
+  "ItemCategory": 15,
+  "ShortDescription": "Dragonair-specific item.",
+  "LongDescription": "Boosts maximum PP. Keep it in the Treasure Bag to give its benefit to all of these team members: Dratini, Dragonair, and Dragonite.  Finding an Aloft Mantle at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 56,
+  "ItemId": 1125,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

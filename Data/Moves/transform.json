@@ -1,0 +1,11 @@
+{
+  "Id": "transform",
+  "Name": "Transform",
+  "MoveId": 282,
+  "Description": "Gives the user a Transformed status, which transforms the user into one of the enemy Pokémon that can appear on the floor.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 1,
+  "Accuracy": 125
+}

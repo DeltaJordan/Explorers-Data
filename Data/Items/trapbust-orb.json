@@ -1,0 +1,16 @@
+{
+  "Id": "trapbust-orb",
+  "Name": "Trapbust Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Destroys traps.",
+  "LongDescription": "An item that destroys all traps in the room with the user.      Range: Room",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 334,
+  "Param1": 389,
+  "Param2": 0,
+  "Param3": 0
+}

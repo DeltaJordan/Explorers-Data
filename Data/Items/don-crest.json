@@ -1,0 +1,16 @@
+{
+  "Id": "don-crest",
+  "Name": "Don-Crest",
+  "Rarity": 7,
+  "RarityParameter": 258,
+  "ItemCategory": 15,
+  "ShortDescription": "Donphan-specific item.",
+  "LongDescription": "Slightly raises Special Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Phanpy and Donphan.  You can get a Don-Crest at the Croagunk Swap Shop if you offer a Donphan Fang and a Donphan Card. What will happen if you bring these three items together...?",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 1012,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

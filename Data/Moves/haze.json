@@ -1,0 +1,11 @@
+{
+  "Id": "haze",
+  "Name": "Haze",
+  "MoveId": 88,
+  "Description": "Resets the Attack, Defense, and all other stats of all Pokémon in the room, whether boosted or reduced.\nRange: All Pokémon in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 6,
+  "BasePP": 13,
+  "Accuracy": 125
+}

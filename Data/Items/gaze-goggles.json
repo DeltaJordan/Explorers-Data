@@ -1,0 +1,16 @@
+{
+  "Id": "gaze-goggles",
+  "Name": "Gaze Goggles",
+  "Rarity": 8,
+  "RarityParameter": 48,
+  "ItemCategory": 15,
+  "ShortDescription": "Venonat-specific item.",
+  "LongDescription": "Earns Exp. Points every time the Pokémon takes damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Venonat and Venomoth.  Finding Gaze Goggles at the Croagunk Swap Shop is very lucky! Make sure you get them before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 13,
+  "ItemId": 1044,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

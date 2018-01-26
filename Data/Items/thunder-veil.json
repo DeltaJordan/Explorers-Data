@@ -1,0 +1,16 @@
+{
+  "Id": "thunder-veil",
+  "Name": "Thunder Veil",
+  "Rarity": 8,
+  "RarityParameter": 145,
+  "ItemCategory": 15,
+  "ShortDescription": "Zapdos-specific item.",
+  "LongDescription": "May prevent the Pokémon from fainting from an enemy's attack or move, instead leaving it with 1 HP. Keep it in the Treasure Bag to give its benefit to the team's Zapdos.  It is among the rarest of items, dedicated exclusively to Zapdos, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 473,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "swagger",
+  "Name": "Swagger",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Swagger.",
+  "LongDescription": "Teaches the move Swagger, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with a Confused status condition and also boosts its Attack by 2 levels.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 279,
+  "Param1": 24,
+  "Param2": 17,
+  "Param3": 17
+}

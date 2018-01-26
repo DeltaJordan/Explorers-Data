@@ -1,0 +1,11 @@
+{
+  "Id": "bounce",
+  "Name": "Bounce",
+  "MoveId": 205,
+  "Description": "Gives the user a Bouncing status, which makes the user bounce up for 1 turn, then try a powerful attack on the next turn. It may also afflict the targeted enemy with a Paralysis status condition. You can't link the Bounce move.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 10,
+  "BasePP": 11,
+  "Accuracy": 100
+}

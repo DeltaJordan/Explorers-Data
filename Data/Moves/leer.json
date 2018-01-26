@@ -1,0 +1,11 @@
+{
+  "Id": "leer",
+  "Name": "Leer",
+  "MoveId": 224,
+  "Description": "Reduces the target's Defense by 1 level.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "stream-charm",
+  "Name": "Stream Charm",
+  "Rarity": 7,
+  "RarityParameter": 326,
+  "ItemCategory": 15,
+  "ShortDescription": "Azumarill-specific item.",
+  "LongDescription": "Slightly boosts Defense and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Azurill, Marill, and Azumarill.  Swap an Azuma-Dew and an Azuma-Card for a Stream Charm at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 868,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

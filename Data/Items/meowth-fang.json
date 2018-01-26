@@ -1,0 +1,16 @@
+{
+  "Id": "meowth-fang",
+  "Name": "Meowth Fang",
+  "Rarity": 6,
+  "RarityParameter": 52,
+  "ItemCategory": 15,
+  "ShortDescription": "Meowth-specific item.",
+  "LongDescription": "Slightly boosts Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Meowth and Persian.  Swap a Meowth Claw and a Meowth Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 32,
+  "ItemId": 623,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

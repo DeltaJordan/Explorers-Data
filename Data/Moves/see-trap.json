@@ -1,0 +1,11 @@
+{
+  "Id": "see-trap",
+  "Name": "See-Trap",
+  "MoveId": 363,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 22,
+  "Accuracy": 100
+}

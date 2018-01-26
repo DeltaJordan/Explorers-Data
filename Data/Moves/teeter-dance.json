@@ -1,0 +1,11 @@
+{
+  "Id": "teeter-dance",
+  "Name": "Teeter Dance",
+  "MoveId": 274,
+  "Description": "Afflicts all the Pokémon in the room with a Confused status condition. A Pokémon with the Confused status will find that its movements and attacks go astray.\nRange: All Pokémon in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "hyper-voice",
+  "Name": "Hyper Voice",
+  "MoveId": 241,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 18,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 90
+}

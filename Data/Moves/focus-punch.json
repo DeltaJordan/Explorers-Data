@@ -1,0 +1,11 @@
+{
+  "Id": "focus-punch",
+  "Name": "Focus Punch",
+  "MoveId": 75,
+  "Description": "Gives the user a Focus Punch status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. You can't link this move.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 55,
+  "Type": 7,
+  "BasePP": 8,
+  "Accuracy": 100
+}

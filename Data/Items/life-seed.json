@@ -1,0 +1,16 @@
+{
+  "Id": "life-seed",
+  "Name": "Life Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Boosts Maximum HP.",
+  "LongDescription": "A food item that slightly boosts the Pokémon's Maximum HP. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 3000,
+  "SellPrice": 300,
+  "SpriteId": 14,
+  "ItemId": 77,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

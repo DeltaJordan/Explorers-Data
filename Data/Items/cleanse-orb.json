@@ -1,0 +1,16 @@
+{
+  "Id": "cleanse-orb",
+  "Name": "Cleanse Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Cleans sticky items.",
+  "LongDescription": "An item that cleans sticky, gunked-up items, restoring them to original condition.     Range: All team members on floor",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 323,
+  "Param1": 378,
+  "Param2": 0,
+  "Param3": 0
+}

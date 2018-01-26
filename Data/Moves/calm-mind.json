@@ -1,0 +1,11 @@
+{
+  "Id": "calm-mind",
+  "Name": "Calm Mind",
+  "MoveId": 319,
+  "Description": "Boosts the user's Special Attack and Special Defense by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 19,
+  "Accuracy": 125
+}

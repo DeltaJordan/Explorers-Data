@@ -1,0 +1,16 @@
+{
+  "Id": "heal-ribbon",
+  "Name": "Heal Ribbon",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Speeds up healing.",
+  "LongDescription": "A held item that speeds up the Pokémon's natural HP healing. Beware: the Pokémon's Belly will go down faster when it holds this item.",
+  "BuyPrice": 6500,
+  "SellPrice": 350,
+  "SpriteId": 4,
+  "ItemId": 17,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "shady-dust",
+  "Name": "Shady Dust",
+  "Rarity": 2,
+  "RarityParameter": 14,
+  "ItemCategory": 15,
+  "ShortDescription": "Ghost-type-specific item.",
+  "LongDescription": "Slightly boosts the Special Attack and Special Defense of Ghost-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Ghost-type Pokémon.  Swap a Purple Silk and a Shady Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 34,
+  "ItemId": 559,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

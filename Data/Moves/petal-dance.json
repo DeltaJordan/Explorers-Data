@@ -1,0 +1,11 @@
+{
+  "Id": "petal-dance",
+  "Name": "Petal Dance",
+  "MoveId": 253,
+  "Description": "Inflicts damage on the target using 2 to 5 attacks in a single turn. But it also afflicts the user with a Confused status condition, making its movements and attacks go astray.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 7,
+  "Type": 4,
+  "BasePP": 9,
+  "Accuracy": 55
+}

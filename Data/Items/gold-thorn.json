@@ -1,0 +1,16 @@
+{
+  "Id": "gold-thorn",
+  "Name": "Gold Thorn",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 0,
+  "ShortDescription": "Hurl to attack enemy.",
+  "LongDescription": "A brilliantly shining thorn crafted from solid gold. It is a fantastically precious item that gives its owner serious bragging rights. When hurled, it flies in a straight line to inflict damage on any Pokémon it hits.",
+  "BuyPrice": 100,
+  "SellPrice": 10,
+  "SpriteId": 59,
+  "ItemId": 9,
+  "Param1": 0,
+  "Param2": 4,
+  "Param3": 7
+}

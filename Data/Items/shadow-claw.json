@@ -1,0 +1,16 @@
+{
+  "Id": "shadow-claw",
+  "Name": "Shadow Claw",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Shadow Claw.",
+  "LongDescription": "Teaches the move Shadow Claw, but won't if the Pokémon knows the move. Move inflicts damage on the target. It has a high critical-hit rate.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 252,
+  "Param1": 476,
+  "Param2": 0,
+  "Param3": 0
+}

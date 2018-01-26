@@ -1,0 +1,11 @@
+{
+  "Id": "iron-head",
+  "Name": "Iron Head",
+  "MoveId": 431,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 17,
+  "BasePP": 12,
+  "Accuracy": 80
+}

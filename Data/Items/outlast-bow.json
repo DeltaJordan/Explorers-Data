@@ -1,0 +1,16 @@
+{
+  "Id": "outlast-bow",
+  "Name": "Outlast Bow",
+  "Rarity": 8,
+  "RarityParameter": 403,
+  "ItemCategory": 15,
+  "ShortDescription": "Shelgon-specific item.",
+  "LongDescription": "Nearly eliminates all damage taken from any explosion. Keep it in the Treasure Bag to give its benefit to all of these team members: Bagon, Shelgon, and Salamence.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1292,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

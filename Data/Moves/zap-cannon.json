@@ -1,0 +1,11 @@
+{
+  "Id": "zap-cannon",
+  "Name": "Zap Cannon",
+  "MoveId": 193,
+  "Description": "Inflicts damage on the target, even at a distance. It also inflicts a Paralysis status. A Pokémon with the Paralysis  status has slowed movement and is incapable of action.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 20,
+  "Type": 5,
+  "BasePP": 9,
+  "Accuracy": 65
+}

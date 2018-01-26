@@ -1,0 +1,11 @@
+{
+  "Id": "u-turn",
+  "Name": "U-turn",
+  "MoveId": 502,
+  "Description": "Inflicts damage on a target up to 2 tiles away.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 14,
+  "Type": 12,
+  "BasePP": 12,
+  "Accuracy": 88
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "moonlight",
+  "Name": "Moonlight",
+  "MoveId": 173,
+  "Description": "Restores the HP of the user and team members on the floor. The HP amount regained depends on the weather.\nRange: Team members on the floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 125
+}

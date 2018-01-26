@@ -1,0 +1,16 @@
+{
+  "Id": "hyper-beam",
+  "Name": "Hyper Beam",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Hyper Beam.",
+  "LongDescription": "Teaches the move Hyper Beam, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. But it also afflicts the user with a Paused status. A Pokémon that has the Paused status is incapable of action.",
+  "BuyPrice": 9000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 202,
+  "Param1": 242,
+  "Param2": 0,
+  "Param3": 0
+}

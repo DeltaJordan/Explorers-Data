@@ -1,0 +1,16 @@
+{
+  "Id": "gravelerock",
+  "Name": "Gravelerock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 1,
+  "ShortDescription": "Throw to attack enemy.",
+  "LongDescription": "A weapon to be thrown. When thrown, it flies high in an arc to clear obstacles and strike the target. It is not affected by Pierce or Long Toss statuses.",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 1,
+  "ItemId": 7,
+  "Param1": 0,
+  "Param2": 3,
+  "Param3": 5
+}

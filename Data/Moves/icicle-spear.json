@@ -1,0 +1,11 @@
+{
+  "Id": "icicle-spear",
+  "Name": "Icicle Spear",
+  "MoveId": 180,
+  "Description": "Inflicts damage on the target using 2 to 5 attacks in a single turn.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 6,
+  "BasePP": 8,
+  "Accuracy": 45
+}

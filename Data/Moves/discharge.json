@@ -1,0 +1,11 @@
+{
+  "Id": "discharge",
+  "Name": "Discharge",
+  "MoveId": 521,
+  "Description": "Inflicts damage on all enemies in the room. It may also afflict enemies in the room with a Paralysis status. A Pokémon with the Paralysis status has slowed movement and can't take action.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 9,
+  "Type": 5,
+  "BasePP": 8,
+  "Accuracy": 70
+}

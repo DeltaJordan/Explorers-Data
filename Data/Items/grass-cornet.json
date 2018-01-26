@@ -1,0 +1,16 @@
+{
+  "Id": "grass-cornet",
+  "Name": "Grass Cornet",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "A festive cornet that is well suited for tunes that carry across grassy fields, rumored to steal hearts of grass. When held by the team leader, it is easier to recruit defeated Grass-type Pokémon to the team.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 7,
+  "ItemId": 64,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

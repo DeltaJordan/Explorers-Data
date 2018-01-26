@@ -1,0 +1,16 @@
+{
+  "Id": "guard-claw",
+  "Name": "Guard Claw",
+  "Rarity": 8,
+  "RarityParameter": 375,
+  "ItemCategory": 15,
+  "ShortDescription": "Anorith-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Anorith and Armaldo.  Finding a Guard Claw at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 39,
+  "ItemId": 1269,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

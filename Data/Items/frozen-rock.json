@@ -1,0 +1,16 @@
+{
+  "Id": "frozen-rock",
+  "Name": "Frozen Rock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "A stone that radiates deep chill, so it is easily mistaken for a chunk of ice. It allows a certain kind of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 61,
+  "ItemId": 165,
+  "Param1": 0,
+  "Param2": 12,
+  "Param3": 12
+}

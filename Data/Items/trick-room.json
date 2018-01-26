@@ -1,0 +1,16 @@
+{
+  "Id": "trick-room",
+  "Name": "Trick Room",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Trick Room.",
+  "LongDescription": "Teaches the move Trick Room, but won't if the Pokémon knows the move. Move boosts and/or reduces the Movement Speed of all Pokémon on the floor by 1 level. The effect is random.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 284,
+  "Param1": 499,
+  "Param2": 22,
+  "Param3": 22
+}

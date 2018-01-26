@@ -1,0 +1,11 @@
+{
+  "Id": "magnitude",
+  "Name": "Magnitude",
+  "MoveId": 296,
+  "Description": "Inflicts random amounts of damage on all Pokémon in the room except the user. It will inflict double damage on a Pokémon with a Digging status.\nRange: All in the room except user",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 9,
+  "BasePP": 15,
+  "Accuracy": 100
+}

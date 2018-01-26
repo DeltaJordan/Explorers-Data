@@ -1,0 +1,16 @@
+{
+  "Id": "no-stick-cap",
+  "Name": "No-Stick Cap",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Keeps items from stickiness.",
+  "LongDescription": "A held item that prevents the Pokémon's items from getting sticky and gunked up by a trap.",
+  "BuyPrice": 8000,
+  "SellPrice": 550,
+  "SpriteId": 4,
+  "ItemId": 21,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

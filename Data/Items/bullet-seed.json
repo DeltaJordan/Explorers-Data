@@ -1,0 +1,16 @@
+{
+  "Id": "bullet-seed",
+  "Name": "Bullet Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Bullet Seed.",
+  "LongDescription": "Teaches the move Bullet Seed, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance, using 2 to 5 attacks during 1 turn.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 196,
+  "Param1": 163,
+  "Param2": 0,
+  "Param3": 0
+}

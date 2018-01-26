@@ -1,0 +1,16 @@
+{
+  "Id": "plasma-veil",
+  "Name": "Plasma Veil",
+  "Rarity": 8,
+  "RarityParameter": 521,
+  "ItemCategory": 15,
+  "ShortDescription": "Rotom-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Paralysis status condition. Keep it in the Treasure Bag to give its benefit to the team's Rotom.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 494,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

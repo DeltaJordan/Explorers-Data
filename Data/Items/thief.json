@@ -1,0 +1,16 @@
+{
+  "Id": "thief",
+  "Name": "Thief",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Thief.",
+  "LongDescription": "Teaches the move Thief, but won't if the Pokémon knows the move. Move inflicts damage on the target. It also snatches the target's held item and makes it the user's, but only if the user is not already holding an item.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 233,
+  "Param1": 214,
+  "Param2": 0,
+  "Param3": 0
+}

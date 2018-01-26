@@ -1,0 +1,11 @@
+{
+  "Id": "psych-up",
+  "Name": "Psych Up",
+  "MoveId": 115,
+  "Description": "The user copies the boosts and reductions of the Attack, Special Attack, Defense, Special Defense, accuracy, and evasiveness of the Pokémon it's facing.\nRange: Facing Pokémon",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 125
+}

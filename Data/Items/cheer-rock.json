@@ -1,0 +1,16 @@
+{
+  "Id": "cheer-rock",
+  "Name": "Cheer Rock",
+  "Rarity": 7,
+  "RarityParameter": 339,
+  "ItemCategory": 15,
+  "ShortDescription": "Plusle-specific item.",
+  "LongDescription": "Earns Pokémon bonus Exp. Points. Keep it in the Treasure Bag to give its benefit to all of these team members: Plusle.  Swap a Plusle Tail and a Plusle Card for a Cheer Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 872,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

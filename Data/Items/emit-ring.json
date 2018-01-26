@@ -1,0 +1,16 @@
+{
+  "Id": "emit-ring",
+  "Name": "Emit Ring",
+  "Rarity": 8,
+  "RarityParameter": 489,
+  "ItemCategory": 15,
+  "ShortDescription": "Riolu-specific item.",
+  "LongDescription": "Increases the damage inflicted on  Ghost-type enemies with Normal- and  Fighting-type moves. Keep it in the Treasure Bag to give its benefit to all of these team members: Riolu and Lucario.  You can get an Emit Ring at the Croagunk Swap Shop by swapping: a Riolu Tail, a Riolu Card, and a Valiant Rock. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 981,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

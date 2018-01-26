@@ -1,0 +1,16 @@
+{
+  "Id": "mobile-scarf",
+  "Name": "Mobile Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Enables movement anywhere.",
+  "LongDescription": "A held item that enables the Pokémon to move and attack through walls and move across inhospitable terrain, such as magma. Beware: the Pokémon's Belly will go down faster while traveling through walls.",
+  "BuyPrice": 8500,
+  "SellPrice": 300,
+  "SpriteId": 4,
+  "ItemId": 16,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

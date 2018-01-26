@@ -1,0 +1,16 @@
+{
+  "Id": "reflect",
+  "Name": "Reflect",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Reflect.",
+  "LongDescription": "Teaches the move Reflect, but won't if the Pokémon knows the move. Move gives the user a Reflect status, halving Physical Attack damage and damage from regular attacks.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 220,
+  "Param1": 338,
+  "Param2": 0,
+  "Param3": 0
+}

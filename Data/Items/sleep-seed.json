@@ -1,0 +1,16 @@
+{
+  "Id": "sleep-seed",
+  "Name": "Sleep Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Induces sleep.",
+  "LongDescription": "A food item that inflicts a Sleep status condition, which makes the user incapable of action. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 70,
+  "SellPrice": 35,
+  "SpriteId": 14,
+  "ItemId": 84,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

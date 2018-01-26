@@ -1,0 +1,16 @@
+{
+  "Id": "hunger-seed",
+  "Name": "Hunger Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Causes hunger.",
+  "LongDescription": "A food item that slightly reduces the Pokémon's maximum Belly size. If it's eaten by someone besides a team leader, the user's status also changes to Hungry Pal. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 14,
+  "ItemId": 79,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

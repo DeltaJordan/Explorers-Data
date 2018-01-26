@@ -1,0 +1,11 @@
+{
+  "Id": "spider-web",
+  "Name": "Spider Web",
+  "MoveId": 86,
+  "Description": "Afflicts the targeted enemy with a Shadow Hold status condition. A Pokémon with the Shadow Hold status is incapable of movement.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 12,
+  "BasePP": 16,
+  "Accuracy": 100
+}

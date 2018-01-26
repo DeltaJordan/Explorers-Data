@@ -1,0 +1,11 @@
+{
+  "Id": "spikes",
+  "Name": "Spikes",
+  "MoveId": 295,
+  "Description": "Turns the user's tile into a Spiked Tile trap. A Spiked Tile trap inflicts damage on enemies that step on it.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 9,
+  "BasePP": 22,
+  "Accuracy": 125
+}

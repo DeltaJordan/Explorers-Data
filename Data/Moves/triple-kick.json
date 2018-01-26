@@ -1,0 +1,11 @@
+{
+  "Id": "triple-kick",
+  "Name": "Triple Kick",
+  "MoveId": 210,
+  "Description": "Inflicts damage on the target using 3 kicks in a single turn. The attack's power rises with every kick.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 8,
+  "Type": 7,
+  "BasePP": 15,
+  "Accuracy": 70
+}

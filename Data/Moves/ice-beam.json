@@ -1,0 +1,11 @@
+{
+  "Id": "ice-beam",
+  "Name": "Ice Beam",
+  "MoveId": 345,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Frozen status condition. A Pokémon with the Frozen status is incapable of action.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 15,
+  "Type": 6,
+  "BasePP": 8,
+  "Accuracy": 88
+}

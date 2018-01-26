@@ -1,0 +1,16 @@
+{
+  "Id": "skill-swap",
+  "Name": "Skill Swap",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Skill Swap.",
+  "LongDescription": "Teaches the move Skill Swap, but won't if the Pokémon knows the move. Move switches the user's ability with that of the target.",
+  "BuyPrice": 7000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 235,
+  "Param1": 137,
+  "Param2": 0,
+  "Param3": 0
+}

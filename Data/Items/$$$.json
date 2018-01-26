@@ -1,0 +1,16 @@
+{
+  "Id": "$$$",
+  "Name": "$$$",
+  "Rarity": 8,
+  "RarityParameter": null,
+  "ItemCategory": 15,
+  "ShortDescription": "$$$",
+  "LongDescription": "The remains of the TM ????? after use. It can be restored to its original state using the move Recycle. Beware: there are some TMs that can't be restored.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 0,
+  "ItemId": 1399,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

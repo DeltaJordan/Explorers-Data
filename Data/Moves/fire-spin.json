@@ -1,0 +1,11 @@
+{
+  "Id": "fire-spin",
+  "Name": "Fire Spin",
+  "MoveId": 291,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status condition. It thaws out frozen Pokémon.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 4,
+  "Type": 2,
+  "BasePP": 19,
+  "Accuracy": 73
+}

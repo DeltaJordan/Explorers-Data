@@ -1,0 +1,16 @@
+{
+  "Id": "iron-tail",
+  "Name": "Iron Tail",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Iron Tail.",
+  "LongDescription": "Teaches the move Iron Tail, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also reduce the target's Defense by 1 level.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 210,
+  "Param1": 1,
+  "Param2": 0,
+  "Param3": 0
+}

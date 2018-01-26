@@ -1,0 +1,16 @@
+{
+  "Id": "totter-seed",
+  "Name": "Totter Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Causes confusion.",
+  "LongDescription": "A food item that inflicts a Confused status condition, which makes the user's movements and attacks go astray. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 60,
+  "SellPrice": 30,
+  "SpriteId": 14,
+  "ItemId": 83,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

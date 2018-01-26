@@ -1,0 +1,16 @@
+{
+  "Id": "prin-card",
+  "Name": "Prin-Card",
+  "Rarity": 6,
+  "RarityParameter": 428,
+  "ItemCategory": 15,
+  "ShortDescription": "Prinplup-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Piplup, Prinplup, and Empoleon.  Swap a Prin-Foam and a Prin-Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 739,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

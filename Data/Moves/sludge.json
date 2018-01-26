@@ -1,0 +1,11 @@
+{
+  "Id": "sludge",
+  "Name": "Sludge",
+  "MoveId": 279,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 8,
+  "BasePP": 15,
+  "Accuracy": 88
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "wonder-gummi",
+  "Name": "Wonder Gummi",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Raises IQ.",
+  "LongDescription": "A food item with a curious texture unlike any other Gummi. It permanently raises the IQ of a team member. It also somewhat fills the Pokémon's Belly.",
+  "BuyPrice": 3500,
+  "SellPrice": 50,
+  "SpriteId": 17,
+  "ItemId": 136,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

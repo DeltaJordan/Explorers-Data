@@ -1,0 +1,11 @@
+{
+  "Id": "taunt",
+  "Name": "Taunt",
+  "MoveId": 172,
+  "Description": "Afflicts the targeted enemy with a Taunted status condition, which restricts a Pokémon to using only moves that inflict damage.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 20,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "meteor-torc",
+  "Name": "Meteor Torc",
+  "Rarity": 8,
+  "RarityParameter": 485,
+  "ItemCategory": 15,
+  "ShortDescription": "Gabite-specific item.",
+  "LongDescription": "Enables the Pokémon to ignore Reflect and Light Screen when attacking. Keep it in the Treasure Bag to give its benefit to all of these team members: Gible, Gabite, and Garchomp.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 973,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "conversion",
+  "Name": "Conversion",
+  "MoveId": 183,
+  "Description": "Changes the user's type into the same type as one of its moves.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 125
+}

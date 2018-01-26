@@ -1,0 +1,16 @@
+{
+  "Id": "sooty-sash",
+  "Name": "Sooty Sash",
+  "Rarity": 8,
+  "RarityParameter": 352,
+  "ItemCategory": 15,
+  "ShortDescription": "Torkoal-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Burn status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Torkoal.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1246,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "barrage",
+  "Name": "Barrage",
+  "MoveId": 168,
+  "Description": "Inflicts damage on the target using 2 to 5 attacks in a single turn.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 1,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 55
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "glameow-bow",
+  "Name": "Glameow Bow",
+  "Rarity": 8,
+  "RarityParameter": 473,
+  "ItemCategory": 15,
+  "ShortDescription": "Glameow-specific item.",
+  "LongDescription": "May afflict an attacking enemy of the opposite gender with an Infatuated status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Glameow and Purugly.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1320,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "nasty-plot",
+  "Name": "Nasty Plot",
+  "MoveId": 542,
+  "Description": "Boosts the user's Special Attack by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 20,
+  "Accuracy": 100
+}

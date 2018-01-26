@@ -1,0 +1,16 @@
+{
+  "Id": "sentret-ruff",
+  "Name": "Sentret Ruff",
+  "Rarity": 8,
+  "RarityParameter": 161,
+  "ItemCategory": 15,
+  "ShortDescription": "Sentret-specific item.",
+  "LongDescription": "During a Cloudy condition, boosts Movement Speed by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Sentret and Furret.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1127,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

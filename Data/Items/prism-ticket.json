@@ -1,0 +1,16 @@
+{
+  "Id": "prism-ticket",
+  "Name": "Prism Ticket",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Win a prize!",
+  "LongDescription": "If you take this Prism Ticket to Wynaut at the Recycle Shop, you can trade it for a chance to win Big Treasure.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 27,
+  "ItemId": 172,
+  "Param1": 0,
+  "Param2": 19,
+  "Param3": 19
+}

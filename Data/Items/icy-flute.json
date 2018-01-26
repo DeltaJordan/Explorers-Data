@@ -1,0 +1,16 @@
+{
+  "Id": "icy-flute",
+  "Name": "Icy Flute",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "An unusual flute that plays notes that are clear as ice, rumored to steal even the iciest of hearts. When held by the team leader, it is easier to recruit defeated Ice-type Pokémon to the team.",
+  "BuyPrice": 5300,
+  "SellPrice": 510,
+  "SpriteId": 7,
+  "ItemId": 59,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

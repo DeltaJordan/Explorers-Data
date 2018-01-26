@@ -1,0 +1,16 @@
+{
+  "Id": "luxray-claw",
+  "Name": "Luxray Claw",
+  "Rarity": 5,
+  "RarityParameter": 438,
+  "ItemCategory": 15,
+  "ShortDescription": "Luxray-specific item.",
+  "LongDescription": "Slightly boosts Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Shinx, Luxio, and Luxray.  Swap a Luxray Claw and a Luxray Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 39,
+  "ItemId": 906,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

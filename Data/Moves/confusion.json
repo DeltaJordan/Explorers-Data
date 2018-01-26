@@ -1,0 +1,11 @@
+{
+  "Id": "confusion",
+  "Name": "Confusion",
+  "MoveId": 234,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Confused status condition, which makes its movements and attacks go astray.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 5,
+  "Type": 11,
+  "BasePP": 22,
+  "Accuracy": 85
+}

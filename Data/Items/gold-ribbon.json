@@ -1,0 +1,16 @@
+{
+  "Id": "gold-ribbon",
+  "Name": "Gold Ribbon",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Can be sold for big money!",
+  "LongDescription": "An item that has no effect even if held by a Pokémon. It can be sold for a good price.",
+  "BuyPrice": 4000,
+  "SellPrice": 2000,
+  "SpriteId": 4,
+  "ItemId": 32,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

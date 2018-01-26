@@ -1,0 +1,16 @@
+{
+  "Id": "u-turn",
+  "Name": "U-turn",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches U-turn.",
+  "LongDescription": "Teaches the move U-turn, but won't if the Pokémon knows the move. Move inflicts damage on a target up to 2 tiles away.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 281,
+  "Param1": 502,
+  "Param2": 19,
+  "Param3": 19
+}

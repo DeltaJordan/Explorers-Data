@@ -1,0 +1,11 @@
+{
+  "Id": "flatter",
+  "Name": "Flatter",
+  "MoveId": 45,
+  "Description": "Afflicts the targeted enemy with a Confused status condition and also boosts its Special Attack by 1 level.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 17,
+  "Accuracy": 100
+}

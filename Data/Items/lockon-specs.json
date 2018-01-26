@@ -1,0 +1,16 @@
+{
+  "Id": "lockon-specs",
+  "Name": "Lockon Specs",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts throwing accuracy.",
+  "LongDescription": "A held item that boosts the Pokémon's accuracy when it throws items at enemies.",
+  "BuyPrice": 4000,
+  "SellPrice": 400,
+  "SpriteId": 13,
+  "ItemId": 49,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

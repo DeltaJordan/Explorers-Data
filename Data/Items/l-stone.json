@@ -1,0 +1,16 @@
+{
+  "Id": "l-stone",
+  "Name": "L-Stone",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Its secret lies in its shape...",
+  "LongDescription": "An odd stone similar to an Unown, shaped like the letter \"L.\"",
+  "BuyPrice": 3000,
+  "SellPrice": 10,
+  "SpriteId": 1,
+  "ItemId": 411,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

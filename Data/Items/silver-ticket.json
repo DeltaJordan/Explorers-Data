@@ -1,0 +1,16 @@
+{
+  "Id": "silver-ticket",
+  "Name": "Silver Ticket",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Win a prize!",
+  "LongDescription": "If you take this Silver Ticket to Wynaut at the Recycle Shop, you can trade it for a chance to win Big Treasure.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 27,
+  "ItemId": 170,
+  "Param1": 0,
+  "Param2": 17,
+  "Param3": 17
+}

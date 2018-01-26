@@ -1,0 +1,16 @@
+{
+  "Id": "eyedrop-seed",
+  "Name": "Eyedrop Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Enhances vision.",
+  "LongDescription": "A food item that grants Eyedrops status, which reveals Pokémon with an Invisible condition and hidden traps. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 60,
+  "SellPrice": 6,
+  "SpriteId": 14,
+  "ItemId": 72,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

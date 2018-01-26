@@ -1,0 +1,16 @@
+{
+  "Id": "zinc",
+  "Name": "Zinc",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Boosts Special Defense.",
+  "LongDescription": "A drink that permanently raises the Pokémon's Special Defense. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 4500,
+  "SellPrice": 450,
+  "SpriteId": 12,
+  "ItemId": 108,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

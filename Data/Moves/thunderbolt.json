@@ -1,0 +1,11 @@
+{
+  "Id": "thunderbolt",
+  "Name": "Thunderbolt",
+  "MoveId": 129,
+  "Description": "Inflicts damage on all enemies within a 1-tile range. It may also afflict the enemies within a 1-tile range with a Paralysis status condition. A Pokémon with the Paralysis status has slowed movement and is incapable of action.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 18,
+  "Type": 5,
+  "BasePP": 10,
+  "Accuracy": 84
+}

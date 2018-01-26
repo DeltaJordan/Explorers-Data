@@ -1,0 +1,11 @@
+{
+  "Id": "roar-of-time",
+  "Name": "Roar of Time",
+  "MoveId": 494,
+  "Description": "Inflicts damage on all enemies in the room with the user. However, it also changes the user's status to Paused, making it incapable of action.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 24,
+  "Type": 15,
+  "BasePP": 4,
+  "Accuracy": 80
+}

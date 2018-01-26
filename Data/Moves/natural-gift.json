@@ -1,0 +1,11 @@
+{
+  "Id": "natural-gift",
+  "Name": "Natural Gift",
+  "MoveId": 471,
+  "Description": "Inflicts damage on the target. The move's type and power will change based on the kind of Berry the user is holding, if any.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 1,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 88
+}

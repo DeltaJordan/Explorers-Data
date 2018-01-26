@@ -1,0 +1,11 @@
+{
+  "Id": "slack-off",
+  "Name": "Slack Off",
+  "MoveId": 218,
+  "Description": "Restores the user's HP by half its maximum HP.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

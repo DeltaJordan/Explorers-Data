@@ -1,0 +1,16 @@
+{
+  "Id": "ground-dust",
+  "Name": "Ground Dust",
+  "Rarity": 2,
+  "RarityParameter": 9,
+  "ItemCategory": 15,
+  "ShortDescription": "Ground-type-specific item.",
+  "LongDescription": "Slightly boosts the Defense and Special Defense of Ground-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Ground-type Pokémon.  Swap a Brown Silk and a Ground Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 34,
+  "ItemId": 539,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

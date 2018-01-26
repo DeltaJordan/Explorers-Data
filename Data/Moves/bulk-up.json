@@ -1,0 +1,11 @@
+{
+  "Id": "bulk-up",
+  "Name": "Bulk Up",
+  "MoveId": 265,
+  "Description": "Boosts the user's Attack and Defense by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 16,
+  "Accuracy": 125
+}

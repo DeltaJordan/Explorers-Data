@@ -1,0 +1,16 @@
+{
+  "Id": "explosion",
+  "Name": "Explosion",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Explosion.",
+  "LongDescription": "Teaches the move Explosion, but won't if the Pokémon knows the move. Move makes the user blow up in a huge explosion inflicting damage on all Pokémon within a 2-tile range. It also destroys all walls and items within range.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 251,
+  "Param1": 155,
+  "Param2": 0,
+  "Param3": 0
+}

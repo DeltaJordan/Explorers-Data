@@ -1,0 +1,16 @@
+{
+  "Id": "life-ring",
+  "Name": "Life Ring",
+  "Rarity": 8,
+  "RarityParameter": 151,
+  "ItemCategory": 15,
+  "ShortDescription": "Mew-specific item.",
+  "LongDescription": "Protects the Pokémon from all status problems. Keep it in the Treasure Bag to give its benefit to the team's Mew.  It is among the rarest of items, dedicated exclusively to Mew, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 54,
+  "ItemId": 476,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

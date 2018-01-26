@@ -1,0 +1,16 @@
+{
+  "Id": "sunglasses",
+  "Name": "Sunglasses",
+  "Rarity": 8,
+  "RarityParameter": 92,
+  "ItemCategory": 15,
+  "ShortDescription": "Gengar-specific item.",
+  "LongDescription": "Absorbs damage from Ghost-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Gastly, Haunter, and Gengar.  Finding Sunglasses at the Croagunk Swap Shop is very lucky! Make sure you get this item before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 13,
+  "ItemId": 1088,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

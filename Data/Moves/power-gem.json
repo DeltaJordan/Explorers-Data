@@ -1,0 +1,11 @@
+{
+  "Id": "power-gem",
+  "Name": "Power Gem",
+  "MoveId": 512,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 13,
+  "BasePP": 15,
+  "Accuracy": 88
+}

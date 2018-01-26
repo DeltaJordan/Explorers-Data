@@ -1,0 +1,16 @@
+{
+  "Id": "slumber-orb",
+  "Name": "Slumber Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Puts enemies to sleep.",
+  "LongDescription": "An item that afflicts all enemies in the room with a Sleep status condition. A Pokémon that has a Sleep status is incapable of action.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 326,
+  "Param1": 381,
+  "Param2": 0,
+  "Param3": 0
+}

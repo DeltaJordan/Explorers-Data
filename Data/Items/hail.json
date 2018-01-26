@@ -1,0 +1,16 @@
+{
+  "Id": "hail",
+  "Name": "Hail",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "$$$",
+  "LongDescription": "$$$  ",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 194,
+  "Param1": 14,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "grass-gem",
+  "Name": "Grass Gem",
+  "Rarity": 3,
+  "RarityParameter": 4,
+  "ItemCategory": 15,
+  "ShortDescription": "Grass-type-specific item.",
+  "LongDescription": "During a Sunny condition, boosts the Movement Speed of Grass-type Pokémon by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Grass-type Pokémon.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 520,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

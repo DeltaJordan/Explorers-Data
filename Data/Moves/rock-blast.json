@@ -1,0 +1,11 @@
+{
+  "Id": "rock-blast",
+  "Name": "Rock Blast",
+  "MoveId": 350,
+  "Description": "Inflicts damage on the target using 2 to 5 attacks in a single turn.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 4,
+  "Type": 13,
+  "BasePP": 10,
+  "Accuracy": 60
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "searing-ring",
+  "Name": "Searing Ring",
+  "Rarity": 8,
+  "RarityParameter": 527,
+  "ItemCategory": 15,
+  "ShortDescription": "Heatran-specific item.",
+  "LongDescription": "Restores the Pokémon's HP fully when it reaches a new floor. Keep it in the Treasure Bag to give its benefit to the team's Heatran.  It is among the rarest of items, dedicated exclusively to Heatran, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 54,
+  "ItemId": 500,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

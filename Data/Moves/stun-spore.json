@@ -1,0 +1,11 @@
+{
+  "Id": "stun-spore",
+  "Name": "Stun Spore",
+  "MoveId": 124,
+  "Description": "Afflicts enemies within a 1-tile range with a Paralysis status condition. A Pokémon with the Paralysis condition has slowed movement and is incapable of action.\nRange: Enemies within 1-tile range",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 4,
+  "BasePP": 17,
+  "Accuracy": 78
+}

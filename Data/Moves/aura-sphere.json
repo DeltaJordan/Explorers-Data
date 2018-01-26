@@ -1,0 +1,11 @@
+{
+  "Id": "aura-sphere",
+  "Name": "Aura Sphere",
+  "MoveId": 508,
+  "Description": "Inflicts damage on the target, even at a distance. It never misses.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 16,
+  "Type": 7,
+  "BasePP": 10,
+  "Accuracy": 125
+}

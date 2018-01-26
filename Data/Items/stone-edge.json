@@ -1,0 +1,16 @@
+{
+  "Id": "stone-edge",
+  "Name": "Stone Edge",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Stone Edge.",
+  "LongDescription": "Teaches the move Stone Edge, but won't if the Pokémon knows the move. Move inflicts damage on the target. It has a high critical-hit rate.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 263,
+  "Param1": 481,
+  "Param2": 1,
+  "Param3": 1
+}

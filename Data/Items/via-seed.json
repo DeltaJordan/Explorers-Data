@@ -1,0 +1,16 @@
+{
+  "Id": "via-seed",
+  "Name": "Via Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Minimizes Def. and Sp. Def.?",
+  "LongDescription": "A food item that causes the user to say, \"See ya!\" and warp elsewhere on the floor. It also somewhat fills the Pokémon's Belly. It is a Lookalike Item for the Vile Seed, so be careful!",
+  "BuyPrice": 350,
+  "SellPrice": 50,
+  "SpriteId": 14,
+  "ItemId": 107,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "sky-attack",
+  "Name": "Sky Attack",
+  "MoveId": 100,
+  "Description": "Gives the user a Sky Attack status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. The attack may afflict the targeted enemy with a Cringe status. You can't link this move.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 50,
+  "Type": 10,
+  "BasePP": 6,
+  "Accuracy": 90
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "rainy-orb",
+  "Name": "Rainy Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Changes the weather to rain.",
+  "LongDescription": "A climate-control item that changes the dungeon floor's weather to a Rain  condition.",
+  "BuyPrice": 70,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 303,
+  "Param1": 12,
+  "Param2": 0,
+  "Param3": 0
+}

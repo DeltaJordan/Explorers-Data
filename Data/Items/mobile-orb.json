@@ -1,0 +1,16 @@
+{
+  "Id": "mobile-orb",
+  "Name": "Mobile Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Enables movement anywhere.",
+  "LongDescription": "An item that gives a Mobile status to the user. A Pokémon with the Mobile status can move through walls and gullies and walk on lava and water.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 348,
+  "Param1": 407,
+  "Param2": 0,
+  "Param3": 0
+}

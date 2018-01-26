@@ -1,0 +1,16 @@
+{
+  "Id": "soothe-globe",
+  "Name": "Soothe Globe",
+  "Rarity": 4,
+  "RarityParameter": 4,
+  "ItemCategory": 15,
+  "ShortDescription": "Grass-type-specific item.",
+  "LongDescription": "Prevents Fire-type moves from damaging Grass-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Grass-type Pokémon.  You can get a Soothe Globe at the Croagunk Swap Shop by swapping: a Grass Silk, a Grass Dust, and a Grass Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 521,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

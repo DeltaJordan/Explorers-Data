@@ -1,0 +1,11 @@
+{
+  "Id": "see-stairs",
+  "Name": "See Stairs",
+  "MoveId": 409,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 22,
+  "Accuracy": 100
+}

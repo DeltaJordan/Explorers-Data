@@ -1,0 +1,16 @@
+{
+  "Id": "sneak-scarf",
+  "Name": "Sneak Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Lets sleeping Pokémon sleep.",
+  "LongDescription": "A held item that prevents the Pokémon from awakening sleeping enemies. It works only on enemies that are asleep from the start.",
+  "BuyPrice": 8000,
+  "SellPrice": 800,
+  "SpriteId": 4,
+  "ItemId": 31,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

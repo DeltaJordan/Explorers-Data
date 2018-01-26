@@ -1,0 +1,16 @@
+{
+  "Id": "payback",
+  "Name": "Payback",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Payback.",
+  "LongDescription": "Teaches the move Payback, but won't if the Pokémon knows the move. Move gives the user a Counter status, reflecting damage from Physical Attacks or a regular attack to the attacking enemy.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 253,
+  "Param1": 472,
+  "Param2": 0,
+  "Param3": 0
+}

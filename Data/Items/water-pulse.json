@@ -1,0 +1,16 @@
+{
+  "Id": "water-pulse",
+  "Name": "Water Pulse",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Water Pulse.",
+  "LongDescription": "Teaches the move Water Pulse, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It may also afflict the target with a Confused status.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 190,
+  "Param1": 310,
+  "Param2": 0,
+  "Param3": 0
+}

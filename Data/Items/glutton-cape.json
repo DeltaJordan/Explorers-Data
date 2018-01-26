@@ -1,0 +1,16 @@
+{
+  "Id": "glutton-cape",
+  "Name": "Glutton Cape",
+  "Rarity": 8,
+  "RarityParameter": 488,
+  "ItemCategory": 15,
+  "ShortDescription": "Munchlax-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Munchlax and Snorlax.  You can get a Glutton Cape at the Croagunk Swap Shop by swapping: a Munch-Drool, a Munch-Claw, and a Tummy Charm. That's the easy way! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 749,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

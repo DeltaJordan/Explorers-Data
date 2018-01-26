@@ -1,0 +1,16 @@
+{
+  "Id": "curve-band",
+  "Name": "Curve Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Makes thrown items curve.",
+  "LongDescription": "A held item that makes thrown items bounce off walls and fly sideways along walls. It has no effect if the Pokémon has a Pierce status or if it throws a rock.",
+  "BuyPrice": 2500,
+  "SellPrice": 250,
+  "SpriteId": 4,
+  "ItemId": 46,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

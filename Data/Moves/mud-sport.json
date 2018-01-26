@@ -1,0 +1,11 @@
+{
+  "Id": "mud-sport",
+  "Name": "Mud Sport",
+  "MoveId": 212,
+  "Description": "Changes the dungeon floor's status to Mud Sport. A floor under the influence of Mud Sport halves the power of all Electric-type moves.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 9,
+  "BasePP": 17,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "jolly-scarf",
+  "Name": "Jolly Scarf",
+  "Rarity": 8,
+  "RarityParameter": 298,
+  "ItemCategory": 15,
+  "ShortDescription": "Lombre-specific item.",
+  "LongDescription": "During a Rain condition, boosts evasiveness by 2 levels. Keep it in the Treasure Bag to give its benefit to all of these team members: Lotad, Lombre, and Ludicolo.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1198,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

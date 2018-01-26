@@ -1,0 +1,11 @@
+{
+  "Id": "charge",
+  "Name": "Charge",
+  "MoveId": 128,
+  "Description": "Gives the user a Charging status, which boosts the power of any Electric-type move used on the next turn. It also boosts the user's Special Defense by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 5,
+  "BasePP": 20,
+  "Accuracy": 100
+}

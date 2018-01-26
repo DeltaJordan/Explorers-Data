@@ -1,0 +1,16 @@
+{
+  "Id": "gabite-scale",
+  "Name": "Gabite Scale",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Heals status problems.",
+  "LongDescription": "A scale taken from Gabite, rumored to be a cure-all for all afflictions. It heals many status problems. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 50,
+  "SellPrice": 1,
+  "SpriteId": 25,
+  "ItemId": 92,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

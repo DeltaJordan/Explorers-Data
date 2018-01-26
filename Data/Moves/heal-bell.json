@@ -1,0 +1,11 @@
+{
+  "Id": "heal-bell",
+  "Name": "Heal Bell",
+  "MoveId": 26,
+  "Description": "Heals all status problems of the user and team members in the room.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 125
+}

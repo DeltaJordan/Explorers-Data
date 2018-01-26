@@ -1,0 +1,16 @@
+{
+  "Id": "oren-berry",
+  "Name": "Oren Berry",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Restores HP...?",
+  "LongDescription": "A food item that deals damage. It also somewhat fills the Pokémon's Belly. It is a Lookalike Item for the Oran Berry, so be careful!",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 2,
+  "ItemId": 117,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

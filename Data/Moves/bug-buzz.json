@@ -1,0 +1,11 @@
+{
+  "Id": "bug-buzz",
+  "Name": "Bug Buzz",
+  "MoveId": 530,
+  "Description": "Inflicts damage on enemies within a 1-tile range. It may also reduce their Special Defense by 1 level.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 16,
+  "Type": 12,
+  "BasePP": 10,
+  "Accuracy": 88
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "fallen-star",
+  "Name": "Fallen Star",
+  "Rarity": 9,
+  "RarityParameter": 173,
+  "ItemCategory": 15,
+  "ShortDescription": "Cleffa-specific item.",
+  "LongDescription": "Raises the chances of finding treasure after defeating enemies. Keep it in the Treasure Bag to give its benefit to all of these team members: Cleffa.  It is an extremely rare item rumored to be held by some baby Cleffa when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 29,
+  "ItemId": 457,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

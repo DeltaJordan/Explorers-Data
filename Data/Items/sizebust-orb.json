@@ -1,0 +1,16 @@
+{
+  "Id": "sizebust-orb",
+  "Name": "Sizebust Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Inflicts damage.",
+  "LongDescription": "A weapon item that inflicts damage on the target. The bigger the target's size, the greater the damage.     Range: Enemy in front",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 341,
+  "Param1": 397,
+  "Param2": 0,
+  "Param3": 0
+}

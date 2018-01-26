@@ -1,0 +1,16 @@
+{
+  "Id": "rare-fossil",
+  "Name": "Rare Fossil",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 1,
+  "ShortDescription": "Throw to attack enemy.",
+  "LongDescription": "A wondrous fossil that seems to brim with prehistoric energy. It is also a throwing weapon. When thrown, it flies high in an arc to clear obstacles and strike the target. It is not affected by Pierce or Long Toss statuses.",
+  "BuyPrice": 3000,
+  "SellPrice": 300,
+  "SpriteId": 55,
+  "ItemId": 10,
+  "Param1": 0,
+  "Param2": 5,
+  "Param3": 7
+}

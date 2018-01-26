@@ -1,0 +1,16 @@
+{
+  "Id": "starry-ore",
+  "Name": "Starry Ore",
+  "Rarity": 7,
+  "RarityParameter": 173,
+  "ItemCategory": 15,
+  "ShortDescription": "Cleffa-specific item.",
+  "LongDescription": "Slightly boosts Special Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Cleffa, Clefairy, and Clefable.  Swap a Cleffa Dew and a Cleffa Card for a Starry Ore at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 772,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

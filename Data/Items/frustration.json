@@ -1,0 +1,16 @@
+{
+  "Id": "frustration",
+  "Name": "Frustration",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Frustration.",
+  "LongDescription": "Teaches the move Frustration, but won't if the Pokémon knows the move. Move inflicts damage on the target. It inflicts greater damage if the user's IQ is low.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 208,
+  "Param1": 328,
+  "Param2": 0,
+  "Param3": 0
+}

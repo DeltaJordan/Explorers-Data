@@ -1,0 +1,11 @@
+{
+  "Id": "shock-wave",
+  "Name": "Shock Wave",
+  "MoveId": 189,
+  "Description": "Inflicts damage on the target, even at a distance. It never misses.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 7,
+  "Type": 5,
+  "BasePP": 8,
+  "Accuracy": 125
+}

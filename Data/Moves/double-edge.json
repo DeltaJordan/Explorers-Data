@@ -1,0 +1,11 @@
+{
+  "Id": "double-edge",
+  "Name": "Double-Edge",
+  "MoveId": 140,
+  "Description": "Inflicts damage on the target, but it also hurts the user.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 20,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 100
+}

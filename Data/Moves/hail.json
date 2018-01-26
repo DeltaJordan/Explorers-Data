@@ -1,0 +1,11 @@
+{
+  "Id": "hail",
+  "Name": "Hail",
+  "MoveId": 14,
+  "Description": "Changes the floor's weather to a Hail condition.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 6,
+  "BasePP": 13,
+  "Accuracy": 125
+}

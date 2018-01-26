@@ -1,0 +1,16 @@
+{
+  "Id": "sky-globe",
+  "Name": "Sky Globe",
+  "Rarity": 4,
+  "RarityParameter": 10,
+  "ItemCategory": 15,
+  "ShortDescription": "Flying-type-specific item.",
+  "LongDescription": "Prevents Electric-type moves from damaging Flying-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Flying-type Pokémon.  You can get a Sky Globe at the Croagunk Swap Shop by swapping: a Sky Silk, a Sky Dust, and a Sky Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 545,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

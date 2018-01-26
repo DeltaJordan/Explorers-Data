@@ -1,0 +1,16 @@
+{
+  "Id": "charge-seal",
+  "Name": "Charge Seal",
+  "Rarity": 7,
+  "RarityParameter": 266,
+  "ItemCategory": 15,
+  "ShortDescription": "Electabuzz-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Elekid, Electabuzz, and Electivire.  Swap an Electa-Claw and an Electa-Fang for a Charge Seal at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 840,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

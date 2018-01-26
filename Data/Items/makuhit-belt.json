@@ -1,0 +1,16 @@
+{
+  "Id": "makuhit-belt",
+  "Name": "Makuhit-Belt",
+  "Rarity": 8,
+  "RarityParameter": 324,
+  "ItemCategory": 15,
+  "ShortDescription": "Makuhita-specific item.",
+  "LongDescription": "Makes the Pokémon counterstrike against Physical Attacks, inflicting the same damage on an attacker. Keep it in the Treasure Bag to give its benefit to all of these team members: Makuhita and Hariyama.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 58,
+  "ItemId": 1223,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

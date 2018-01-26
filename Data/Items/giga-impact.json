@@ -1,0 +1,16 @@
+{
+  "Id": "giga-impact",
+  "Name": "Giga Impact",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Giga Impact.",
+  "LongDescription": "Teaches the move Giga Impact, but won't if the Pokémon knows the move. Move inflicts damage on the targeted enemy. But it also afflicts the user with a Paused status. A Pokémon with the Paused status is incapable of action.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 255,
+  "Param1": 455,
+  "Param2": 0,
+  "Param3": 0
+}

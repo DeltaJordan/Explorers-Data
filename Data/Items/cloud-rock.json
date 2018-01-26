@@ -1,0 +1,16 @@
+{
+  "Id": "cloud-rock",
+  "Name": "Cloud Rock",
+  "Rarity": 7,
+  "RarityParameter": 379,
+  "ItemCategory": 15,
+  "ShortDescription": "Castform-specific item.",
+  "LongDescription": "Nearly eliminates all damage taken from any explosion. Keep it in the Treasure Bag to give its benefit to all of these team members: Castform.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 880,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

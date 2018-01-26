@@ -1,0 +1,16 @@
+{
+  "Id": "ancient-ring",
+  "Name": "Ancient Ring",
+  "Rarity": 8,
+  "RarityParameter": 528,
+  "ItemCategory": 15,
+  "ShortDescription": "Regigigas-specific item.",
+  "LongDescription": "Protects the Pokémon from all status problems. Keep it in the Treasure Bag to give its benefit to the team's Regigigas.  It is among the rarest of items, dedicated exclusively to Regigigas, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 54,
+  "ItemId": 501,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

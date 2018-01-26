@@ -1,0 +1,16 @@
+{
+  "Id": "gravelyrock",
+  "Name": "Gravelyrock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Throw to attack enemy...?",
+  "LongDescription": "The Gravelyrock is a very hard, rock-like candy. When eaten, it somewhat fills the Pokémon's Belly. It permanently raises the IQ of a team member. It only affects Bonsly and Sudowoodo. It is a Lookalike Item for Gravelerock, so be sure to check carefully before using it!",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 1,
+  "ItemId": 137,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "drain-bangle",
+  "Name": "Drain Bangle",
+  "Rarity": 8,
+  "RarityParameter": 280,
+  "ItemCategory": 15,
+  "ShortDescription": "Sceptile-specific item.",
+  "LongDescription": "Absorbs damage from Fire-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Treecko, Grovyle, and Sceptile.  You can get a Drain Bangle at the Croagunk Swap Shop by swapping: a Scept-Claw, a Scept-Card, and a Scept-Seal. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 677,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

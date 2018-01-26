@@ -1,0 +1,16 @@
+{
+  "Id": "volt-heart",
+  "Name": "Volt Heart",
+  "Rarity": 7,
+  "RarityParameter": 340,
+  "ItemCategory": 15,
+  "ShortDescription": "Minun-specific item.",
+  "LongDescription": "Earns the Pokémon bonus Exp. Points. Keep it in the Treasure Bag to give its benefit to all of these team members: Minun  Swap a Minun Tail and a Minun Card for a Volt Heart at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 42,
+  "ItemId": 876,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

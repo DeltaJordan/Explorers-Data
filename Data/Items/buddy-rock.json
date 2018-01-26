@@ -1,0 +1,16 @@
+{
+  "Id": "buddy-rock",
+  "Name": "Buddy Rock",
+  "Rarity": 7,
+  "RarityParameter": 174,
+  "ItemCategory": 15,
+  "ShortDescription": "Wigglytuff-specific item.",
+  "LongDescription": "Slightly boosts Defense and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Igglybuff, Jigglypuff, and Wigglytuff.  Swap a Wiggly-Hair and a Wiggly-Card for a Buddy Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 792,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "sweet-aroma",
+  "Name": "Sweet Aroma",
+  "Rarity": 7,
+  "RarityParameter": 459,
+  "ItemCategory": 15,
+  "ShortDescription": "Cherrim-specific item.",
+  "LongDescription": "Slightly boosts Defense and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Cherubi and Cherrim.  Swap a Cherrim Dew and a Cherrim Card for a Sweet Aroma at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 35,
+  "ItemId": 936,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

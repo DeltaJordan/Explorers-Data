@@ -1,0 +1,16 @@
+{
+  "Id": "golden-mask",
+  "Name": "Golden Mask",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "A legendary mask, rumored to be from a long-lost civilization. It has a beautiful glow that stirs up the emotions of all who see it. When held by the team leader, it is easier to recruit defeated Pokémon to the team.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 60,
+  "ItemId": 57,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

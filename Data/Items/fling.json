@@ -1,0 +1,16 @@
+{
+  "Id": "fling",
+  "Name": "Fling",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Fling.",
+  "LongDescription": "Teaches the move Fling, but won't if the Pokémon knows the move. Move hurls the target at another enemy Pokémon to inflict damage.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 243,
+  "Param1": 503,
+  "Param2": 0,
+  "Param3": 0
+}

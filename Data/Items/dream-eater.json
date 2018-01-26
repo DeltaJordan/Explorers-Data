@@ -1,0 +1,16 @@
+{
+  "Id": "dream-eater",
+  "Name": "Dream Eater",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Dream Eater.",
+  "LongDescription": "Teaches the move Dream Eater, but won't if the Pokémon knows the move. Move inflicts damage on the target, then restores the user's HP based on the damage inflicted. It is effective only on sleeping enemies.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 277,
+  "Param1": 331,
+  "Param2": 15,
+  "Param3": 15
+}

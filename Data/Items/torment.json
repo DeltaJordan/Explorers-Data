@@ -1,0 +1,16 @@
+{
+  "Id": "torment",
+  "Name": "Torment",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Torment.",
+  "LongDescription": "Teaches the move Torment, but won't if the Pokémon knows the move. Move prevents the target from using the last move it used. The effect persists as long as the target remains on the floor.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 228,
+  "Param1": 22,
+  "Param2": 0,
+  "Param3": 0
+}

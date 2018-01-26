@@ -1,0 +1,16 @@
+{
+  "Id": "heal-dew",
+  "Name": "Heal Dew",
+  "Rarity": 9,
+  "RarityParameter": 500,
+  "ItemCategory": 15,
+  "ShortDescription": "Mantyke-specific item.",
+  "LongDescription": "Speeds up the Pokémon's natural HP healing. Keep it in the Treasure Bag to give its benefit to all of these team members: Mantyke.  It is an extremely rare item rumored to be held by some baby Mantyke when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 35,
+  "ItemId": 470,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

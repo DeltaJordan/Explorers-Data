@@ -1,0 +1,16 @@
+{
+  "Id": "doom-seed",
+  "Name": "Doom Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Lowers level by 1.",
+  "LongDescription": "A food item that reduces the Pokémon's level by 1. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 20,
+  "SellPrice": 2,
+  "SpriteId": 14,
+  "ItemId": 75,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

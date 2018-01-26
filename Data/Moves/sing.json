@@ -1,0 +1,11 @@
+{
+  "Id": "sing",
+  "Name": "Sing",
+  "MoveId": 34,
+  "Description": "Afflicts the targeted enemy with a Sleep status condition. A Pokémon with the Sleep status is incapable of action.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 13,
+  "Accuracy": 84
+}

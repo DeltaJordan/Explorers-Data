@@ -1,0 +1,11 @@
+{
+  "Id": "regular-attack",
+  "Name": "regular attack",
+  "MoveId": 355,
+  "Description": "$$$    Basic Information:",
+  "Category": 0,
+  "BasePower": 1,
+  "Type": 0,
+  "BasePP": 17,
+  "Accuracy": 93
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "aerial-ace",
+  "Name": "Aerial Ace",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Aerial Ace.",
+  "LongDescription": "Teaches the move Aerial Ace, but won't if the Pokémon knows the move. Move inflicts damage on the target. It never misses.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 227,
+  "Param1": 179,
+  "Param2": 0,
+  "Param3": 0
+}

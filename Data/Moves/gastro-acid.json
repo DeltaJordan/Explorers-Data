@@ -1,0 +1,11 @@
+{
+  "Id": "gastro-acid",
+  "Name": "Gastro Acid",
+  "MoveId": 438,
+  "Description": "Afflicts the targeted enemy with a Gastro Acid status condition. A Pokémon with the Gastro Acid status loses the benefit of its ability.\nRange: Facing Pokémon, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 8,
+  "BasePP": 16,
+  "Accuracy": 100
+}

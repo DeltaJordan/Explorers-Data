@@ -1,0 +1,11 @@
+{
+  "Id": "pay-day",
+  "Name": "Pay Day",
+  "MoveId": 228,
+  "Description": "Inflicts damage on the target. The enemy will drop money if it faints.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 8,
+  "Type": 1,
+  "BasePP": 16,
+  "Accuracy": 90
+}

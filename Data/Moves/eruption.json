@@ -1,0 +1,11 @@
+{
+  "Id": "eruption",
+  "Name": "Eruption",
+  "MoveId": 278,
+  "Description": "Inflicts damage on the target. The higher the user's HP, the greater the damage. It thaws out frozen Pokémon.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 40,
+  "Type": 2,
+  "BasePP": 6,
+  "Accuracy": 84
+}

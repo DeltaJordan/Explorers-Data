@@ -1,0 +1,11 @@
+{
+  "Id": "knock-off",
+  "Name": "Knock Off",
+  "MoveId": 249,
+  "Description": "Knocks the target's held item to the ground.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 22,
+  "Accuracy": 100
+}

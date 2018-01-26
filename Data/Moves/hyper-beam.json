@@ -1,0 +1,11 @@
+{
+  "Id": "hyper-beam",
+  "Name": "Hyper Beam",
+  "MoveId": 242,
+  "Description": "Inflicts damage on the target, even at a distance, but it also afflicts the user with a Paused status condition. A Pokémon with the Paused status is incapable of action.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 30,
+  "Type": 1,
+  "BasePP": 8,
+  "Accuracy": 90
+}

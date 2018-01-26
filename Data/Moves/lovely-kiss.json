@@ -1,0 +1,11 @@
+{
+  "Id": "lovely-kiss",
+  "Name": "Lovely Kiss",
+  "MoveId": 4,
+  "Description": "Afflicts all enemies within a 1-tile range with a Sleep status condition. A Pokémon with the Sleep status is incapable of action.\nRange: Enemies within 1-tile range",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 11,
+  "Accuracy": 78
+}

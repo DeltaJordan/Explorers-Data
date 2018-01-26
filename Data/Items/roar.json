@@ -1,0 +1,16 @@
+{
+  "Id": "roar",
+  "Name": "Roar",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Roar.",
+  "LongDescription": "Teaches the move Roar, but won't if the Pokémon knows the move. Move knocks the target flying. If the target hits a wall or another Pokémon, it sustains damage.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 192,
+  "Param1": 284,
+  "Param2": 0,
+  "Param3": 0
+}

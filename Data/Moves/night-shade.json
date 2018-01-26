@@ -1,0 +1,11 @@
+{
+  "Id": "night-shade",
+  "Name": "Night Shade",
+  "MoveId": 216,
+  "Description": "Inflicts damage on all enemies within a 1-tile range. The amount of damage is equal to the user's level.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 14,
+  "BasePP": 8,
+  "Accuracy": 100
+}

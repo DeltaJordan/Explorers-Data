@@ -1,0 +1,16 @@
+{
+  "Id": "magneton-bow",
+  "Name": "Magneton Bow",
+  "Rarity": 8,
+  "RarityParameter": 81,
+  "ItemCategory": 15,
+  "ShortDescription": "Magneton-specific item.",
+  "LongDescription": "During a Cloudy condition, boosts evasiveness by 2 levels. Keep it in the Treasure Bag to give its benefit to all of these team members: Magnemite, Magneton, and Magnezone.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1076,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

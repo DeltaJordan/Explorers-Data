@@ -1,0 +1,16 @@
+{
+  "Id": "warp-scarf",
+  "Name": "Warp Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Occasionally warps holder.",
+  "LongDescription": "A held item that occasionally warps the Pokémon to another place on the floor.",
+  "BuyPrice": 1200,
+  "SellPrice": 120,
+  "SpriteId": 4,
+  "ItemId": 29,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

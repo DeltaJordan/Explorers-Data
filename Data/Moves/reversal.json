@@ -1,0 +1,11 @@
+{
+  "Id": "reversal",
+  "Name": "Reversal",
+  "MoveId": 77,
+  "Description": "Inflicts damage on the target. The lower the user's HP, the greater the damage it inflicts.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 7,
+  "BasePP": 12,
+  "Accuracy": 90
+}

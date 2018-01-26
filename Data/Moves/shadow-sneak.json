@@ -1,0 +1,11 @@
+{
+  "Id": "shadow-sneak",
+  "Name": "Shadow Sneak",
+  "MoveId": 451,
+  "Description": "Inflicts damage on a target up to 2 tiles away.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 4,
+  "Type": 14,
+  "BasePP": 16,
+  "Accuracy": 88
+}

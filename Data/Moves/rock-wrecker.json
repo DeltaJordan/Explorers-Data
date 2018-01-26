@@ -1,0 +1,11 @@
+{
+  "Id": "rock-wrecker",
+  "Name": "Rock Wrecker",
+  "MoveId": 453,
+  "Description": "Inflicts damage on the target, even at a distance. But it also afflicts the user with a Paused status condition. A Pokémon with the Paused status is incapable of action.\nRange: Line of sight",
+  "Category": 0,
+  "BasePower": 28,
+  "Type": 13,
+  "BasePP": 7,
+  "Accuracy": 88
+}

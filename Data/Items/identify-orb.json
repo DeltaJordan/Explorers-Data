@@ -1,0 +1,16 @@
+{
+  "Id": "identify-orb",
+  "Name": "Identify Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Indicates held items.",
+  "LongDescription": "A sensor item that indicates if the Pokémon on the floor are holding items or not.     Range: All Pokémon on floor",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 338,
+  "Param1": 393,
+  "Param2": 0,
+  "Param3": 0
+}

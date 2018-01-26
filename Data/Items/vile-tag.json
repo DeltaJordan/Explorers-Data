@@ -1,0 +1,16 @@
+{
+  "Id": "vile-tag",
+  "Name": "Vile Tag",
+  "Rarity": 7,
+  "RarityParameter": 242,
+  "ItemCategory": 15,
+  "ShortDescription": "Weavile-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Sneasel and Weavile.  Swap a Weavile Claw and a Weavile Fang for a Vile Tag at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 812,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

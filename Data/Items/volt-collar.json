@@ -1,0 +1,16 @@
+{
+  "Id": "volt-collar",
+  "Name": "Volt Collar",
+  "Rarity": 10,
+  "RarityParameter": 135,
+  "ItemCategory": 15,
+  "ShortDescription": "Jolteon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Paralysis status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Jolteon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 446,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

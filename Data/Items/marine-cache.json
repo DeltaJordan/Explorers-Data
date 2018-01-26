@@ -1,0 +1,16 @@
+{
+  "Id": "marine-cache",
+  "Name": "Marine Cache",
+  "Rarity": 9,
+  "RarityParameter": 531,
+  "ItemCategory": 15,
+  "ShortDescription": "Phione-specific item.",
+  "LongDescription": "Heals the Pokémon's status problems when it enters watery terrain. Keep it in the Treasure Bag to give its benefit to all of these team members: Phione.  It is an extremely rare item rumored to be held by Phione when it hatches from its Egg.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 49,
+  "ItemId": 471,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

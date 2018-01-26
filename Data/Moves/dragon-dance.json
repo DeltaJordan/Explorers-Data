@@ -1,0 +1,11 @@
+{
+  "Id": "dragon-dance",
+  "Name": "Dragon Dance",
+  "MoveId": 343,
+  "Description": "Boosts the user's Attack and Movement Speed by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 15,
+  "BasePP": 22,
+  "Accuracy": 125
+}

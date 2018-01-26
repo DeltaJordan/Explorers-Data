@@ -1,0 +1,16 @@
+{
+  "Id": "rouse-charm",
+  "Name": "Rouse Charm",
+  "Rarity": 7,
+  "RarityParameter": 456,
+  "ItemCategory": 15,
+  "ShortDescription": "Pachirisu-specific item.",
+  "LongDescription": "Protects the Pokémon from a Confused status. Keep it in the Treasure Bag to give its benefit to all of these team members: Pachirisu.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 912,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "fire-fang",
+  "Name": "Fire Fang",
+  "MoveId": 522,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition or a Cringe status. It thaws out frozen Pokémon.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 2,
+  "BasePP": 13,
+  "Accuracy": 88
+}

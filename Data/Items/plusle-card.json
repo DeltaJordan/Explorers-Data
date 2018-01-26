@@ -1,0 +1,16 @@
+{
+  "Id": "plusle-card",
+  "Name": "Plusle Card",
+  "Rarity": 6,
+  "RarityParameter": 339,
+  "ItemCategory": 15,
+  "ShortDescription": "Plusle-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Plusle.  Swap a Plusle Tail and a Plusle Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 871,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

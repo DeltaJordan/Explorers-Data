@@ -1,0 +1,16 @@
+{
+  "Id": "counter-ruff",
+  "Name": "Counter Ruff",
+  "Rarity": 10,
+  "RarityParameter": 106,
+  "ItemCategory": 15,
+  "ShortDescription": "Hitmonlee-specific item.",
+  "LongDescription": "Makes the Pokémon counterstrike against Physical Attacks, inflicting the same damage on an attacker. Keep it in the Treasure Bag to give its benefit to all of these team members: Hitmonlee.",
+  "BuyPrice": 3000,
+  "SellPrice": 100,
+  "SpriteId": 37,
+  "ItemId": 453,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

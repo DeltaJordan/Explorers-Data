@@ -1,0 +1,16 @@
+{
+  "Id": "dropeye-seed",
+  "Name": "Dropeye Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Enhances vision...?",
+  "LongDescription": "A food item that gives the Dropeye status, where the immediate surrounding area will be dark, even in rooms. It also somewhat fills the Pokémon's Belly. It is a Lookalike Item for the Eyedrop Seed.",
+  "BuyPrice": 60,
+  "SellPrice": 6,
+  "SpriteId": 14,
+  "ItemId": 104,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

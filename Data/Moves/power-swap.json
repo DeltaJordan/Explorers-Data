@@ -1,0 +1,11 @@
+{
+  "Id": "power-swap",
+  "Name": "Power Swap",
+  "MoveId": 513,
+  "Description": "Swaps any modified stat levels and rates for Attack and Special Attack with the Pokémon the user is facing.\nRange: Facing Pokémon, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 13,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "stealth-rock",
+  "Name": "Stealth Rock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Stealth Rock.",
+  "LongDescription": "Teaches the move Stealth Rock, but won't if the Pokémon knows the move. Move turns the tile underneath the user into a Stealth Rock trap. A Stealth Rock trap is invisible when created and inflicts damage on Pokémon that step on it.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 268,
+  "Param1": 480,
+  "Param2": 6,
+  "Param3": 6
+}

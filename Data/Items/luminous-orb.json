@@ -1,0 +1,16 @@
+{
+  "Id": "luminous-orb",
+  "Name": "Luminous Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes the floor map visible.",
+  "LongDescription": "A mapping item that reveals the entire floor.      Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 318,
+  "Param1": 373,
+  "Param2": 0,
+  "Param3": 0
+}

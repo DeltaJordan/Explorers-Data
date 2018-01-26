@@ -1,0 +1,16 @@
+{
+  "Id": "pounce-orb",
+  "Name": "Pounce Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes user leap to a wall.",
+  "LongDescription": "An item that makes the user pounce toward the first Pokémon in its line of sight, no matter how distant. If there are no Pokémon in that direction, the user leaps to the wall.   Range: Special",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 321,
+  "Param1": 376,
+  "Param2": 0,
+  "Param3": 0
+}

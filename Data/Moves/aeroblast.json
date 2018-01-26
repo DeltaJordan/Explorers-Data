@@ -1,0 +1,11 @@
+{
+  "Id": "aeroblast",
+  "Name": "Aeroblast",
+  "MoveId": 353,
+  "Description": "Inflicts damage on the target, even at a distance. It has a high critical-hit rate.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 20,
+  "Type": 10,
+  "BasePP": 12,
+  "Accuracy": 84
+}

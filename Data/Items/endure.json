@@ -1,0 +1,16 @@
+{
+  "Id": "endure",
+  "Name": "Endure",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Endure.",
+  "LongDescription": "Teaches the move Endure, but won't if the Pokémon knows the move. Move gives the user an Enduring status. A Pokémon with the Enduring status will survive any attack or move that would normally make it faint. It will hang on with only 1 HP.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 245,
+  "Param1": 104,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "me-first",
+  "Name": "Me First",
+  "MoveId": 465,
+  "Description": "Causes the user to unleash a  random move drawn from the  facing Pokémon's move list.  The move's power is boosted  for greater damage. The move  fails if the Pokémon has no  damage-dealing moves.\nRange: Facing Pokémon",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

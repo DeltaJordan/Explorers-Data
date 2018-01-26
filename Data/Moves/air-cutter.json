@@ -1,0 +1,11 @@
+{
+  "Id": "air-cutter",
+  "Name": "Air Cutter",
+  "MoveId": 36,
+  "Description": "Inflicts damage on the target. It has a high critical-hit rate.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 2,
+  "Type": 10,
+  "BasePP": 17,
+  "Accuracy": 90
+}

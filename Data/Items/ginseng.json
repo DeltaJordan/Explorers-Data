@@ -1,0 +1,16 @@
+{
+  "Id": "ginseng",
+  "Name": "Ginseng",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Powers up the topmost move.",
+  "LongDescription": "A drink that boosts the power of whatever move the user currently has at the top of their Moves Menu. This drink won't affect certain kinds of moves, so be careful! It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 6000,
+  "SellPrice": 600,
+  "SpriteId": 12,
+  "ItemId": 88,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

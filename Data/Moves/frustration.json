@@ -1,0 +1,11 @@
+{
+  "Id": "frustration",
+  "Name": "Frustration",
+  "MoveId": 328,
+  "Description": "Inflicts damage on the target. It inflicts greater damage if the user's IQ is low.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 16,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "pierce-band",
+  "Name": "Pierce Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Makes thrown items pierce.",
+  "LongDescription": "A held item that makes the Pokémon's thrown items pierce through all targets, walls, and obstacles without stopping. It has no effect on thrown rocks.",
+  "BuyPrice": 8000,
+  "SellPrice": 600,
+  "SpriteId": 4,
+  "ItemId": 22,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

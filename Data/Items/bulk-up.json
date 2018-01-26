@@ -1,0 +1,16 @@
+{
+  "Id": "bulk-up",
+  "Name": "Bulk Up",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Bulk Up.",
+  "LongDescription": "Teaches the move Bulk Up, but won't if the Pokémon knows the move. Move boosts the user's Attack and Defense by 1 level.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 195,
+  "Param1": 265,
+  "Param2": 0,
+  "Param3": 0
+}

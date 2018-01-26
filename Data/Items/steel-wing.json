@@ -1,0 +1,16 @@
+{
+  "Id": "steel-wing",
+  "Name": "Steel Wing",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Steel Wing.",
+  "LongDescription": "Teaches the move Steel Wing, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also boost the user's Defense by 1 level.",
+  "BuyPrice": 7000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 234,
+  "Param1": 244,
+  "Param2": 0,
+  "Param3": 0
+}

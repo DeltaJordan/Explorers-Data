@@ -1,0 +1,11 @@
+{
+  "Id": "toxic-spikes",
+  "Name": "Toxic Spikes",
+  "MoveId": 496,
+  "Description": "Turns the user's tile into a Toxic Spikes trap. A Toxic Spikes trap inflicts damage on enemies that step on it and inflicts them with a Poisoned status.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 8,
+  "BasePP": 18,
+  "Accuracy": 100
+}

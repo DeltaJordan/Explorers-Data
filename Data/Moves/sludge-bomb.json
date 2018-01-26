@@ -1,0 +1,11 @@
+{
+  "Id": "sludge-bomb",
+  "Name": "Sludge Bomb",
+  "MoveId": 280,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 18,
+  "Type": 8,
+  "BasePP": 10,
+  "Accuracy": 84
+}

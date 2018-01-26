@@ -1,0 +1,16 @@
+{
+  "Id": "totter-orb",
+  "Name": "Totter Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes enemies confused.",
+  "LongDescription": "An item that afflicts all enemies in the room with a Confused status condition. A Pokémon with the Confused status will find that its movements and attacks go astray.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 327,
+  "Param1": 382,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "false-swipe",
+  "Name": "False Swipe",
+  "MoveId": 314,
+  "Description": "Inflicts damage on the target but leaves it with 1 HP if its damage would have made the target faint.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 40,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 100
+}

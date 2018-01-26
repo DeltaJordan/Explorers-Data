@@ -1,0 +1,16 @@
+{
+  "Id": "decoy-orb",
+  "Name": "Decoy Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Turns an enemy into a decoy.",
+  "LongDescription": "An item that afflicts the enemy with a Decoy status condition. The target with a Decoy status is transformed into a decoy that also attracts the attacks of its own allies.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 325,
+  "Param1": 380,
+  "Param2": 0,
+  "Param3": 0
+}

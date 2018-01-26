@@ -1,0 +1,16 @@
+{
+  "Id": "twist-band",
+  "Name": "Twist Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Maintains Atk. and Sp. Atk.",
+  "LongDescription": "A held item that prevents the Pokémon's Attack and Special Attack from being reduced. However, it does not protect against reductions that are due to the holder's moves, such as Overheat.",
+  "BuyPrice": 3500,
+  "SellPrice": 400,
+  "SpriteId": 4,
+  "ItemId": 18,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

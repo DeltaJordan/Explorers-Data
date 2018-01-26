@@ -1,0 +1,11 @@
+{
+  "Id": "drain-punch",
+  "Name": "Drain Punch",
+  "MoveId": 500,
+  "Description": "Inflicts damage on the target, then restores the user's HP based on the damage inflicted.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 13,
+  "Type": 7,
+  "BasePP": 8,
+  "Accuracy": 88
+}

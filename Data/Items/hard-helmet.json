@@ -1,0 +1,16 @@
+{
+  "Id": "hard-helmet",
+  "Name": "Hard Helmet",
+  "Rarity": 8,
+  "RarityParameter": 443,
+  "ItemCategory": 15,
+  "ShortDescription": "Cranidos-specific item.",
+  "LongDescription": "Enables the Pokémon to ignore Reflect and Light Screen when attacking. Keep it in the Treasure Bag to give its benefit to all of these team members: Cranidos and Rampardos.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 1304,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "huge-apple",
+  "Name": "Huge Apple",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Completely fills the Belly.",
+  "LongDescription": "A food item that completely fills the Pokémon's Belly. It also slightly enlarges the Pokémon's Belly size.",
+  "BuyPrice": 450,
+  "SellPrice": 10,
+  "SpriteId": 3,
+  "ItemId": 112,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

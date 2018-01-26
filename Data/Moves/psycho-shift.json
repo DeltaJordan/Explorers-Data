@@ -1,0 +1,11 @@
+{
+  "Id": "psycho-shift",
+  "Name": "Psycho Shift",
+  "MoveId": 464,
+  "Description": "Transfers the user's status problems to the Pokémon it is facing, which heals the user's status problems.\nRange: Facing Pokémon",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 10,
+  "Accuracy": 100
+}

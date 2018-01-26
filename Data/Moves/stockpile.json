@@ -1,0 +1,11 @@
+{
+  "Id": "stockpile",
+  "Name": "Stockpile",
+  "MoveId": 160,
+  "Description": "Boosts the user's Defense and Special Defense. It also stores power that can be used to boost the power of the moves Spit Up and Swallow. You can stockpile power up to 3 times.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 125
+}

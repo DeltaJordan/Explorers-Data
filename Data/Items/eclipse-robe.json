@@ -1,0 +1,16 @@
+{
+  "Id": "eclipse-robe",
+  "Name": "Eclipse Robe",
+  "Rarity": 8,
+  "RarityParameter": 533,
+  "ItemCategory": 15,
+  "ShortDescription": "Darkrai-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Nightmare status condition. Keep it in the Treasure Bag to give its benefit to the team's Darkrai.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 57,
+  "ItemId": 505,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

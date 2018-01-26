@@ -1,0 +1,16 @@
+{
+  "Id": "false-swipe",
+  "Name": "False Swipe",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches False Swipe.",
+  "LongDescription": "Teaches the move False Swipe, but won't if the Pokémon knows the move. Move inflicts damage on the target but leaves it with 1 HP if its damage would have made the target faint.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 241,
+  "Param1": 314,
+  "Param2": 0,
+  "Param3": 0
+}

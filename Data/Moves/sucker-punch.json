@@ -1,0 +1,11 @@
+{
+  "Id": "sucker-punch",
+  "Name": "Sucker Punch",
+  "MoveId": 515,
+  "Description": "Inflicts damage on a target up to 2 tiles away.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 15,
+  "Type": 16,
+  "BasePP": 7,
+  "Accuracy": 88
+}

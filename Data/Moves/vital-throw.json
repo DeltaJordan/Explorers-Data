@@ -1,0 +1,11 @@
+{
+  "Id": "vital-throw",
+  "Name": "Vital Throw",
+  "MoveId": 7,
+  "Description": "Gives the Pokémon that uses this move the Vital Throw status, which causes enemies that attack the user to be hurled at other enemies.\nRange: User",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 17,
+  "Accuracy": 100
+}

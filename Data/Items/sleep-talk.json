@@ -1,0 +1,16 @@
+{
+  "Id": "sleep-talk",
+  "Name": "Sleep Talk",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Sleep Talk.",
+  "LongDescription": "Teaches the move Sleep Talk, but won't if the Pokémon knows the move. Move makes the user randomly use one of its moves against an enemy that attacks it while sleeping. This move has no effect if the Pokémon is awake.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 274,
+  "Param1": 227,
+  "Param2": 12,
+  "Param3": 12
+}

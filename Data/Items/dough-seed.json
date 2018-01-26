@@ -1,0 +1,16 @@
+{
+  "Id": "dough-seed",
+  "Name": "Dough Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Lowers level by 1...?",
+  "LongDescription": "A food item that makes more  appear on the next floor. It also somewhat fills the Pokémon's Belly. It is a Lookalike Item for the Doom Seed, but this is one mistake you'll be very happy to make!",
+  "BuyPrice": 20,
+  "SellPrice": 2,
+  "SpriteId": 14,
+  "ItemId": 118,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

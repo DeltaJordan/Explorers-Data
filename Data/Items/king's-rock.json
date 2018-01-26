@@ -1,0 +1,16 @@
+{
+  "Id": "king's-rock",
+  "Name": "King's Rock",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "An impressive icon that conveys a kingly nobility. It allows certain kinds of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 5,
+  "ItemId": 140,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "shocker-orb",
+  "Name": "Shocker Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes an enemy cower.",
+  "LongDescription": "An item that afflicts a distant target with a Cowering status condition. A Pokémon with the Cowering status will find that its attacks go in the opposite direction of its aim.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 340,
+  "Param1": 396,
+  "Param2": 0,
+  "Param3": 0
+}

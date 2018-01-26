@@ -1,0 +1,16 @@
+{
+  "Id": "silver-spike",
+  "Name": "Silver Spike",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 0,
+  "ShortDescription": "Hurl to attack enemy.",
+  "LongDescription": "A weapon to be hurled. When hurled, it flies in a straight line to inflict damage on any Pokémon it hits.",
+  "BuyPrice": 6,
+  "SellPrice": 3,
+  "SpriteId": 0,
+  "ItemId": 3,
+  "Param1": 0,
+  "Param2": 4,
+  "Param3": 5
+}

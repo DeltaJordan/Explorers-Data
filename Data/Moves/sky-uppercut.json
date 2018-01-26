@@ -1,0 +1,11 @@
+{
+  "Id": "sky-uppercut",
+  "Name": "Sky Uppercut",
+  "MoveId": 136,
+  "Description": "Inflicts damage on the target. It can hit Flying or Bouncing targets.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 7,
+  "BasePP": 12,
+  "Accuracy": 90
+}

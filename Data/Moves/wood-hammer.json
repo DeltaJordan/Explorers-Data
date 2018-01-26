@@ -1,0 +1,11 @@
+{
+  "Id": "wood-hammer",
+  "Name": "Wood Hammer",
+  "MoveId": 441,
+  "Description": "Inflicts damage on the target. But it also hurts the user.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 36,
+  "Type": 4,
+  "BasePP": 10,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "light-screen",
+  "Name": "Light Screen",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Light Screen.",
+  "LongDescription": "Teaches the move Light Screen, but won't if the Pokémon knows the move. Move gives the move-using Pokémon the Light Screen status, which halves the damage from Special Attack moves.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 203,
+  "Param1": 259,
+  "Param2": 0,
+  "Param3": 0
+}

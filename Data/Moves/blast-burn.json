@@ -1,0 +1,11 @@
+{
+  "Id": "blast-burn",
+  "Name": "Blast Burn",
+  "MoveId": 272,
+  "Description": "Inflicts damage on enemies within a 1-tile range. But it also afflicts the user with a Paused status condition. It thaws out frozen Pokémon.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 30,
+  "Type": 2,
+  "BasePP": 6,
+  "Accuracy": 84
+}

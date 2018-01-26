@@ -1,0 +1,11 @@
+{
+  "Id": "reflect",
+  "Name": "Reflect",
+  "MoveId": 338,
+  "Description": "Gives the user a Reflect status, halving damage from Physical Attack moves and regular attacks.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 22,
+  "Accuracy": 125
+}

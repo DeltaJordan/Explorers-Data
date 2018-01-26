@@ -1,0 +1,11 @@
+{
+  "Id": "sonicboom",
+  "Name": "SonicBoom",
+  "MoveId": 152,
+  "Description": "Inflicts 20 HP damage on the target, even at a distance.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 11,
+  "Accuracy": 90
+}

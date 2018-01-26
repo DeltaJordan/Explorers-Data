@@ -1,0 +1,16 @@
+{
+  "Id": "weavile-fang",
+  "Name": "Weavile Fang",
+  "Rarity": 6,
+  "RarityParameter": 242,
+  "ItemCategory": 15,
+  "ShortDescription": "Weavile-specific item.",
+  "LongDescription": "Slightly boosts Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Sneasel and Weavile.  Swap a Weavile Claw and a Weavile Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 32,
+  "ItemId": 811,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "eon-veil",
+  "Name": "Eon Veil",
+  "Rarity": 8,
+  "RarityParameter": 413,
+  "ItemCategory": 15,
+  "ShortDescription": "Latios-specific item.",
+  "LongDescription": "May boost the Pokémon's Movement Speed by 1 level when it is attacked. Keep it in the Treasure Bag to give its benefit to the team's Latios.  It is among the rarest of items, dedicated exclusively to Latios, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 487,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

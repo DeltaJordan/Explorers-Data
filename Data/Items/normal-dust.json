@@ -1,0 +1,16 @@
+{
+  "Id": "normal-dust",
+  "Name": "Normal Dust",
+  "Rarity": 2,
+  "RarityParameter": 1,
+  "ItemCategory": 15,
+  "ShortDescription": "Normal-type-specific item.",
+  "LongDescription": "Slightly boosts the Special Attack and Special Defense of Normal-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Normal-type Pokémon.  Swap a White Silk and a Normal Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 34,
+  "ItemId": 507,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

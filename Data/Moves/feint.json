@@ -1,0 +1,11 @@
+{
+  "Id": "feint",
+  "Name": "Feint",
+  "MoveId": 516,
+  "Description": "Breaks through the enemy's Protect status to inflict damage.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 5,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 88
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "dark-void",
+  "Name": "Dark Void",
+  "MoveId": 483,
+  "Description": "Afflicts all enemies in the room with a Sleep status condition.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 16,
+  "BasePP": 8,
+  "Accuracy": 100
+}

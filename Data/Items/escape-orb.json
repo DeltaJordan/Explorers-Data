@@ -1,0 +1,16 @@
+{
+  "Id": "escape-orb",
+  "Name": "Escape Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Escape from the dungeon.",
+  "LongDescription": "An escape item that instantly warps the team out of the dungeon.      Range: All team members on floor",
+  "BuyPrice": 150,
+  "SellPrice": 1,
+  "SpriteId": 15,
+  "ItemId": 330,
+  "Param1": 385,
+  "Param2": 0,
+  "Param3": 0
+}

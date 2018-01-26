@@ -1,0 +1,16 @@
+{
+  "Id": "faith-ring",
+  "Name": "Faith Ring",
+  "Rarity": 8,
+  "RarityParameter": 482,
+  "ItemCategory": 15,
+  "ShortDescription": "Blissey-specific item.",
+  "LongDescription": "Absorbs damage from Fighting-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Happiny, Chansey, and Blissey.  You can get a Faith Ring at the Croagunk Swap Shop by swapping: a Blissey Song, a Blissey Card, and an Amity Rock. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 965,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

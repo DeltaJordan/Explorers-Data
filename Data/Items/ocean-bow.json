@@ -1,0 +1,16 @@
+{
+  "Id": "ocean-bow",
+  "Name": "Ocean Bow",
+  "Rarity": 8,
+  "RarityParameter": 500,
+  "ItemCategory": 15,
+  "ShortDescription": "Mantyke-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Mantyke and Mantine.  You can get an Ocean Bow at the Croagunk Swap Shop by swapping: a Mantyke Beam, a Mantyke Card, and a Waft Rock. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 989,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

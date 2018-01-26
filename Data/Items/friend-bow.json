@@ -1,0 +1,16 @@
+{
+  "Id": "friend-bow",
+  "Name": "Friend Bow",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "A team-leader held item that makes it easier for the leader to recruit defeated Pokémon to the team.",
+  "BuyPrice": 6500,
+  "SellPrice": 650,
+  "SpriteId": 4,
+  "ItemId": 53,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

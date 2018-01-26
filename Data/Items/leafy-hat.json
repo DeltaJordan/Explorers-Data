@@ -1,0 +1,16 @@
+{
+  "Id": "leafy-hat",
+  "Name": "Leafy Hat",
+  "Rarity": 8,
+  "RarityParameter": 422,
+  "ItemCategory": 15,
+  "ShortDescription": "Turtwig-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Turtwig, Grotle, and Torterra.  You can get a Leafy Hat at the Croagunk Swap Shop by swapping: a Lucky Leaf, a Turtwig Card, and a Sprout Rock. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 713,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

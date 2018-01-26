@@ -1,0 +1,16 @@
+{
+  "Id": "red-jewel",
+  "Name": "Red Jewel",
+  "Rarity": 9,
+  "RarityParameter": 267,
+  "ItemCategory": 15,
+  "ShortDescription": "Magby-specific item.",
+  "LongDescription": "Boosts the Pokémon's maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Magby.  It is an extremely rare item rumored to be held by some baby Magby when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 49,
+  "ItemId": 463,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

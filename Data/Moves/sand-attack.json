@@ -1,0 +1,11 @@
+{
+  "Id": "sand-attack",
+  "Name": "Sand-Attack",
+  "MoveId": 142,
+  "Description": "Reduces the target's accuracy by 1 level.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 9,
+  "BasePP": 20,
+  "Accuracy": 100
+}

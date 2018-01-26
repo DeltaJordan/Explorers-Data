@@ -1,0 +1,16 @@
+{
+  "Id": "gaggle-specs",
+  "Name": "Gaggle Specs",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Enhances vision...?",
+  "LongDescription": "A held item that makes the Pokémon stand out, making it easier to be hit by enemies. It looks a lot like the Goggle Specs, so be careful not to confuse them!",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 13,
+  "ItemId": 15,
+  "Param1": 0,
+  "Param2": 5,
+  "Param3": 7
+}

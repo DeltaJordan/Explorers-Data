@@ -1,0 +1,11 @@
+{
+  "Id": "lock-on",
+  "Name": "Lock-On",
+  "MoveId": 349,
+  "Description": "Gives the user a Sure Shot status, which makes all moves and attacks completely accurate.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 7,
+  "Accuracy": 100
+}

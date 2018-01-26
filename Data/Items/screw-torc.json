@@ -1,0 +1,16 @@
+{
+  "Id": "screw-torc",
+  "Name": "Screw Torc",
+  "Rarity": 8,
+  "RarityParameter": 457,
+  "ItemCategory": 15,
+  "ShortDescription": "Buizel-specific item.",
+  "LongDescription": "During a Rain condition, boosts Movement Speed by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Buizel and Floatzel.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 917,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

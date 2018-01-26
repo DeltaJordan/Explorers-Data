@@ -1,0 +1,11 @@
+{
+  "Id": "magnet-rise",
+  "Name": "Magnet Rise",
+  "MoveId": 493,
+  "Description": "Gives the Pokémon that uses this move the Magnet Rise status. A Pokémon with the Magnet Rise status levitates and can't be hit by Ground-type moves.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 5,
+  "BasePP": 13,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "seismic-toss",
+  "Name": "Seismic Toss",
+  "MoveId": 170,
+  "Description": "Inflicts damage on the target. The amount of damage is equal to the user's level.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 10,
+  "Accuracy": 100
+}

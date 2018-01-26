@@ -1,0 +1,11 @@
+{
+  "Id": "drill-peck",
+  "Name": "Drill Peck",
+  "MoveId": 211,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 10,
+  "BasePP": 13,
+  "Accuracy": 88
+}

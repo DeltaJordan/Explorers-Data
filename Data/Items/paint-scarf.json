@@ -1,0 +1,16 @@
+{
+  "Id": "paint-scarf",
+  "Name": "Paint Scarf",
+  "Rarity": 8,
+  "RarityParameter": 262,
+  "ItemCategory": 15,
+  "ShortDescription": "Smeargle-specific item.",
+  "LongDescription": "Makes it easier to find Hidden Stairs in dungeons. Keep it in the Treasure Bag to give its benefit to all of these team members: Smeargle.  Finding a Paint Scarf at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1183,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

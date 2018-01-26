@@ -1,0 +1,11 @@
+{
+  "Id": "gravity",
+  "Name": "Gravity",
+  "MoveId": 478,
+  "Description": "Changes the dungeon floor's status to Gravity. A floor under the influence of Gravity makes Flying-type Pokémon weak to Ground-type moves. Also, those with the Levitate ability lose immunity from Ground-type moves.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 10,
+  "Accuracy": 100
+}

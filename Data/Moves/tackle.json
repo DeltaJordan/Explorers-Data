@@ -1,0 +1,11 @@
+{
+  "Id": "tackle",
+  "Name": "Tackle",
+  "MoveId": 154,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 1,
+  "BasePP": 30,
+  "Accuracy": 95
+}

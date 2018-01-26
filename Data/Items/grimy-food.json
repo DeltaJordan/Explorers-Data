@@ -1,0 +1,16 @@
+{
+  "Id": "grimy-food",
+  "Name": "Grimy Food",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Fills the Belly, but...",
+  "LongDescription": "A food item that somewhat fills the Pokémon's Belly but will also inflict a variety of status problems because it's covered in filthy grime. Be careful of what you eat!",
+  "BuyPrice": 5,
+  "SellPrice": 1,
+  "SpriteId": 1,
+  "ItemId": 111,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

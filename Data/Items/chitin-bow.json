@@ -1,0 +1,16 @@
+{
+  "Id": "chitin-bow",
+  "Name": "Chitin Bow",
+  "Rarity": 8,
+  "RarityParameter": 193,
+  "ItemCategory": 15,
+  "ShortDescription": "Yanma-specific item.",
+  "LongDescription": "Protects against weather damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Yanma and Yanmega.  Finding a Chitin Bow at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1151,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

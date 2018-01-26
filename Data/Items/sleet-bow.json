@@ -1,0 +1,16 @@
+{
+  "Id": "sleet-bow",
+  "Name": "Sleet Bow",
+  "Rarity": 8,
+  "RarityParameter": 395,
+  "ItemCategory": 15,
+  "ShortDescription": "Spheal-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Frozen status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Spheal, Sealeo, and Walrein.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1283,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "block",
+  "Name": "Block",
+  "MoveId": 194,
+  "Description": "Afflicts the targeted enemy with a  Shadow Hold status condition. A Pokémon with the Shadow Hold status is incapable of movement.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 12,
+  "Accuracy": 100
+}

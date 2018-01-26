@@ -1,0 +1,11 @@
+{
+  "Id": "seed-flare",
+  "Name": "Seed Flare",
+  "MoveId": 468,
+  "Description": "Inflicts damage on all enemies within a 1-tile range. It may also reduce the Special Attack of enemies within a 1-tile range by 2 levels.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 44,
+  "Type": 4,
+  "BasePP": 5,
+  "Accuracy": 80
+}

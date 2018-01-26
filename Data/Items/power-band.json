@@ -1,0 +1,16 @@
+{
+  "Id": "power-band",
+  "Name": "Power Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts Attack.",
+  "LongDescription": "A held item that boosts the Pokémon's Attack.",
+  "BuyPrice": 2500,
+  "SellPrice": 250,
+  "SpriteId": 4,
+  "ItemId": 26,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

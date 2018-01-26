@@ -1,0 +1,11 @@
+{
+  "Id": "jump-kick",
+  "Name": "Jump Kick",
+  "MoveId": 204,
+  "Description": "Inflicts damage on the target, but it also hurts the user if the move misses.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 14,
+  "Type": 7,
+  "BasePP": 13,
+  "Accuracy": 88
+}

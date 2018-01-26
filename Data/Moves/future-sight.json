@@ -1,0 +1,11 @@
+{
+  "Id": "future-sight",
+  "Name": "Future Sight",
+  "MoveId": 317,
+  "Description": "Gives the Pokémon that uses this move the Set Damage status, which makes all damage inflicted by the user remain at a set amount.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 13,
+  "Accuracy": 90
+}

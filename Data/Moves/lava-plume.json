@@ -1,0 +1,11 @@
+{
+  "Id": "lava-plume",
+  "Name": "Lava Plume",
+  "MoveId": 519,
+  "Description": "Inflicts damage on all enemies within a 1-tile range. It may also afflict the enemies within a 1-tile range with a Burn status condition. It thaws out frozen Pokémon.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 15,
+  "Type": 2,
+  "BasePP": 10,
+  "Accuracy": 80
+}

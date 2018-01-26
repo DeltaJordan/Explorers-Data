@@ -1,0 +1,16 @@
+{
+  "Id": "dragon-scale",
+  "Name": "Dragon Scale",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "A thick, tough scale. It allows a certain kind of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 20,
+  "ItemId": 150,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

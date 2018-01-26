@@ -1,0 +1,16 @@
+{
+  "Id": "icy-collar",
+  "Name": "Icy Collar",
+  "Rarity": 10,
+  "RarityParameter": 513,
+  "ItemCategory": 15,
+  "ShortDescription": "Glaceon-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Frozen status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Glaceon.",
+  "BuyPrice": 3500,
+  "SellPrice": 150,
+  "SpriteId": 37,
+  "ItemId": 451,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

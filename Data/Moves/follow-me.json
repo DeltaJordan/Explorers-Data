@@ -1,0 +1,11 @@
+{
+  "Id": "follow-me",
+  "Name": "Follow Me",
+  "MoveId": 102,
+  "Description": "Gives the user a Decoy status. A Pokémon with the Decoy status is the primary target of enemies.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 100
+}

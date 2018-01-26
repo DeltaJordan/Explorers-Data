@@ -1,0 +1,16 @@
+{
+  "Id": "air-blade",
+  "Name": "Air Blade",
+  "Rarity": 8,
+  "RarityParameter": 526,
+  "ItemCategory": 15,
+  "ShortDescription": "Palkia-specific item.",
+  "LongDescription": "Boosts the damage the Pokémon inflicts by 1.5 times. Keep it in the Treasure Bag to give its benefit to the team's Palkia.  It is among the rarest of items, dedicated exclusively to Palkia, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 39,
+  "ItemId": 499,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "thundershard",
+  "Name": "Thundershard",
+  "Rarity": 9,
+  "RarityParameter": 172,
+  "ItemCategory": 15,
+  "ShortDescription": "Pichu-specific item.",
+  "LongDescription": "Enables the occasional use of a move with no PP consumption. Keep it in the Treasure Bag to give its benefit to all of these team members: Pichu.  It is an extremely rare item rumored to be held by some baby Pichu when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 29,
+  "ItemId": 456,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

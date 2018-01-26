@@ -1,0 +1,11 @@
+{
+  "Id": "roost",
+  "Name": "Roost",
+  "MoveId": 509,
+  "Description": "Restores the user's HP. But if the move is used by a Flying-type Pokémon, it also loses its Flying-type designation until the next turn.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 10,
+  "BasePP": 14,
+  "Accuracy": 100
+}

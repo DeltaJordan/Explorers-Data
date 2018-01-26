@@ -1,0 +1,16 @@
+{
+  "Id": "insight-rock",
+  "Name": "Insight Rock",
+  "Rarity": 7,
+  "RarityParameter": 52,
+  "ItemCategory": 15,
+  "ShortDescription": "Persian-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Meowth and Persian.  Swap a Persian Claw and a Persian Fang for an Insight Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 628,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

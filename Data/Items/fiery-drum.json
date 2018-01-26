@@ -1,0 +1,16 @@
+{
+  "Id": "fiery-drum",
+  "Name": "Fiery Drum",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Promotes recruitment.",
+  "LongDescription": "An exotic drum that beats out rhythms that burn with fiery passion, rumored to steal fiery hearts. When held by the team leader, it is easier to recruit defeated Fire-type Pokémon to the team.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 7,
+  "ItemId": 60,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "pound",
+  "Name": "Pound",
+  "MoveId": 250,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 90
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "pierce-orb",
+  "Name": "Pierce Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Allows piercing-item throwing.",
+  "LongDescription": "An item that gives Pierce status to the user, which makes any items thrown by the user pierce through walls and all Pokémon it hits without stopping. It has no effect on thrown rocks.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 352,
+  "Param1": 412,
+  "Param2": 0,
+  "Param3": 0
+}

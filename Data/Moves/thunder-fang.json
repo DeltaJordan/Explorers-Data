@@ -1,0 +1,11 @@
+{
+  "Id": "thunder-fang",
+  "Name": "Thunder Fang",
+  "MoveId": 452,
+  "Description": "Inflicts damage on the target. It also may afflict the targeted enemy with a Paralysis status condition or Cringe status condition.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 5,
+  "BasePP": 15,
+  "Accuracy": 88
+}

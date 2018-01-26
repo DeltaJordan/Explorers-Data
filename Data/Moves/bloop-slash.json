@@ -1,0 +1,11 @@
+{
+  "Id": "bloop-slash",
+  "Name": "Bloop Slash",
+  "MoveId": 366,
+  "Description": "$$$    Basic Information:",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 0,
+  "BasePP": 22,
+  "Accuracy": 100
+}

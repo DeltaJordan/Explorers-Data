@@ -1,0 +1,16 @@
+{
+  "Id": "happy-rock",
+  "Name": "Happy Rock",
+  "Rarity": 7,
+  "RarityParameter": 175,
+  "ItemCategory": 15,
+  "ShortDescription": "Togetic-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Togepi, Togetic, and Togekiss.  Swap a Togetic Wing and a Togetic Card for a Happy Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 800,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

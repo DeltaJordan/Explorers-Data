@@ -1,0 +1,11 @@
+{
+  "Id": "poison-tail",
+  "Name": "Poison Tail",
+  "MoveId": 283,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Poisoned status condition, which causes periodic damage. It has a high critical-hit rate.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 8,
+  "BasePP": 15,
+  "Accuracy": 88
+}

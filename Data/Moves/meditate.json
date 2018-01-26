@@ -1,0 +1,11 @@
+{
+  "Id": "meditate",
+  "Name": "Meditate",
+  "MoveId": 333,
+  "Description": "Boosts the user's Attack by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 22,
+  "Accuracy": 125
+}

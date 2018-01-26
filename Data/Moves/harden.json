@@ -1,0 +1,11 @@
+{
+  "Id": "harden",
+  "Name": "Harden",
+  "MoveId": 58,
+  "Description": "Boosts the user's Defense by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 16,
+  "Accuracy": 125
+}

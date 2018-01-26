@@ -1,0 +1,11 @@
+{
+  "Id": "howl",
+  "Name": "Howl",
+  "MoveId": 195,
+  "Description": "Boosts the user's Attack by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 125
+}

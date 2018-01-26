@@ -1,0 +1,16 @@
+{
+  "Id": "wynaut-card",
+  "Name": "Wynaut Card",
+  "Rarity": 6,
+  "RarityParameter": 392,
+  "ItemCategory": 15,
+  "ShortDescription": "Wynaut-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Wynaut and Wobbuffet.  Swap a Wynaut Tail and a Wynaut Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 883,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

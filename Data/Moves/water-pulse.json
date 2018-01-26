@@ -1,0 +1,11 @@
+{
+  "Id": "water-pulse",
+  "Name": "Water Pulse",
+  "MoveId": 310,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the target with a Confused status.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 3,
+  "BasePP": 12,
+  "Accuracy": 88
+}

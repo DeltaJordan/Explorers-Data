@@ -1,0 +1,11 @@
+{
+  "Id": "weather-ball",
+  "Name": "Weather Ball",
+  "MoveId": 31,
+  "Description": "Inflicts damage on the target, even at a distance. The move's type and power changes with the weather.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 5,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 90
+}

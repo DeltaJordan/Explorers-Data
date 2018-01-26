@@ -1,0 +1,16 @@
+{
+  "Id": "hiber-scarf",
+  "Name": "Hiber Scarf",
+  "Rarity": 8,
+  "RarityParameter": 243,
+  "ItemCategory": 15,
+  "ShortDescription": "Ursaring-specific item.",
+  "LongDescription": "Absorbs damage from Fighting-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Teddiursa and Ursaring.  You can get a Hiber Scarf at the Croagunk Swap Shop by swapping: an Ursa-Claw, an Ursa-Fang, and a Calming Rock. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 821,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

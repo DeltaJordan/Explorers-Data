@@ -1,0 +1,11 @@
+{
+  "Id": "dragonbreath",
+  "Name": "DragonBreath",
+  "MoveId": 342,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Paralysis status condition. A Pokémon with a Paralysis status has slowed movement and is incapable of action.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 15,
+  "BasePP": 12,
+  "Accuracy": 88
+}

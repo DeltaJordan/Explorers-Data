@@ -1,0 +1,16 @@
+{
+  "Id": "marsh-crest",
+  "Name": "Marsh-Crest",
+  "Rarity": 7,
+  "RarityParameter": 286,
+  "ItemCategory": 15,
+  "ShortDescription": "Marshtomp-specific item.",
+  "LongDescription": "Slightly boosts Special Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Mudkip, Marshtomp, and Swampert.  Swap a Marsh-Mud and a Marsh-Card for a Marsh-Crest at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 696,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

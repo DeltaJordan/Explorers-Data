@@ -1,0 +1,16 @@
+{
+  "Id": "bling-ruff",
+  "Name": "Bling Ruff",
+  "Rarity": 8,
+  "RarityParameter": 52,
+  "ItemCategory": 15,
+  "ShortDescription": "Meowth-specific item.",
+  "LongDescription": "Boosts maximum HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Meowth and Persian.  You can get a Bling Ruff at the Croagunk Swap Shop by swapping: a Meowth Claw, a Meowth Fang, and a Coin Charm. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 625,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

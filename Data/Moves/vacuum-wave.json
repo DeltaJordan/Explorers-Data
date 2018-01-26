@@ -1,0 +1,11 @@
+{
+  "Id": "vacuum-wave",
+  "Name": "Vacuum Wave",
+  "MoveId": 479,
+  "Description": "Inflicts damage on a target up to 2 tiles away.\nRange: Enemy up to 2 tiles away",
+  "Category": 1,
+  "BasePower": 11,
+  "Type": 7,
+  "BasePP": 14,
+  "Accuracy": 88
+}

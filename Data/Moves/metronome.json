@@ -1,0 +1,11 @@
+{
+  "Id": "metronome",
+  "Name": "Metronome",
+  "MoveId": 330,
+  "Description": "Causes the user to unleash a random move drawn from the vast number of moves that Pokémon can know.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 125
+}

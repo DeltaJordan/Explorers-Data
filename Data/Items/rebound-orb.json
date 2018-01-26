@@ -1,0 +1,16 @@
+{
+  "Id": "rebound-orb",
+  "Name": "Rebound Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Confers Mini Counter status.",
+  "LongDescription": "An item that changes the user's status to Mini Counter, which enables the user to make Physical Attacks rebound, returning part of the damage.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 310,
+  "Param1": 365,
+  "Param2": 0,
+  "Param3": 0
+}

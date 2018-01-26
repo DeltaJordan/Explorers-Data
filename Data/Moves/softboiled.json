@@ -1,0 +1,11 @@
+{
+  "Id": "softboiled",
+  "Name": "Softboiled",
+  "MoveId": 165,
+  "Description": "Restores the HP of the user and team members in the room by 1/4 of their maximum HP.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 100
+}

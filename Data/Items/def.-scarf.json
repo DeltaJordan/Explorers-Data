@@ -1,0 +1,16 @@
+{
+  "Id": "def.-scarf",
+  "Name": "Def. Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts Defense.",
+  "LongDescription": "A held item that boosts the Pokémon's Defense.",
+  "BuyPrice": 2500,
+  "SellPrice": 250,
+  "SpriteId": 4,
+  "ItemId": 37,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

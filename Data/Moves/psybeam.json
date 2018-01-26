@@ -1,0 +1,11 @@
+{
+  "Id": "psybeam",
+  "Name": "Psybeam",
+  "MoveId": 107,
+  "Description": "Inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Confused status condition.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 11,
+  "BasePP": 17,
+  "Accuracy": 84
+}

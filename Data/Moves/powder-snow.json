@@ -1,0 +1,11 @@
+{
+  "Id": "powder-snow",
+  "Name": "Powder Snow",
+  "MoveId": 101,
+  "Description": "Inflicts damage on all enemies in the room. It may also afflict enemies in the room with a Frozen status condition, making them incapable of action.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 4,
+  "Type": 6,
+  "BasePP": 10,
+  "Accuracy": 90
+}

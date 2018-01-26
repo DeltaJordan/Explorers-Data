@@ -1,0 +1,16 @@
+{
+  "Id": "poké",
+  "Name": "Poké",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 6,
+  "ShortDescription": "This world's money.",
+  "LongDescription": "Money used at shops and for other purchasing purposes.",
+  "BuyPrice": 0,
+  "SellPrice": 0,
+  "SpriteId": 6,
+  "ItemId": 183,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

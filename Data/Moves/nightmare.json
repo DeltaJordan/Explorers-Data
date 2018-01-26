@@ -1,0 +1,11 @@
+{
+  "Id": "nightmare",
+  "Name": "Nightmare",
+  "MoveId": 5,
+  "Description": "Afflicts the targeted enemy with a Nightmare status condition. A Pokémon with the Nightmare status is incapable of action.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 14,
+  "BasePP": 12,
+  "Accuracy": 100
+}

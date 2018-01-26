@@ -1,0 +1,11 @@
+{
+  "Id": "leaf-storm",
+  "Name": "Leaf Storm",
+  "MoveId": 537,
+  "Description": "Inflicts damage on the target, even at a distance, but it also reduces the user's Special Attack by 2 levels.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 27,
+  "Type": 4,
+  "BasePP": 5,
+  "Accuracy": 80
+}

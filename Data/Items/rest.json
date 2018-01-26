@@ -1,0 +1,16 @@
+{
+  "Id": "rest",
+  "Name": "Rest",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Rest.",
+  "LongDescription": "Teaches the move Rest, but won't if the Pokémon knows the move. Move gives the user a Napping status. A Pokémon with the Napping status falls asleep, then later awakens with all HP restored and status problems healed.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 231,
+  "Param1": 232,
+  "Param2": 0,
+  "Param3": 0
+}

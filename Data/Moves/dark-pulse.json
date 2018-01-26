@@ -1,0 +1,11 @@
+{
+  "Id": "dark-pulse",
+  "Name": "Dark Pulse",
+  "MoveId": 436,
+  "Description": "Inflicts damage on enemies within a 1-tile range. It may also afflict enemies with a Cringe status condition, which makes its actions fail.\nRange: Enemies within 1-tile range",
+  "Category": 1,
+  "BasePower": 16,
+  "Type": 16,
+  "BasePP": 10,
+  "Accuracy": 84
+}

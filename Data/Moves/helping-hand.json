@@ -1,0 +1,11 @@
+{
+  "Id": "helping-hand",
+  "Name": "Helping Hand",
+  "MoveId": 185,
+  "Description": "Boosts the Attack and Special Attack of team members in the room by 1 level. It does not affect the user.\nRange: Only the allies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 16,
+  "Accuracy": 100
+}

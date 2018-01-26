@@ -1,0 +1,11 @@
+{
+  "Id": "seed-bomb",
+  "Name": "Seed Bomb",
+  "MoveId": 486,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 16,
+  "Type": 4,
+  "BasePP": 11,
+  "Accuracy": 88
+}

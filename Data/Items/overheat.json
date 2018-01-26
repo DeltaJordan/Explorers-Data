@@ -1,0 +1,16 @@
+{
+  "Id": "overheat",
+  "Name": "Overheat",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Overheat.",
+  "LongDescription": "Teaches the move Overheat, but won't if the Pokémon knows the move. Move inflicts damage on all enemies within a 1-tile range. But it also reduces the user's Special Attack by 2 levels. It will thaw frozen Pokémon.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 237,
+  "Param1": 41,
+  "Param2": 0,
+  "Param3": 0
+}

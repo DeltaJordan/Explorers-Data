@@ -1,0 +1,16 @@
+{
+  "Id": "ice-beam",
+  "Name": "Ice Beam",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Ice Beam.",
+  "LongDescription": "Teaches the move Ice Beam, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It may also afflict the targeted enemy with a Frozen status condition. A Pokémon with the Frozen status is incapable of action.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 200,
+  "Param1": 345,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "safeguard",
+  "Name": "Safeguard",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Safeguard.",
+  "LongDescription": "Teaches the move Safeguard, but won't if the Pokémon knows the move. Move gives the move-using Pokémon and team members in the room the Safeguard status, which prevents status problems.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 207,
+  "Param1": 134,
+  "Param2": 0,
+  "Param3": 0
+}

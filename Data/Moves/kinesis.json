@@ -1,0 +1,11 @@
+{
+  "Id": "kinesis",
+  "Name": "Kinesis",
+  "MoveId": 146,
+  "Description": "Reduces the target's accuracy by 1 level.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 17,
+  "Accuracy": 84
+}

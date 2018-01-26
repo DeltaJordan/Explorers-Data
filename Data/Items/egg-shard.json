@@ -1,0 +1,16 @@
+{
+  "Id": "egg-shard",
+  "Name": "Egg Shard",
+  "Rarity": 9,
+  "RarityParameter": 175,
+  "ItemCategory": 15,
+  "ShortDescription": "Togepi-specific item.",
+  "LongDescription": "Makes the Pokémon bounce a thrown or hurled item back. Keep it in the Treasure Bag to give its benefit to all of these team members: Togepi.  It is an extremely rare item rumored to be held by some baby Togepi when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 29,
+  "ItemId": 459,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

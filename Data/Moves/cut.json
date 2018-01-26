@@ -1,0 +1,11 @@
+{
+  "Id": "cut",
+  "Name": "Cut",
+  "MoveId": 18,
+  "Description": "Inflicts damage on all enemies within a 1-tile range.\nRange: Enemies within 1-tile range",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 1,
+  "BasePP": 10,
+  "Accuracy": 84
+}

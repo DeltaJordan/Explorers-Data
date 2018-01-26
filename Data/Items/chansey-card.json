@@ -1,0 +1,16 @@
+{
+  "Id": "chansey-card",
+  "Name": "Chansey Card",
+  "Rarity": 6,
+  "RarityParameter": 482,
+  "ItemCategory": 15,
+  "ShortDescription": "Chansey-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Happiny, Chansey, and Blissey.  Swap a Chansey Song and a Chansey Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 959,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

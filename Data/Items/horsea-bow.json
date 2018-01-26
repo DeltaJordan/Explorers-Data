@@ -1,0 +1,16 @@
+{
+  "Id": "horsea-bow",
+  "Name": "Horsea Bow",
+  "Rarity": 8,
+  "RarityParameter": 116,
+  "ItemCategory": 15,
+  "ShortDescription": "Horsea-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Blinker status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Horsea, Seadra, and Kingdra.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1107,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

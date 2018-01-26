@@ -1,0 +1,11 @@
+{
+  "Id": "heal-block",
+  "Name": "Heal Block",
+  "MoveId": 450,
+  "Description": "Changes the status of all enemies in the room with the user to Heal Block. In that state, Pokémon are incapable of restoring HP.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 16,
+  "Accuracy": 100
+}

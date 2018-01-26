@@ -1,0 +1,11 @@
+{
+  "Id": "earthquake",
+  "Name": "Earthquake",
+  "MoveId": 118,
+  "Description": "Damages all Pokémon in the room except the user. It will inflict double damage on a Digging target.\nRange: All in the room except user",
+  "Category": 0,
+  "BasePower": 5,
+  "Type": 9,
+  "BasePP": 10,
+  "Accuracy": 65
+}

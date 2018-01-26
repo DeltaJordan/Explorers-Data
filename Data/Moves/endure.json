@@ -1,0 +1,11 @@
+{
+  "Id": "endure",
+  "Name": "Endure",
+  "MoveId": 104,
+  "Description": "Gives the user an Enduring status. A Pokémon with the Enduring status will survive any attack or move that would normally make it faint. It will hang on with only 1 HP.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

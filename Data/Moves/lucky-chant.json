@@ -1,0 +1,11 @@
+{
+  "Id": "lucky-chant",
+  "Name": "Lucky Chant",
+  "MoveId": 447,
+  "Description": "Gives the user and team members in the room a Lucky Chant status, which blocks the Pokémon from taking critical hits.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

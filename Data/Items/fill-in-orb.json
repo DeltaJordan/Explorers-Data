@@ -1,0 +1,16 @@
+{
+  "Id": "fill-in-orb",
+  "Name": "Fill-In Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Fills in water or lava.",
+  "LongDescription": "A landfill item that turns any water or lava in front of the user into a solid floor tile.     Range: Special",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 343,
+  "Param1": 400,
+  "Param2": 0,
+  "Param3": 0
+}

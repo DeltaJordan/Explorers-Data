@@ -1,0 +1,16 @@
+{
+  "Id": "larvitar-bow",
+  "Name": "Larvitar Bow",
+  "Rarity": 8,
+  "RarityParameter": 273,
+  "ItemCategory": 15,
+  "ShortDescription": "Larvitar-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Cringe status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Larvitar, Pupitar, and Tyranitar.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1185,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "possess",
+  "Name": "Possess",
+  "MoveId": 402,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 12,
+  "Accuracy": 100
+}

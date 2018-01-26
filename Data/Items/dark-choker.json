@@ -1,0 +1,16 @@
+{
+  "Id": "dark-choker",
+  "Name": "Dark Choker",
+  "Rarity": 8,
+  "RarityParameter": 255,
+  "ItemCategory": 15,
+  "ShortDescription": "Houndour-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Cringe status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Houndour and Houndoom.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 58,
+  "ItemId": 1178,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

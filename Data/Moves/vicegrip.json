@@ -1,0 +1,11 @@
+{
+  "Id": "vicegrip",
+  "Name": "ViceGrip",
+  "MoveId": 248,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 90
+}

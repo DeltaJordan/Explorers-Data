@@ -1,0 +1,11 @@
+{
+  "Id": "heal-order",
+  "Name": "Heal Order",
+  "MoveId": 449,
+  "Description": "Restores the user's HP.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 12,
+  "BasePP": 12,
+  "Accuracy": 100
+}

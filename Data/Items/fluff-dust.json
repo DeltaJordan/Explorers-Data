@@ -1,0 +1,16 @@
+{
+  "Id": "fluff-dust",
+  "Name": "Fluff Dust",
+  "Rarity": 9,
+  "RarityParameter": 174,
+  "ItemCategory": 15,
+  "ShortDescription": "Igglybuff-specific item.",
+  "LongDescription": "Raises the chances of finding treasure after defeating enemies. Keep it in the Treasure Bag to give its benefit to all of these team members: Igglybuff.  It is an extremely rare item rumored to be held by some baby Igglybuff when they hatch from Eggs.",
+  "BuyPrice": 2000,
+  "SellPrice": 100,
+  "SpriteId": 34,
+  "ItemId": 458,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

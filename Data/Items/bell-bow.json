@@ -1,0 +1,16 @@
+{
+  "Id": "bell-bow",
+  "Name": "Bell-Bow",
+  "Rarity": 8,
+  "RarityParameter": 69,
+  "ItemCategory": 15,
+  "ShortDescription": "Bellsprout-specific item.",
+  "LongDescription": "Halves Selfdestruct and explosion damage taken. Keep it in the Treasure Bag to give its benefit to all of these team members: Bellsprout, Weepinbell, and Victreebel.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1063,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

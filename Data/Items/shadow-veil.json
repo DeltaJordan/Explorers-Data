@@ -1,0 +1,16 @@
+{
+  "Id": "shadow-veil",
+  "Name": "Shadow Veil",
+  "Rarity": 8,
+  "RarityParameter": 484,
+  "ItemCategory": 15,
+  "ShortDescription": "Spiritomb-specific item.",
+  "LongDescription": "Protects the Pokémon from having its moves disabled. Keep it in the Treasure Bag to give its benefit to the team's Spiritomb.  It is among the rarest of items, dedicated exclusively to Spiritomb, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 493,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

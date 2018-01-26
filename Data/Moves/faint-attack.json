@@ -1,0 +1,11 @@
+{
+  "Id": "faint-attack",
+  "Name": "Faint Attack",
+  "MoveId": 167,
+  "Description": "Inflicts damage on the target. It never misses.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 16,
+  "BasePP": 25,
+  "Accuracy": 125
+}

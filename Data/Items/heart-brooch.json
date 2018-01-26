@@ -1,0 +1,16 @@
+{
+  "Id": "heart-brooch",
+  "Name": "Heart Brooch",
+  "Rarity": 8,
+  "RarityParameter": 412,
+  "ItemCategory": 15,
+  "ShortDescription": "Latias-specific item.",
+  "LongDescription": "May give the Pokémon a status of Invisible when it is attacked. Keep it in the Treasure Bag to give its benefit to the team's Latias.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 47,
+  "ItemId": 486,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

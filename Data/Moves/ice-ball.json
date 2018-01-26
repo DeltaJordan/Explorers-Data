@@ -1,0 +1,11 @@
+{
+  "Id": "ice-ball",
+  "Name": "Ice Ball",
+  "MoveId": 2,
+  "Description": "Inflicts damage on the target with attacks that continue in a single turn until one misses. Its power rises after each hit, and it can last for a maximum of 5 attacks.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 1,
+  "Type": 6,
+  "BasePP": 15,
+  "Accuracy": 60
+}

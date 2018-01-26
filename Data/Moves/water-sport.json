@@ -1,0 +1,11 @@
+{
+  "Id": "water-sport",
+  "Name": "Water Sport",
+  "MoveId": 307,
+  "Description": "Changes the dungeon floor's status to Water Sport. A floor under the influence of Water Sport halves the power of all Fire-type moves.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 3,
+  "BasePP": 19,
+  "Accuracy": 100
+}

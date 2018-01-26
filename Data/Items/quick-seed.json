@@ -1,0 +1,16 @@
+{
+  "Id": "quick-seed",
+  "Name": "Quick Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Boosts Movement Speed.",
+  "LongDescription": "A food item that boosts the Pokémon's Movement Speed by 1 level. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 30,
+  "SellPrice": 15,
+  "SpriteId": 14,
+  "ItemId": 80,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "lob-orb",
+  "Name": "Lob Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Inflicts damage.",
+  "LongDescription": "A weapon item that inflicts damage on a target up to 2 tiles away.      Range: Enemy up to 2 tiles away",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 311,
+  "Param1": 366,
+  "Param2": 0,
+  "Param3": 0
+}

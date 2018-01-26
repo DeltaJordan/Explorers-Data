@@ -1,0 +1,11 @@
+{
+  "Id": "magic-coat",
+  "Name": "Magic Coat",
+  "MoveId": 298,
+  "Description": "Gives the Pokémon that uses this move the Magic Coat status, which reflects several kinds of moves back at enemies.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 19,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "dragon-claw",
+  "Name": "Dragon Claw",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Dragon Claw.",
+  "LongDescription": "Teaches the move Dragon Claw, but won't if the Pokémon knows the move. Move inflicts damage on the target.",
+  "BuyPrice": 8000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 189,
+  "Param1": 208,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "edify-robe",
+  "Name": "Edify Robe",
+  "Rarity": 8,
+  "RarityParameter": 522,
+  "ItemCategory": 15,
+  "ShortDescription": "Uxie-specific item.",
+  "LongDescription": "May warp the Pokémon away if it is attacked while its HP is low. Keep it in the Treasure Bag to give its benefit to the team's Uxie.  It is among the rarest of items, dedicated exclusively to Uxie, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 57,
+  "ItemId": 495,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

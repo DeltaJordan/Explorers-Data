@@ -1,0 +1,16 @@
+{
+  "Id": "pecha-scarf",
+  "Name": "Pecha Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Prevents poisoning.",
+  "LongDescription": "A held item that prevents a Poisoned status or a Badly Poisoned status from being inflicted on the Pokémon.",
+  "BuyPrice": 3500,
+  "SellPrice": 350,
+  "SpriteId": 4,
+  "ItemId": 27,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

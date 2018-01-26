@@ -1,0 +1,11 @@
+{
+  "Id": "counter",
+  "Name": "Counter",
+  "MoveId": 51,
+  "Description": "Gives the user the Counter status. It returns damage from Physical Attack moves back to the attacking enemy.\nRange: User",
+  "Category": 0,
+  "BasePower": 0,
+  "Type": 7,
+  "BasePP": 17,
+  "Accuracy": 100
+}

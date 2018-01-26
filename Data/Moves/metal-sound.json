@@ -1,0 +1,11 @@
+{
+  "Id": "metal-sound",
+  "Name": "Metal Sound",
+  "MoveId": 83,
+  "Description": "Reduces the target's Special Defense by 3 levels.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 17,
+  "BasePP": 17,
+  "Accuracy": 88
+}

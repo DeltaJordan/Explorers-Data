@@ -1,0 +1,16 @@
+{
+  "Id": "earthquake",
+  "Name": "Earthquake",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Earthquake.",
+  "LongDescription": "Teaches the move Earthquake, but won't if the Pokémon knows the move. Move damages all Pokémon in the room except the user. It will inflict double damage on a Digging target.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 213,
+  "Param1": 118,
+  "Param2": 0,
+  "Param3": 0
+}

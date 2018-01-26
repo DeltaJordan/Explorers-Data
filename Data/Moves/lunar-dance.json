@@ -1,0 +1,11 @@
+{
+  "Id": "lunar-dance",
+  "Name": "Lunar Dance",
+  "MoveId": 526,
+  "Description": "Fully restores the HP and PP and heals all the status problems of the user's team members in the room. However, the user's own HP drops to just 1.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 12,
+  "Accuracy": 100
+}

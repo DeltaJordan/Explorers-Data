@@ -1,0 +1,16 @@
+{
+  "Id": "see-trap-orb",
+  "Name": "See-Trap Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Makes traps visible.",
+  "LongDescription": "A sensory item that reveals all hidden traps in the same room as the user.      Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 308,
+  "Param1": 363,
+  "Param2": 0,
+  "Param3": 0
+}

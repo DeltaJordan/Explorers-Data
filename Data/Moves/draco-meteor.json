@@ -1,0 +1,11 @@
+{
+  "Id": "draco-meteor",
+  "Name": "Draco Meteor",
+  "MoveId": 538,
+  "Description": "Inflicts damage on all enemies in the room, but it also reduces the user's Special Attack by 2 levels.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 14,
+  "Type": 15,
+  "BasePP": 5,
+  "Accuracy": 80
+}

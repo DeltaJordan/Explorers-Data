@@ -1,0 +1,11 @@
+{
+  "Id": "dynamicpunch",
+  "Name": "DynamicPunch",
+  "MoveId": 246,
+  "Description": "Inflicts damage on the target. It also afflicts the target with a Confused status condition, which makes the target's movements and attacks go astray.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 7,
+  "BasePP": 13,
+  "Accuracy": 78
+}

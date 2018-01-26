@@ -1,0 +1,16 @@
+{
+  "Id": "will-o-wisp",
+  "Name": "Will-O-Wisp",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Will-O-Wisp.",
+  "LongDescription": "Teaches the move Will-O-Wisp, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with a Burn status condition. A Pokémon with the Burn status takes damage every few turns.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 248,
+  "Param1": 47,
+  "Param2": 0,
+  "Param3": 0
+}

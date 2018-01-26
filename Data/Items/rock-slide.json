@@ -1,0 +1,16 @@
+{
+  "Id": "rock-slide",
+  "Name": "Rock Slide",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Rock Slide.",
+  "LongDescription": "Teaches the move Rock Slide, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also afflict the targeted enemy with a Cringe status condition, making its actions fail.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 272,
+  "Param1": 30,
+  "Param2": 10,
+  "Param3": 10
+}

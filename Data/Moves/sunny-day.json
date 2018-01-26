@@ -1,0 +1,11 @@
+{
+  "Id": "sunny-day",
+  "Name": "Sunny Day",
+  "MoveId": 223,
+  "Description": "Changes the floor's weather to a Sunny condition.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 2,
+  "BasePP": 12,
+  "Accuracy": 125
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "psych-up",
+  "Name": "Psych Up",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Psych Up.",
+  "LongDescription": "Teaches the move Psych Up, but won't if the Pokémon knows the move. Move copies any boosts and reductions to the target's Attack, Special Attack, Defense, Special Defense, accuracy, and evasiveness to the user's own stats.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 269,
+  "Param1": 115,
+  "Param2": 7,
+  "Param3": 7
+}

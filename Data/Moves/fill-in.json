@@ -1,0 +1,11 @@
+{
+  "Id": "fill-in",
+  "Name": "Fill-In",
+  "MoveId": 400,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 99,
+  "Accuracy": 100
+}

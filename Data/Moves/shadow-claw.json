@@ -1,0 +1,11 @@
+{
+  "Id": "shadow-claw",
+  "Name": "Shadow Claw",
+  "MoveId": 476,
+  "Description": "Inflicts damage on the target. It has a high critical-hit rate.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 13,
+  "Type": 14,
+  "BasePP": 10,
+  "Accuracy": 88
+}

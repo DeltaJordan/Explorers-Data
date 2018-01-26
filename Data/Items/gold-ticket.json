@@ -1,0 +1,16 @@
+{
+  "Id": "gold-ticket",
+  "Name": "Gold Ticket",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Win a prize!",
+  "LongDescription": "If you take this Gold Ticket to Wynaut at the Recycle Shop, you can trade it for a chance to win Big Treasure.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 27,
+  "ItemId": 171,
+  "Param1": 0,
+  "Param2": 18,
+  "Param3": 18
+}

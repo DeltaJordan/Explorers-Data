@@ -1,0 +1,16 @@
+{
+  "Id": "hope-robe",
+  "Name": "Hope Robe",
+  "Rarity": 8,
+  "RarityParameter": 524,
+  "ItemCategory": 15,
+  "ShortDescription": "Azelf-specific item.",
+  "LongDescription": "May warp the Pokémon away if it is attacked while its HP is low. Keep it in the Treasure Bag to give its benefit to the team's Azelf.  It is among the rarest of items, dedicated exclusively to Azelf, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 57,
+  "ItemId": 497,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

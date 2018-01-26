@@ -1,0 +1,16 @@
+{
+  "Id": "no-aim-scope",
+  "Name": "No-Aim Scope",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Makes throws go wild.",
+  "LongDescription": "A held item that causes items thrown by the Pokémon to fly wildly in any direction.",
+  "BuyPrice": 2000,
+  "SellPrice": 200,
+  "SpriteId": 13,
+  "ItemId": 48,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

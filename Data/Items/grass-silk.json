@@ -1,0 +1,16 @@
+{
+  "Id": "grass-silk",
+  "Name": "Grass Silk",
+  "Rarity": 1,
+  "RarityParameter": 4,
+  "ItemCategory": 15,
+  "ShortDescription": "Grass-type-specific item.",
+  "LongDescription": "Slightly boosts the Special Attack and Special Defense of Grass-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Grass-type Pokémon.  Swap a Grass Silk and a Grass Dust  for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 56,
+  "ItemId": 518,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

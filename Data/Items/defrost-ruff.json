@@ -1,0 +1,16 @@
+{
+  "Id": "defrost-ruff",
+  "Name": "Defrost Ruff",
+  "Rarity": 8,
+  "RarityParameter": 469,
+  "ItemCategory": 15,
+  "ShortDescription": "Buneary-specific item.",
+  "LongDescription": "Protects the Pokémon from a Frozen status. Keep it in the Treasure Bag to give its benefit to all of these team members: Buneary and Lopunny.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1316,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

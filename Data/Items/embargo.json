@@ -1,0 +1,16 @@
+{
+  "Id": "embargo",
+  "Name": "Embargo",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Embargo.",
+  "LongDescription": "Teaches the move Embargo, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with an Embargo status condition. A Pokémon with the Embargo status can't use items.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 250,
+  "Param1": 466,
+  "Param2": 0,
+  "Param3": 0
+}

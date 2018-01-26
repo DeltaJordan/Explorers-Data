@@ -1,0 +1,11 @@
+{
+  "Id": "fire-blast",
+  "Name": "Fire Blast",
+  "MoveId": 157,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Burn status condition. It thaws out frozen Pokémon.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 33,
+  "Type": 2,
+  "BasePP": 9,
+  "Accuracy": 88
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "vanish-seed",
+  "Name": "Vanish Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Turns Pokémon invisible.",
+  "LongDescription": "A food item that gives Invisible status to the user. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 1000,
+  "SellPrice": 100,
+  "SpriteId": 14,
+  "ItemId": 97,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

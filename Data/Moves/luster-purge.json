@@ -1,0 +1,11 @@
+{
+  "Id": "luster-purge",
+  "Name": "Luster Purge",
+  "MoveId": 335,
+  "Description": "Inflicts damage on the target. It may also reduce the target's Special Defense by 1 level.\nRange: Enemy in front",
+  "Category": 1,
+  "BasePower": 14,
+  "Type": 11,
+  "BasePP": 12,
+  "Accuracy": 88
+}

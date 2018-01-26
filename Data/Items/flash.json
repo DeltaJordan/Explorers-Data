@@ -1,0 +1,16 @@
+{
+  "Id": "flash",
+  "Name": "Flash",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Flash.",
+  "LongDescription": "Teaches the move Flash, but won't if the Pokémon knows the move. Move reduces the target's accuracy by 1 level.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 262,
+  "Param1": 273,
+  "Param2": 0,
+  "Param3": 0
+}

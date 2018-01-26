@@ -1,0 +1,16 @@
+{
+  "Id": "x-scissor",
+  "Name": "X-Scissor",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches X-Scissor.",
+  "LongDescription": "Teaches the move X-Scissor, but won't if the Pokémon knows the move. Move inflicts damage on the target.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 273,
+  "Param1": 470,
+  "Param2": 11,
+  "Param3": 11
+}

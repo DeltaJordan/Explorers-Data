@@ -1,0 +1,16 @@
+{
+  "Id": "shock-wave",
+  "Name": "Shock Wave",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Shock Wave.",
+  "LongDescription": "Teaches the move Shock Wave, but won't if the Pokémon knows the move. Move inflicts damage on the target, even at a distance. It never misses.",
+  "BuyPrice": 7500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 221,
+  "Param1": 189,
+  "Param2": 0,
+  "Param3": 0
+}

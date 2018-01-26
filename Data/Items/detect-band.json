@@ -1,0 +1,16 @@
+{
+  "Id": "detect-band",
+  "Name": "Detect Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts evasiveness.",
+  "LongDescription": "A held item that boosts the Pokémon's evasiveness.",
+  "BuyPrice": 7500,
+  "SellPrice": 750,
+  "SpriteId": 4,
+  "ItemId": 42,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

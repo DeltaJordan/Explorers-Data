@@ -1,0 +1,16 @@
+{
+  "Id": "orange-bow",
+  "Name": "Orange Bow",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "A bow radiating aura energy.",
+  "LongDescription": "An orange bow with an energetic aura. When held, this bow slightly boosts the Pokémon's Attack, Special Attack, Defense, and Special Defense.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 53,
+  "ItemId": 432,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

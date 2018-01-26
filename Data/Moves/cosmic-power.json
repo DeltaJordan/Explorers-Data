@@ -1,0 +1,11 @@
+{
+  "Id": "cosmic-power",
+  "Name": "Cosmic Power",
+  "MoveId": 99,
+  "Description": "Boosts the user's Defense and Special Defense by 1 level.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 14,
+  "Accuracy": 125
+}

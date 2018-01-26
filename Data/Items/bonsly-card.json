@@ -1,0 +1,16 @@
+{
+  "Id": "bonsly-card",
+  "Name": "Bonsly Card",
+  "Rarity": 6,
+  "RarityParameter": 480,
+  "ItemCategory": 15,
+  "ShortDescription": "Bonsly-specific item.",
+  "LongDescription": "Slightly boosts Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Bonsly and Sudowoodo.  Swap a Bonsly Dew and a Bonsly Card for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 27,
+  "ItemId": 939,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "swirl-scarf",
+  "Name": "Swirl Scarf",
+  "Rarity": 8,
+  "RarityParameter": 116,
+  "ItemCategory": 15,
+  "ShortDescription": "Seadra-specific item.",
+  "LongDescription": "During a Rain condition, boosts Movement Speed by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Horsea, Seadra, and Kingdra.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1108,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "ripple-cape",
+  "Name": "Ripple Cape",
+  "Rarity": 8,
+  "RarityParameter": 531,
+  "ItemCategory": 15,
+  "ShortDescription": "Phione-specific item.",
+  "LongDescription": "Restores HP if the Pokémon is in water. Keep it in the Treasure Bag to give its benefit to the team's Phione.  You can get a Ripple Cape at the Croagunk Swap Shop by swapping: a Phione Song, a Phione Card, and a Wave Jewel. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 997,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

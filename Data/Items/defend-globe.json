@@ -1,0 +1,16 @@
+{
+  "Id": "defend-globe",
+  "Name": "Defend Globe",
+  "Rarity": 4,
+  "RarityParameter": 12,
+  "ItemCategory": 15,
+  "ShortDescription": "Bug-type-specific item.",
+  "LongDescription": "Prevents Flying-type moves from damaging Bug-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Bug-type Pokémon.  You can get a Defend Globe at the Croagunk Swap Shop by swapping: a Green Silk, a Wonder Dust, and a Guard Gem. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 15,
+  "ItemId": 553,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "razor-wind",
+  "Name": "Razor Wind",
+  "MoveId": 60,
+  "Description": "Gives the user the Razor Wind status, which causes the Pokémon to charge power for 1 turn and then try a powerful attack with a high critical-hit rate on the next turn. You can't link this move.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 16,
+  "Type": 1,
+  "BasePP": 13,
+  "Accuracy": 100
+}

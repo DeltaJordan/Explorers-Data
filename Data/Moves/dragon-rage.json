@@ -1,0 +1,11 @@
+{
+  "Id": "dragon-rage",
+  "Name": "Dragon Rage",
+  "MoveId": 341,
+  "Description": "Inflicts 30 HP damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 15,
+  "BasePP": 8,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "power-trick",
+  "Name": "Power Trick",
+  "MoveId": 514,
+  "Description": "The user swaps all modified levels and rates of its Attack with those of its Defense.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 13,
+  "Accuracy": 100
+}

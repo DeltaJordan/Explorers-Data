@@ -1,0 +1,16 @@
+{
+  "Id": "chrono-veil",
+  "Name": "Chrono Veil",
+  "Rarity": 8,
+  "RarityParameter": 278,
+  "ItemCategory": 15,
+  "ShortDescription": "Celebi-specific item.",
+  "LongDescription": "Restores 1 PP to all of the Pokémon's moves when it reaches a new floor. Keep it in the Treasure Bag to give its benefit to the team's Celebi.  It is among the rarest of items, dedicated exclusively to Celebi, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 482,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

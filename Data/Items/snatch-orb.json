@@ -1,0 +1,16 @@
+{
+  "Id": "snatch-orb",
+  "Name": "Snatch Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Steals the effects of moves.",
+  "LongDescription": "An item that gives Snatch status to the user. This status lets the user steal the effects of all moves used by Pokémon on the floor. ",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 307,
+  "Param1": 334,
+  "Param2": 0,
+  "Param3": 0
+}

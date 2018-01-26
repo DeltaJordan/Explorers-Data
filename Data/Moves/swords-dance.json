@@ -1,0 +1,11 @@
+{
+  "Id": "swords-dance",
+  "Name": "Swords Dance",
+  "MoveId": 181,
+  "Description": "Boosts the user's Attack by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 7,
+  "Accuracy": 125
+}

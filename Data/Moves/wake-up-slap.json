@@ -1,0 +1,11 @@
+{
+  "Id": "wake-up-slap",
+  "Name": "Wake-Up Slap",
+  "MoveId": 531,
+  "Description": "Inflicts damage on the target. It boosts the damage if the target has a Sleep status, a Nightmare status, or a Napping status, though such targets will then be awoken.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 12,
+  "Type": 7,
+  "BasePP": 10,
+  "Accuracy": 88
+}

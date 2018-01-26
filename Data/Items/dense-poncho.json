@@ -1,0 +1,16 @@
+{
+  "Id": "dense-poncho",
+  "Name": "Dense Poncho",
+  "Rarity": 8,
+  "RarityParameter": 231,
+  "ItemCategory": 15,
+  "ShortDescription": "Forretress-specific item.",
+  "LongDescription": "Absorbs damage from Flying-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Pineco and Forretress.  Finding a Dense Poncho at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 57,
+  "ItemId": 1160,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "vacuum-cut",
+  "Name": "Vacuum-Cut",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Vacuum-Cut.",
+  "LongDescription": "Teaches the move Vacuum-Cut, but won't if the Pokémon knows the move. Move inflicts damage on all enemies in the room.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 260,
+  "Param1": 394,
+  "Param2": 0,
+  "Param3": 0
+}

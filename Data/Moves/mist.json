@@ -1,0 +1,11 @@
+{
+  "Id": "mist",
+  "Name": "Mist",
+  "MoveId": 130,
+  "Description": "Gives the user a Mist status, which prevents the user's Attack, Defense, Special Attack, Special Defense, accuracy, and evasiveness from being reduced.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 6,
+  "BasePP": 17,
+  "Accuracy": 125
+}

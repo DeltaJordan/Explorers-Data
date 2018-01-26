@@ -1,0 +1,16 @@
+{
+  "Id": "easy-charm",
+  "Name": "Easy Charm",
+  "Rarity": 7,
+  "RarityParameter": 467,
+  "ItemCategory": 15,
+  "ShortDescription": "Drifblim-specific item.",
+  "LongDescription": "Slightly boosts Special Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Drifloon and Drifblim.  Swap a Drifbli-Gasp and a Drifbli-Card for a Easy Charm at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 928,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

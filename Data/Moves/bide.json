@@ -1,0 +1,11 @@
+{
+  "Id": "bide",
+  "Name": "Bide",
+  "MoveId": 357,
+  "Description": "$$$    Basic Information:",
+  "Category": 0,
+  "BasePower": 2,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "psychic",
+  "Name": "Psychic",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Psychic.",
+  "LongDescription": "Teaches the move Psychic, but won't if the Pokémon knows the move. Move inflicts damage on the target. It may also reduce the target's Special Defense by 1 level.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 216,
+  "Param1": 109,
+  "Param2": 0,
+  "Param3": 0
+}

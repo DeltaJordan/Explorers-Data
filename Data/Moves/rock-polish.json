@@ -1,0 +1,11 @@
+{
+  "Id": "rock-polish",
+  "Name": "Rock Polish",
+  "MoveId": 540,
+  "Description": "Boosts the user's Movement Speed by 2 levels.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 13,
+  "BasePP": 22,
+  "Accuracy": 100
+}

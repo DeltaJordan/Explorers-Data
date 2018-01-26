@@ -1,0 +1,16 @@
+{
+  "Id": "orange-silk",
+  "Name": "Orange Silk",
+  "Rarity": 1,
+  "RarityParameter": 7,
+  "ItemCategory": 15,
+  "ShortDescription": "Fighting-type-specific item.",
+  "LongDescription": "Slightly boosts the Attack and Defense of Fighting-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Fighting-type Pokémon.  Swap an Orange Silk and a Courage Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 56,
+  "ItemId": 530,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

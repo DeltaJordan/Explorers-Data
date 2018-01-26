@@ -1,0 +1,16 @@
+{
+  "Id": "endure-rock",
+  "Name": "Endure Rock",
+  "Rarity": 7,
+  "RarityParameter": 392,
+  "ItemCategory": 15,
+  "ShortDescription": "Wobbuffet-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Wynaut and Wobbuffet.  Swap a Wobbu-Sweat and a Wobbu-Card for an Endure Rock at the Croagunk Swap Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 49,
+  "ItemId": 888,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

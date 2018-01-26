@@ -1,0 +1,16 @@
+{
+  "Id": "sun-stone",
+  "Name": "Sun Stone",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "An odd stone that glows with sunny warmth. It allows certain kinds of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 55,
+  "ItemId": 144,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

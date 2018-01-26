@@ -1,0 +1,16 @@
+{
+  "Id": "diet-ribbon",
+  "Name": "Diet Ribbon",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Boosts hunger.",
+  "LongDescription": "A held item that changes the Pokémon's status to Hungry Pal, which empties its Belly and prevents it from being filled. If the team leader holds this, its Belly will go down faster.",
+  "BuyPrice": 4500,
+  "SellPrice": 450,
+  "SpriteId": 4,
+  "ItemId": 34,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

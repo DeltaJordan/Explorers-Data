@@ -1,0 +1,16 @@
+{
+  "Id": "stun-seed",
+  "Name": "Stun Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Petrifies Pokémon.",
+  "LongDescription": "A food item that inflicts a Petrified status. A Pokémon with the Petrified status is incapable of action until an attack or move is used on it. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 14,
+  "ItemId": 91,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

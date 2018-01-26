@@ -1,0 +1,11 @@
+{
+  "Id": "assist",
+  "Name": "Assist",
+  "MoveId": 229,
+  "Description": "Causes the user to unleash a random move drawn from all the moves that all Pokémon on the floor know.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 27,
+  "Accuracy": 95
+}

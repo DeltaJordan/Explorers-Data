@@ -1,0 +1,11 @@
+{
+  "Id": "tailwind",
+  "Name": "Tailwind",
+  "MoveId": 444,
+  "Description": "Boosts the Movement Speed of the user and team members in the room by 1 level.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 10,
+  "BasePP": 12,
+  "Accuracy": 100
+}

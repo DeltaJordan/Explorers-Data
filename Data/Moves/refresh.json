@@ -1,0 +1,11 @@
+{
+  "Id": "refresh",
+  "Name": "Refresh",
+  "MoveId": 339,
+  "Description": "Heals all the status problems of the user and its team members in the room.\nRange: All team members in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 100
+}

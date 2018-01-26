@@ -1,0 +1,11 @@
+{
+  "Id": "mud-slap",
+  "Name": "Mud-Slap",
+  "MoveId": 213,
+  "Description": "Inflicts damage on the target. It also reduces the target's accuracy by 1 level.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 4,
+  "Type": 9,
+  "BasePP": 16,
+  "Accuracy": 84
+}

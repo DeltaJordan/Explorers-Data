@@ -1,0 +1,11 @@
+{
+  "Id": "splash",
+  "Name": "Splash",
+  "MoveId": 254,
+  "Description": "Makes the user flop to a different tile. If it lands on another Pokémon, both Pokémon are hurt.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 50,
+  "Accuracy": 125
+}

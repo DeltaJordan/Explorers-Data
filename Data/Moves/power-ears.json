@@ -1,0 +1,11 @@
+{
+  "Id": "power-ears",
+  "Name": "Power-Ears",
+  "MoveId": 387,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 27,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "thunder-wave",
+  "Name": "Thunder Wave",
+  "MoveId": 192,
+  "Description": "Afflicts the target with a Paralysis status. A Pokémon with the Paralysis status condition has slowed movement and is incapable of action.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 5,
+  "BasePP": 17,
+  "Accuracy": 100
+}

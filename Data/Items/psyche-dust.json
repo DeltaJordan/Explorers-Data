@@ -1,0 +1,16 @@
+{
+  "Id": "psyche-dust",
+  "Name": "Psyche Dust",
+  "Rarity": 2,
+  "RarityParameter": 11,
+  "ItemCategory": 15,
+  "ShortDescription": "Psychic-type-specific item.",
+  "LongDescription": "Slightly boosts the Attack and Special Attack of Psychic-type Pokémon. Keep it in the Treasure Bag to give its benefit to all of these team members: Psychic-type Pokémon.  Swap a Gold Silk and a Psyche Dust for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 34,
+  "ItemId": 547,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

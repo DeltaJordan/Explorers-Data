@@ -1,0 +1,16 @@
+{
+  "Id": "petrify-orb",
+  "Name": "Petrify Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Petrifies enemies in the room.",
+  "LongDescription": "An item that afflicts all enemies in the room with a Petrified status condition. A Pokémon that has the Petrified status is incapable of action until an attack or move is used on it.",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 319,
+  "Param1": 374,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "aqua-mantle",
+  "Name": "Aqua Mantle",
+  "Rarity": 8,
+  "RarityParameter": 272,
+  "ItemCategory": 15,
+  "ShortDescription": "Suicune-specific item.",
+  "LongDescription": "Halves damage Special Attack moves do to the Pokémon. Its effect doesn't add to that of the Light Screen status. Keep it in the Treasure Bag to give its benefit to the team's Suicune.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 479,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

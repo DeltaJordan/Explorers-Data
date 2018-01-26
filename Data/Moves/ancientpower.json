@@ -1,0 +1,11 @@
+{
+  "Id": "ancientpower",
+  "Name": "AncientPower",
+  "MoveId": 93,
+  "Description": "Inflicts damage on the target. It may also boost the user's Attack, Special Attack, Defense, Special Defense, and Movement Speed by 1 level.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 12,
+  "Type": 13,
+  "BasePP": 12,
+  "Accuracy": 88
+}

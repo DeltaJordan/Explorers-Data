@@ -1,0 +1,16 @@
+{
+  "Id": "razor-fang",
+  "Name": "Razor Fang",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Needed for evolution.",
+  "LongDescription": "A savagely sharp, piercing fang. It allows a certain kind of Pokémon to evolve.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 5,
+  "ItemId": 155,
+  "Param1": 0,
+  "Param2": 3,
+  "Param3": 3
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "prize-ticket",
+  "Name": "Prize Ticket",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Win a prize!",
+  "LongDescription": "If you take this Prize Ticket to Wynaut at the Recycle Shop, you can trade it for a chance to win Big Treasure.",
+  "BuyPrice": 1000,
+  "SellPrice": 1,
+  "SpriteId": 27,
+  "ItemId": 169,
+  "Param1": 0,
+  "Param2": 16,
+  "Param3": 16
+}

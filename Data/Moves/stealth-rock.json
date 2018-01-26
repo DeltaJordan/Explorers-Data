@@ -1,0 +1,11 @@
+{
+  "Id": "stealth-rock",
+  "Name": "Stealth Rock",
+  "MoveId": 480,
+  "Description": "Turns the user's tile into a Stealth Rock trap. A Stealth Rock trap is invisible when created and inflicts damage on enemies that step on it.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 13,
+  "BasePP": 20,
+  "Accuracy": 100
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "vacuum-cut",
+  "Name": "Vacuum-Cut",
+  "MoveId": 394,
+  "Description": "Inflicts damage on all enemies in the room.\nRange: All enemies in the room",
+  "Category": 1,
+  "BasePower": 0,
+  "Type": 0,
+  "BasePP": 7,
+  "Accuracy": 100
+}

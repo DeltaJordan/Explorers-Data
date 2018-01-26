@@ -1,0 +1,16 @@
+{
+  "Id": "chilly-hat",
+  "Name": "Chilly Hat",
+  "Rarity": 8,
+  "RarityParameter": 393,
+  "ItemCategory": 15,
+  "ShortDescription": "Snorunt-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Frozen status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Snorunt, Glalie, and Froslass.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 1281,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

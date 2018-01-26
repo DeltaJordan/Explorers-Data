@@ -1,0 +1,11 @@
+{
+  "Id": "doom-desire",
+  "Name": "Doom Desire",
+  "MoveId": 256,
+  "Description": "Gives the Pokémon that uses this move a Set Damage status, which makes all damage inflicted by the user remain at a set amount.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 17,
+  "BasePP": 11,
+  "Accuracy": 88
+}

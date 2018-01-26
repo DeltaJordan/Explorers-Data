@@ -1,0 +1,11 @@
+{
+  "Id": "energy-ball",
+  "Name": "Energy Ball",
+  "MoveId": 443,
+  "Description": "Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level.\nRange: Line of sight",
+  "Category": 1,
+  "BasePower": 16,
+  "Type": 4,
+  "BasePP": 11,
+  "Accuracy": 88
+}

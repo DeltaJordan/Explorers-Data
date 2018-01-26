@@ -1,0 +1,16 @@
+{
+  "Id": "magikarp-bow",
+  "Name": "Magikarp Bow",
+  "Rarity": 8,
+  "RarityParameter": 129,
+  "ItemCategory": 15,
+  "ShortDescription": "Magikarp-specific item.",
+  "LongDescription": "Enables the occasional use of a move with no PP consumption. Keep it in the Treasure Bag to give its benefit to all of these team members: Magikarp and Gyarados.  Finding a Magikarp Bow at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1115,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

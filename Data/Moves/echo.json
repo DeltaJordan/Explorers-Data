@@ -1,0 +1,11 @@
+{
+  "Id": "echo",
+  "Name": "Echo",
+  "MoveId": 397,
+  "Description": "$$$    Basic Information:",
+  "Category": 1,
+  "BasePower": 10,
+  "Type": 0,
+  "BasePP": 27,
+  "Accuracy": 45
+}

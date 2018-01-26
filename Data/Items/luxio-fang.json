@@ -1,0 +1,16 @@
+{
+  "Id": "luxio-fang",
+  "Name": "Luxio Fang",
+  "Rarity": 6,
+  "RarityParameter": 438,
+  "ItemCategory": 15,
+  "ShortDescription": "Luxio-specific item.",
+  "LongDescription": "Slightly boosts Special Attack. Keep it in the Treasure Bag to give its benefit to all of these team members: Shinx, Luxio, and Luxray.  Swap a Luxio Claw and a Luxio Fang for a rarer item at the Croagunk Swap Shop.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 32,
+  "ItemId": 903,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

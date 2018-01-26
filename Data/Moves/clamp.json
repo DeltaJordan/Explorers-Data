@@ -1,0 +1,11 @@
+{
+  "Id": "clamp",
+  "Name": "Clamp",
+  "MoveId": 69,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Constriction status condition, making it incapable of movement.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 6,
+  "Type": 3,
+  "BasePP": 17,
+  "Accuracy": 78
+}

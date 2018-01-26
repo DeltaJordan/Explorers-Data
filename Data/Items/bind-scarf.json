@@ -1,0 +1,16 @@
+{
+  "Id": "bind-scarf",
+  "Name": "Bind Scarf",
+  "Rarity": 8,
+  "RarityParameter": 373,
+  "ItemCategory": 15,
+  "ShortDescription": "Lileep-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Shadow Hold status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Lileep and Cradily.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 37,
+  "ItemId": 1267,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

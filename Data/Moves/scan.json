@@ -1,0 +1,11 @@
+{
+  "Id": "scan",
+  "Name": "Scan",
+  "MoveId": 386,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 27,
+  "Accuracy": 100
+}

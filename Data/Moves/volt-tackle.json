@@ -1,0 +1,11 @@
+{
+  "Id": "volt-tackle",
+  "Name": "Volt Tackle",
+  "MoveId": 354,
+  "Description": "Inflicts damage on the target, even at a distance of 2 tiles. But it also hurts the user.\nRange: Enemy up to 2 tiles away",
+  "Category": 0,
+  "BasePower": 24,
+  "Type": 5,
+  "BasePP": 8,
+  "Accuracy": 84
+}

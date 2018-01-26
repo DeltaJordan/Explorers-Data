@@ -1,0 +1,16 @@
+{
+  "Id": "psyche-gem",
+  "Name": "Psyche Gem",
+  "Rarity": 3,
+  "RarityParameter": 11,
+  "ItemCategory": 15,
+  "ShortDescription": "Psychic-type-specific item.",
+  "LongDescription": "During a Fog condition, protects Psychic-type Pokémon from status problems. Keep it in the Treasure Bag to give its benefit to all of these team members: Psychic-type Pokémon ",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 548,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

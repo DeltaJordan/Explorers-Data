@@ -1,0 +1,16 @@
+{
+  "Id": "starly-bow",
+  "Name": "Starly Bow",
+  "Rarity": 8,
+  "RarityParameter": 431,
+  "ItemCategory": 15,
+  "ShortDescription": "Starly-specific item.",
+  "LongDescription": "May afflict attacking enemies with a Confused status condition. Keep it in the Treasure Bag to give its benefit to all of these team members: Starly, Staravia, and Staraptor.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 52,
+  "ItemId": 1297,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

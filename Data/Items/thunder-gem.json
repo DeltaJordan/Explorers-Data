@@ -1,0 +1,16 @@
+{
+  "Id": "thunder-gem",
+  "Name": "Thunder Gem",
+  "Rarity": 3,
+  "RarityParameter": 5,
+  "ItemCategory": 15,
+  "ShortDescription": "Electric-type-specific item.",
+  "LongDescription": "During a Cloudy condition, boosts the Movement Speed of Electric-type Pokémon by 1 level. Keep it in the Treasure Bag to give its benefit to all of these team members: Electric-type Pokémon.",
+  "BuyPrice": 9500,
+  "SellPrice": 350,
+  "SpriteId": 49,
+  "ItemId": 524,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

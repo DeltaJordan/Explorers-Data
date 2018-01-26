@@ -1,0 +1,11 @@
+{
+  "Id": "odor-sleuth",
+  "Name": "Odor Sleuth",
+  "MoveId": 54,
+  "Description": "Resets any boosted evasiveness of all enemies in the room.  Afflicts all Ghost-type enemies in the room with an Exposed status condition.\nRange: All enemies in the room",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 22,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "blinker-seed",
+  "Name": "Blinker Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Obscures vision.",
+  "LongDescription": "A food item that gives Blinker status to the user, which makes it unable to see other Pokémon, unclaimed items, and the ground. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 50,
+  "SellPrice": 5,
+  "SpriteId": 14,
+  "ItemId": 74,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

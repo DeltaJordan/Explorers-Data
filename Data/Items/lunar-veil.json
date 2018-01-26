@@ -1,0 +1,16 @@
+{
+  "Id": "lunar-veil",
+  "Name": "Lunar Veil",
+  "Rarity": 8,
+  "RarityParameter": 530,
+  "ItemCategory": 15,
+  "ShortDescription": "Cresselia-specific item.",
+  "LongDescription": "Extends the effects of the Pokémon's moves from itself to the whole team. Keep it in the Treasure Bag to give its benefit to the team's Cresselia.  It is among the rarest of items, dedicated exclusively to Cresselia, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 503,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "gracidea",
+  "Name": "Gracidea",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Use it on Shaymin and...?",
+  "LongDescription": "A beautiful flower that blooms on Sky Peak and in the Shaymin Village. Using it on Shaymin causes a Forme change from Land Forme to Sky Forme.",
+  "BuyPrice": 8000,
+  "SellPrice": 1,
+  "SpriteId": 51,
+  "ItemId": 179,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

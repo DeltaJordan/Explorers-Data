@@ -1,0 +1,11 @@
+{
+  "Id": "siesta",
+  "Name": "Siesta",
+  "MoveId": 381,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 12,
+  "Accuracy": 100
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "iq-booster",
+  "Name": "IQ Booster",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "IQ steadily increases.",
+  "LongDescription": "A held item that occasionally boosts the Pokémon's IQ as it moves between floors. Its effectiveness varies based on the dungeon.",
+  "BuyPrice": 5100,
+  "SellPrice": 510,
+  "SpriteId": 10,
+  "ItemId": 68,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

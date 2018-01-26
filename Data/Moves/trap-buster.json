@@ -1,0 +1,11 @@
+{
+  "Id": "trap-buster",
+  "Name": "Trap Buster",
+  "MoveId": 389,
+  "Description": "$$$    Basic Information:",
+  "Category": 2,
+  "BasePower": 2,
+  "Type": 0,
+  "BasePP": 57,
+  "Accuracy": 100
+}

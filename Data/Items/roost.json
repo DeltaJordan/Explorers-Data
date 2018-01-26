@@ -1,0 +1,16 @@
+{
+  "Id": "roost",
+  "Name": "Roost",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Roost.",
+  "LongDescription": "Teaches the move Roost, but won't if the Pokémon knows the move. Move restores the user's HP. But if the move is used by a Flying-type Pokémon, it also loses its Flying-type designation until the next turn.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 238,
+  "Param1": 509,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "rocky-orb",
+  "Name": "Rocky Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Inflicts damage.",
+  "LongDescription": "A weapon item that inflicts damage on the target. It also reduces the target's Movement Speed by 1 level.     Range: Enemy in front",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 306,
+  "Param1": 73,
+  "Param2": 0,
+  "Param3": 0
+}

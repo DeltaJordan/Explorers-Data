@@ -1,0 +1,16 @@
+{
+  "Id": "fire-veil",
+  "Name": "Fire Veil",
+  "Rarity": 8,
+  "RarityParameter": 146,
+  "ItemCategory": 15,
+  "ShortDescription": "Moltres-specific item.",
+  "LongDescription": "May prevent the Pokémon from fainting from an enemy's attack or move, instead leaving it with 1 HP. Keep it in the Treasure Bag to give its benefit to the team's Moltres.  It is among the rarest of items, dedicated exclusively to Moltres, who is rumored to slumber silently within some dungeon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 56,
+  "ItemId": 474,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

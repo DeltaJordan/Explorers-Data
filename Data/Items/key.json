@@ -1,0 +1,16 @@
+{
+  "Id": "key",
+  "Name": "Key",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 8,
+  "ShortDescription": "Opens a dungeon door.",
+  "LongDescription": "A key that unlocks a door inside a dungeon. Before you use a Key, be sure to stand before a door and face it directly.",
+  "BuyPrice": 8000,
+  "SellPrice": 1,
+  "SpriteId": 16,
+  "ItemId": 182,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

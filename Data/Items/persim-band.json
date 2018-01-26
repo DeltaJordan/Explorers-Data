@@ -1,0 +1,16 @@
+{
+  "Id": "persim-band",
+  "Name": "Persim Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Prevents confusion.",
+  "LongDescription": "A held item that prevents the Pokémon from getting a Confused status.",
+  "BuyPrice": 4500,
+  "SellPrice": 450,
+  "SpriteId": 4,
+  "ItemId": 25,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "vile-seed",
+  "Name": "Vile Seed",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 2,
+  "ShortDescription": "Minimizes Def. and Sp. Def.",
+  "LongDescription": "A food item that reduces the Pokémon's Defense and Special Defense to their lowest levels. It also slightly fills the Pokémon's Belly.",
+  "BuyPrice": 350,
+  "SellPrice": 50,
+  "SpriteId": 14,
+  "ItemId": 94,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "guard-swap",
+  "Name": "Guard Swap",
+  "MoveId": 448,
+  "Description": "Swaps any modified stat levels and rates for Defense and Special Defense with the Pokémon the user is facing.\nRange: Facing Pokémon, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 11,
+  "Accuracy": 100
+}

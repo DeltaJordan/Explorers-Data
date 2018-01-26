@@ -1,0 +1,16 @@
+{
+  "Id": "rollcall-orb",
+  "Name": "Rollcall Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Summons team members.",
+  "LongDescription": "A warping item that draws all team members to the user.      Range: All team members on floor",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 335,
+  "Param1": 390,
+  "Param2": 0,
+  "Param3": 0
+}

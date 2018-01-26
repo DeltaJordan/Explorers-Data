@@ -1,0 +1,11 @@
+{
+  "Id": "ice-fang",
+  "Name": "Ice Fang",
+  "MoveId": 461,
+  "Description": "Inflicts damage on the target. It may also afflict the targeted enemy with a Frozen status condition or a Cringe status condition.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 10,
+  "Type": 6,
+  "BasePP": 15,
+  "Accuracy": 88
+}

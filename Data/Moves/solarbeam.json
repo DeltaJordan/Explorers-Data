@@ -1,0 +1,11 @@
+{
+  "Id": "solarbeam",
+  "Name": "SolarBeam",
+  "MoveId": 151,
+  "Description": "Gives the user a SolarBeam status, which causes the Pokémon to charge power for 1 turn, then try a powerful attack on the next turn. During a Sunny condition, it charges for an immediate attack. You can't link this move.\nRange: Enemy in front, cuts corners",
+  "Category": 1,
+  "BasePower": 24,
+  "Type": 4,
+  "BasePP": 9,
+  "Accuracy": 100
+}

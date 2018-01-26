@@ -1,0 +1,16 @@
+{
+  "Id": "pep-sash",
+  "Name": "Pep Sash",
+  "Rarity": 10,
+  "RarityParameter": 263,
+  "ItemCategory": 15,
+  "ShortDescription": "Tyrogue-specific item.",
+  "LongDescription": "Earns the Pokémon Exp. Points every time it takes damage. Keep it in the Treasure Bag to give its benefit to all of these team members: Tyrogue.  You can get a Pep Sash at the Croagunk Swap Shop by swapping: Tyro-Sweat, Tyro-Card, and Muscle Charm. That's the easy way!  An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 3000,
+  "SellPrice": 100,
+  "SpriteId": 37,
+  "ItemId": 452,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

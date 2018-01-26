@@ -1,0 +1,16 @@
+{
+  "Id": "drought-orb",
+  "Name": "Drought Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Causes liquids to dry up.",
+  "LongDescription": "An item that drains any liquid, such as water or lava, from the dungeon floor.      Range: Special",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 333,
+  "Param1": 388,
+  "Param2": 0,
+  "Param3": 0
+}

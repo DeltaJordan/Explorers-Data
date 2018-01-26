@@ -1,0 +1,16 @@
+{
+  "Id": "river-charm",
+  "Name": "River Charm",
+  "Rarity": 7,
+  "RarityParameter": 434,
+  "ItemCategory": 15,
+  "ShortDescription": "Bibarel-specific item.",
+  "LongDescription": "Slightly boosts Attack and Special Defense. Keep it in the Treasure Bag to give its benefit to all of these team members: Bidoof and Bibarel.  Swap a Biba-Tooth and a Biba-Card for a River Charm at the Croagunk Swap  Shop.  See what happens if you collect all three of these items!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 28,
+  "ItemId": 896,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

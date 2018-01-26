@@ -1,0 +1,11 @@
+{
+  "Id": "close-combat",
+  "Name": "Close Combat",
+  "MoveId": 440,
+  "Description": "Inflicts damage on the target. But it also reduces the user's Defense and Special Defense by 1 level.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 43,
+  "Type": 7,
+  "BasePP": 7,
+  "Accuracy": 80
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "psyduck-hat",
+  "Name": "Psyduck Hat",
+  "Rarity": 8,
+  "RarityParameter": 54,
+  "ItemCategory": 15,
+  "ShortDescription": "Psyduck-specific item.",
+  "LongDescription": "During a Clear condition, boosts evasiveness by 2 levels. Keep it in the Treasure Bag to give its benefit to all of these team members: Psyduck and Golduck.",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 43,
+  "ItemId": 1048,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

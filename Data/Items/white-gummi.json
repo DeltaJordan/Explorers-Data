@@ -1,0 +1,16 @@
+{
+  "Id": "white-gummi",
+  "Name": "White Gummi",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 3,
+  "ShortDescription": "Raises IQ.",
+  "LongDescription": "A food item that permanently raises the IQ of a team member. Normal-type Pokémon like it most. It also somewhat fills the Pokémon's Belly.",
+  "BuyPrice": 800,
+  "SellPrice": 50,
+  "SpriteId": 30,
+  "ItemId": 119,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

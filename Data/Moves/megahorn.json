@@ -1,0 +1,11 @@
+{
+  "Id": "megahorn",
+  "Name": "Megahorn",
+  "MoveId": 323,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front, cuts corners",
+  "Category": 0,
+  "BasePower": 38,
+  "Type": 12,
+  "BasePP": 7,
+  "Accuracy": 84
+}

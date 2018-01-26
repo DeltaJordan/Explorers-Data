@@ -1,0 +1,11 @@
+{
+  "Id": "sandstorm",
+  "Name": "Sandstorm",
+  "MoveId": 141,
+  "Description": "Changes the floor's weather to a Sandstorm condition.\nRange: Floor",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 13,
+  "BasePP": 14,
+  "Accuracy": 125
+}

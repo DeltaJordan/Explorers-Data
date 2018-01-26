@@ -1,0 +1,16 @@
+{
+  "Id": "natural-gift",
+  "Name": "Natural Gift",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Natural Gift.",
+  "LongDescription": "Teaches the move Natural Gift, but won't if the Pokémon knows the move. Move inflicts damage on the target. The move's type and power will change based on the kind of Berry the user is holding, if any.",
+  "BuyPrice": 6500,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 275,
+  "Param1": 471,
+  "Param2": 13,
+  "Param3": 13
+}

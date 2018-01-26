@@ -1,0 +1,11 @@
+{
+  "Id": "swallow",
+  "Name": "Swallow",
+  "MoveId": 236,
+  "Description": "Restores the user's HP. The amount depends on how many times Stockpile was used in advance.\nRange: User",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 15,
+  "Accuracy": 125
+}

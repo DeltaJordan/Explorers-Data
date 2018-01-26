@@ -1,0 +1,16 @@
+{
+  "Id": "toxic",
+  "Name": "Toxic",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 5,
+  "ShortDescription": "Teaches Toxic.",
+  "LongDescription": "Teaches the move Toxic, but won't if the Pokémon knows the move. Move afflicts the targeted enemy with a Badly Poisoned status condition. A Pokémon with the Badly Poisoned status takes damage every few turns.",
+  "BuyPrice": 6000,
+  "SellPrice": 250,
+  "SpriteId": 8,
+  "ItemId": 193,
+  "Param1": 197,
+  "Param2": 0,
+  "Param3": 0
+}

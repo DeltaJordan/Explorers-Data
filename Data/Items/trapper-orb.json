@@ -1,0 +1,16 @@
+{
+  "Id": "trapper-orb",
+  "Name": "Trapper Orb",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 9,
+  "ShortDescription": "Sets a trap.",
+  "LongDescription": "An item that sets a trap on the user's tile. The type of trap is randomly determined.     Range: User",
+  "BuyPrice": 150,
+  "SellPrice": 30,
+  "SpriteId": 15,
+  "ItemId": 344,
+  "Param1": 401,
+  "Param2": 0,
+  "Param3": 0
+}

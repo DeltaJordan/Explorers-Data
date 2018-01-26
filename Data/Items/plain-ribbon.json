@@ -1,0 +1,16 @@
+{
+  "Id": "plain-ribbon",
+  "Name": "Plain Ribbon",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "An ordinary ribbon.",
+  "LongDescription": "An item that has no effect even if held by a Pokémon. ",
+  "BuyPrice": 100,
+  "SellPrice": 10,
+  "SpriteId": 4,
+  "ItemId": 39,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

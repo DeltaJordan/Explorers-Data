@@ -1,0 +1,11 @@
+{
+  "Id": "will-o-wisp",
+  "Name": "Will-O-Wisp",
+  "MoveId": 47,
+  "Description": "Afflicts the targeted enemy with a Burn status condition. A Pokémon with the Burn status takes damage every few turns.\nRange: Enemy in front, cuts corners",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 2,
+  "BasePP": 17,
+  "Accuracy": 78
+}

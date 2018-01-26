@@ -1,0 +1,16 @@
+{
+  "Id": "trap-scarf",
+  "Name": "Trap Scarf",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Stops traps from springing.",
+  "LongDescription": "A held item that prevents traps from activating when the Pokémon steps on them.",
+  "BuyPrice": 8000,
+  "SellPrice": 800,
+  "SpriteId": 4,
+  "ItemId": 35,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

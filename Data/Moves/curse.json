@@ -1,0 +1,11 @@
+{
+  "Id": "curse",
+  "Name": "Curse",
+  "MoveId": 237,
+  "Description": "Boosts the user's Attack and Defense by 1 level but also reduces Movement Speed by 1 level. If this move is used by a Ghost-type Pokémon, it afflicts the target with a Cursed status condition but halves the user's HP.\nRange: Special",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 17,
+  "Accuracy": 125
+}

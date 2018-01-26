@@ -1,0 +1,11 @@
+{
+  "Id": "swagger",
+  "Name": "Swagger",
+  "MoveId": 24,
+  "Description": "Afflicts the targeted enemy with a Confused status condition and also boosts its Attack by 2 levels.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 1,
+  "BasePP": 18,
+  "Accuracy": 90
+}

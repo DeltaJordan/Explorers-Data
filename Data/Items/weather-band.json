@@ -1,0 +1,16 @@
+{
+  "Id": "weather-band",
+  "Name": "Weather Band",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 4,
+  "ShortDescription": "Treats the weather as \"Clear.\"",
+  "LongDescription": "A held item that shields the Pokémon from weather, as if it's always in Clear conditions.",
+  "BuyPrice": 5000,
+  "SellPrice": 500,
+  "SpriteId": 4,
+  "ItemId": 52,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

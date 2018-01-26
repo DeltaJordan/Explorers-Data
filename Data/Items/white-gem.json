@@ -1,0 +1,16 @@
+{
+  "Id": "white-gem",
+  "Name": "White Gem",
+  "Rarity": 3,
+  "RarityParameter": 1,
+  "ItemCategory": 15,
+  "ShortDescription": "Normal-type-specific item.",
+  "LongDescription": "During a Cloudy condition, protects Normal-type Pokémon from status problems. Keep it in the Treasure Bag to give its benefit to all of these team members: Normal-type Pokémon.",
+  "BuyPrice": 5000,
+  "SellPrice": 150,
+  "SpriteId": 49,
+  "ItemId": 508,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

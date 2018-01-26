@@ -1,0 +1,11 @@
+{
+  "Id": "trick",
+  "Name": "Trick",
+  "MoveId": 209,
+  "Description": "Switches the user's held item with the target's held item. It works only if both Pokémon are holding items.\nRange: Enemy in front",
+  "Category": 2,
+  "BasePower": 0,
+  "Type": 11,
+  "BasePP": 17,
+  "Accuracy": 100
+}

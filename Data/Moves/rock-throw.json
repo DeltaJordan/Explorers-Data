@@ -1,0 +1,11 @@
+{
+  "Id": "rock-throw",
+  "Name": "Rock Throw",
+  "MoveId": 28,
+  "Description": "Inflicts damage on the target.\nRange: Enemy in front",
+  "Category": 0,
+  "BasePower": 5,
+  "Type": 13,
+  "BasePP": 16,
+  "Accuracy": 90
+}

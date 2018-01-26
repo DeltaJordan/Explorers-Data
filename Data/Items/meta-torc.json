@@ -1,0 +1,16 @@
+{
+  "Id": "meta-torc",
+  "Name": "Meta-Torc",
+  "Rarity": 8,
+  "RarityParameter": 406,
+  "ItemCategory": 15,
+  "ShortDescription": "Metagross-specific item.",
+  "LongDescription": "Absorbs damage from Ground-type moves to restore HP. Keep it in the Treasure Bag to give its benefit to all of these team members: Beldum, Metang, and Metagross.  Finding a Meta-Torc at the Croagunk Swap Shop is very lucky! Make sure you get it before someone else does! An item with a ☆☆☆-rarity rating is very hard to get. It's beyond valuable!",
+  "BuyPrice": 2500,
+  "SellPrice": 125,
+  "SpriteId": 54,
+  "ItemId": 1296,
+  "Param1": 0,
+  "Param2": 0,
+  "Param3": 0
+}

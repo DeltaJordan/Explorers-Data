@@ -1,0 +1,16 @@
+{
+  "Id": "cute-box",
+  "Name": "Cute Box",
+  "Rarity": 0,
+  "RarityParameter": null,
+  "ItemCategory": 14,
+  "ShortDescription": "There is something inside!",
+  "LongDescription": "A box that is amazingly adorable. It likely contains something but won't give up its secrets easily. Take it to Xatu in Treasure Town for appraisal.",
+  "BuyPrice": 8000,
+  "SellPrice": 200,
+  "SpriteId": 24,
+  "ItemId": 393,
+  "Param1": 3,
+  "Param2": 3,
+  "Param3": 3
+}
