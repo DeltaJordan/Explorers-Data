@@ -1,0 +1,10 @@
+{
+  "IndexId": 14,
+  "Portraits": [
+    {
+      "PortraitId": 0,
+      "PortraitName": "STANDARD",
+      "PortraitImageBase64": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAMFBMVEUAjwAnJydPRydXf3+PfyfHrzd/x9eXz8fnzze317f330fX57//92fv/7///4/////wEpK/AAACGklEQVQokX3RMWvbQBQH8PsKCu6QoRRfJCKUuoOHdq6IQQh3iPCBMIYOhnpvIMZjiw2HMYV6McZ0MTaIQwTapRijJdSLEAqYLEWIUuhQglBpaJaGOn26E0kLpW+7H++9+0uHnv2j0H+wiaF2/sYmtt0gsfDDP7CJGz5zw2+bXNERVLnBoILweoOz4xFqtVpNJTMWBun1+Q6cW6jdbpfrHN0UFpw8AgA8FI3QmoRpsivweT1HNwjSdCqwzNiNpmk2j0Yjhd1qmJ7vjkaoc6jdIoOleqeDxkO+smbmmOLxGLAPh5m0ZYpYiXSDjyWpIPBrEXAyhJZ5UZIkk+OX75MJWryX6zAtSfdqHE/eLhZouZR7/Rl03r00ORaXS8ChSbh+gsDH6dTiuJAdMvBrWLoDuFntAXqe99pwSCNMfIjh/rTeeB6KokjDBiWEf4NDtgFQHK9frXCF0h4hNR0Xn8RxDCgnbI5xxaZdLNsHAs/g0ZhTy964Qk/3tzmuXUCWjRd85/TBgUBCsxsopS+qzmXps0CD2H3eqhfcC8PiGMkwaYPtW/rTre6euF0HgjzEtnpY93PU/IwIpTpV1gMr7xxkmahDZapeNKYex3cy45moQtUf1Q8ljmuLP7IzV6l6pawEntV1I1PLoOov3BX4sepg+Omzog0oY7Ezuu935f4cWxRQyyNBJvYS66YOV11ppRxVQGL6CqWVSMt+3W+wnLKRuuxC0QAAAABJRU5ErkJggg=="
+    }
+  ]
+}
