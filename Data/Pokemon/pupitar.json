@@ -823,7 +823,7 @@
       "PrimaryAbility": 33,
       "SecondaryAbility": 0,
       "BaseExpYield": 94,
-      "RecruitRate": 10.0,
+      "RecruitRate": 1.0,
       "BaseStats": {
         "HP": 43,
         "Attack": 13,
@@ -851,7 +851,7 @@
       "PrimaryAbility": 33,
       "SecondaryAbility": 0,
       "BaseExpYield": 94,
-      "RecruitRate": 10.0,
+      "RecruitRate": 1.0,
       "BaseStats": {
         "HP": 43,
         "Attack": 13,
