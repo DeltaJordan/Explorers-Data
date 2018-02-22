@@ -1,0 +1,7 @@
+{
+  "Id": "Collector",
+  "Name": "Collector",
+  "Group": 0,
+  "Effect": "Raises fallen foes' rate of dropping Treasure Boxes.",
+  "RequiredIQ": 370
+}

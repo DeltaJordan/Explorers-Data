@@ -1,0 +1,7 @@
+{
+  "Id": "Nontraitor",
+  "Name": "Nontraitor",
+  "Group": 5,
+  "Effect": "Does not attack allies, even when confused or in cowering status.",
+  "RequiredIQ": 40
+}

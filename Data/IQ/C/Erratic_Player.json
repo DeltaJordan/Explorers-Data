@@ -1,0 +1,7 @@
+{
+  "Id": "Erratic_Player",
+  "Name": "Erratic Player",
+  "Group": 2,
+  "Effect": "Increases multiplier effect of type compatibility.",
+  "RequiredIQ": 340
+}

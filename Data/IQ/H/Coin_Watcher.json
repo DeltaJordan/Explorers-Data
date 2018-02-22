@@ -1,0 +1,7 @@
+{
+  "Id": "Coin_Watcher",
+  "Name": "Coin Watcher",
+  "Group": 7,
+  "Effect": "When Picking up Pok�, the Pok�mon pulls in 1.2 times the value of the coin. Cannot be turned off.",
+  "RequiredIQ": 150
+}

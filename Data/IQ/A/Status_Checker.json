@@ -1,0 +1,7 @@
+{
+  "Id": "Status_Checker",
+  "Name": "Status Checker",
+  "Group": 0,
+  "Effect": "Refrains from moves that inflict a status that the foe already has.",
+  "RequiredIQ": 25
+}

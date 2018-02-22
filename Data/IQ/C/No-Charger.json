@@ -1,0 +1,7 @@
+{
+  "Id": "No-Charger",
+  "Name": "No-Charger",
+  "Group": 2,
+  "Effect": "Unleashes charged attacks in one turn, while draining 2 PP.",
+  "RequiredIQ": 570
+}

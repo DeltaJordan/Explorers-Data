@@ -1,0 +1,7 @@
+{
+  "Id": "Power_Pitcher",
+  "Name": "Power Pitcher",
+  "Group": 4,
+  "Effect": "Throwing items deal 1.5 times the damage. Does not work with Geo Pebbles and Gravelerocks.",
+  "RequiredIQ": 130
+}

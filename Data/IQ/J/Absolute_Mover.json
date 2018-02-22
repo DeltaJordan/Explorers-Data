@@ -1,0 +1,7 @@
+{
+  "Id": "Absolute_Mover",
+  "Name": "Absolute Mover",
+  "Group": 11,
+  "Effect": "Can cross water, lava, and valleys, and can crush walls.",
+  "RequiredIQ": 990
+}

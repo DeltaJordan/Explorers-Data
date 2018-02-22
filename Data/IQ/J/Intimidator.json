@@ -1,0 +1,7 @@
+{
+  "Id": "Intimidator",
+  "Name": "Intimidator",
+  "Group": 11,
+  "Effect": "Sometimes causes attacking foe to cringe.",
+  "RequiredIQ": 560
+}

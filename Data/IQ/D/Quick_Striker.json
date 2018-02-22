@@ -1,0 +1,7 @@
+{
+  "Id": "Quick_Striker",
+  "Name": "Quick Striker",
+  "Group": 3,
+  "Effect": "Can do two regular attacks in one turn in a row.",
+  "RequiredIQ": 750
+}

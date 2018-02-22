@@ -1,0 +1,7 @@
+{
+  "Id": "Efficiency_Expert",
+  "Name": "Efficiency Expert",
+  "Group": 4,
+  "Effect": "Attacks Pok�mon with the lowest HP first.",
+  "RequiredIQ": 10
+}

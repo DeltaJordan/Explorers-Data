@@ -1,0 +1,7 @@
+{
+  "Id": "Time_Tripper",
+  "Name": "Time Tripper",
+  "Group": 10,
+  "Effect": "Raises initial Speed by 1.",
+  "RequiredIQ": 950
+}

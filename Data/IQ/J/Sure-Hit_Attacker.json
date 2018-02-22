@@ -1,0 +1,7 @@
+{
+  "Id": "Sure-Hit_Attacker",
+  "Name": "Sure-Hit Attacker",
+  "Group": 11,
+  "Effect": "Regular attacks never miss.",
+  "RequiredIQ": 500
+}

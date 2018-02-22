@@ -1,0 +1,7 @@
+{
+  "Id": "Counter_Hitter",
+  "Name": "Counter Hitter",
+  "Group": 3,
+  "Effect": "Sometimes counters 1/4 of the damage received back to the adjacent opponent.",
+  "RequiredIQ": 330
+}

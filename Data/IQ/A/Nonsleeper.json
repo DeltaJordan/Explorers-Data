@@ -1,0 +1,7 @@
+{
+  "Id": "Nonsleeper",
+  "Name": "Nonsleeper",
+  "Group": 0,
+  "Effect": "Pok�mon is immune to nightmare, sleep, yawning and napping status.",
+  "RequiredIQ": 160
+}

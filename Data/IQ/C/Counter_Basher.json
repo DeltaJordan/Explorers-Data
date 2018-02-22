@@ -1,0 +1,7 @@
+{
+  "Id": "Counter_Basher",
+  "Name": "Counter Basher",
+  "Group": 2,
+  "Effect": "Lowers Defense by 1, and sometimes sends the damage taken back to the foe if the foe is adjacent.",
+  "RequiredIQ": 280
+}

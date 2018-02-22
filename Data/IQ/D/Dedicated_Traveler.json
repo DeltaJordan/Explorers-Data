@@ -1,0 +1,7 @@
+{
+  "Id": "Dedicated_Traveler",
+  "Name": "Dedicated Traveler",
+  "Group": 3,
+  "Effect": "Prioritizes moving over using attacks or items.",
+  "RequiredIQ": 0
+}

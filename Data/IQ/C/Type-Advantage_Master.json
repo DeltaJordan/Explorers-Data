@@ -1,0 +1,7 @@
+{
+  "Id": "Type-Advantage_Master",
+  "Name": "Type-Advantage Master",
+  "Group": 2,
+  "Effect": "Raises the critical-hit rate of type-effective moves.",
+  "RequiredIQ": 105
+}

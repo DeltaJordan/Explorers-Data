@@ -1,0 +1,7 @@
+{
+  "Id": "Stair_Sensor",
+  "Name": "Stair Sensor",
+  "Group": 5,
+  "Effect": "Learns the location of stairs when changing floors.",
+  "RequiredIQ": 480
+}

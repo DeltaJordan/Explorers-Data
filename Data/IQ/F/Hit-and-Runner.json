@@ -1,0 +1,7 @@
+{
+  "Id": "Hit-and-Runner",
+  "Name": "Hit-and-Runner",
+  "Group": 5,
+  "Effect": "Sometimes cancels foe's counter-attacks.",
+  "RequiredIQ": 270
+}

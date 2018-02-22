@@ -1,0 +1,7 @@
+{
+  "Id": "Extra_Striker",
+  "Name": "Extra Striker",
+  "Group": 2,
+  "Effect": "Sometimes strikes again following an attack.",
+  "RequiredIQ": 520
+}

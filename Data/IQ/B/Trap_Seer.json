@@ -1,0 +1,7 @@
+{
+  "Id": "Trap_Seer",
+  "Name": "Trap Seer",
+  "Group": 1,
+  "Effect": "Pok�mon can see hidden Traps at its feet without setting them off.",
+  "RequiredIQ": 600
+}

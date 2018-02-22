@@ -1,0 +1,7 @@
+{
+  "Id": "PP_Saver",
+  "Name": "PP Saver",
+  "Group": 10,
+  "Effect": "Sometimes gets to use a move without draining PP.",
+  "RequiredIQ": 55
+}

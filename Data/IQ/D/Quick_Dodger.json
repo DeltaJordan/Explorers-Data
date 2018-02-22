@@ -1,0 +1,7 @@
+{
+  "Id": "Quick_Dodger",
+  "Name": "Quick Dodger",
+  "Group": 3,
+  "Effect": "Raises likelihood of dodging attacks.",
+  "RequiredIQ": 540
+}

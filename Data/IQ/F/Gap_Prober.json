@@ -1,0 +1,7 @@
+{
+  "Id": "Gap_Prober",
+  "Name": "Gap Prober",
+  "Group": 5,
+  "Effect": "Ranged moves and throwing items can pass allies without causing damage.",
+  "RequiredIQ": 170
+}

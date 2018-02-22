@@ -1,0 +1,7 @@
+{
+  "Id": "Brick-Tough",
+  "Name": "Brick-Tough",
+  "Group": 2,
+  "Effect": "Adds 10 to max HP. Cannot be turned off.",
+  "RequiredIQ": 100
+}

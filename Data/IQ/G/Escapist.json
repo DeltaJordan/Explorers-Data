@@ -1,0 +1,7 @@
+{
+  "Id": "Escapist",
+  "Name": "Escapist",
+  "Group": 6,
+  "Effect": "Can use the Explorer Badge to leave the dungeon. Cannot be turned off.",
+  "RequiredIQ": 0
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Fast_Friend",
+  "Name": "Fast Friend",
+  "Group": 7,
+  "Effect": "Raises likelihood of recruiting defeated foes.",
+  "RequiredIQ": 550
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Item_Catcher",
+  "Name": "Item Catcher",
+  "Group": 11,
+  "Effect": "Can catch a thrown item and keep it for its own.",
+  "RequiredIQ": 0
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Wary_Fighter",
+  "Name": "Wary Fighter",
+  "Group": 11,
+  "Effect": "Moves back 1 square when its attack misses.",
+  "RequiredIQ": 180
+}

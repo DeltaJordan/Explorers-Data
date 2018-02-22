@@ -1,0 +1,7 @@
+{
+  "Id": "Concentrator",
+  "Name": "Concentrator",
+  "Group": 2,
+  "Effect": "Raises Accuracy by 1 but decreases Evasion by 1.",
+  "RequiredIQ": 185
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "House_Avoider",
+  "Name": "House Avoider",
+  "Group": 7,
+  "Effect": "Does not enter Monster Houses.",
+  "RequiredIQ": 800
+}

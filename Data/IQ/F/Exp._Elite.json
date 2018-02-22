@@ -1,0 +1,7 @@
+{
+  "Id": "Exp._Elite",
+  "Name": "Exp. Elite",
+  "Group": 5,
+  "Effect": "Earns more experience when defeating foes.",
+  "RequiredIQ": 320
+}

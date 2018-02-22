@@ -1,0 +1,7 @@
+{
+  "Id": "Deep_Breather",
+  "Name": "Deep Breather",
+  "Group": 7,
+  "Effect": "Recovers 1 PP to a random move when changing floors.",
+  "RequiredIQ": 190
+}

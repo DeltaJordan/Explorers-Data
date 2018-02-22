@@ -1,0 +1,7 @@
+{
+  "Id": "Nature_Giver",
+  "Name": "Nature Giver",
+  "Group": 7,
+  "Effect": "Extends the effects of seeds and berries to the Pok�mon's allies. Only works for Leader Pok�mon.",
+  "RequiredIQ": 900
+}

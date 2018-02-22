@@ -1,0 +1,7 @@
+{
+  "Id": "Efficiency_Expert",
+  "Name": "Efficiency Expert",
+  "Group": 7,
+  "Effect": "Targets foes with low HP.",
+  "RequiredIQ": 10
+}

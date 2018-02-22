@@ -1,0 +1,7 @@
+{
+  "Id": "No-Charger",
+  "Name": "No-Charger",
+  "Group": 5,
+  "Effect": "Automatically uses charged attack without delay at the cost of 2 PP.",
+  "RequiredIQ": 570
+}

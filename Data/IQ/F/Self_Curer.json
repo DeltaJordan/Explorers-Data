@@ -1,0 +1,7 @@
+{
+  "Id": "Self_Curer",
+  "Name": "Self Curer",
+  "Group": 5,
+  "Effect": "Shortens required turns for Pok�mon to heal from status.",
+  "RequiredIQ": 70
+}

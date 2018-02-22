@@ -1,0 +1,7 @@
+{
+  "Id": "Exp._Go-Getter",
+  "Name": "Exp. Go-Getter",
+  "Group": 2,
+  "Effect": "Prioritizes attack foes with a higher experience point payout.",
+  "RequiredIQ": 200
+}

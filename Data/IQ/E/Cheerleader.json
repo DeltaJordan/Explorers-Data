@@ -1,0 +1,7 @@
+{
+  "Id": "Cheerleader",
+  "Name": "Cheerleader",
+  "Group": 4,
+  "Effect": "Raises the Attack and Sp. Attack of neighboring allies by 1 level.",
+  "RequiredIQ": 30
+}

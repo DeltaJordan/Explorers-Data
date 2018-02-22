@@ -1,0 +1,7 @@
+{
+  "Id": "Critical_Dodger",
+  "Name": "Critical Dodger",
+  "Group": 3,
+  "Effect": "Immunity to critical hits.",
+  "RequiredIQ": 440
+}

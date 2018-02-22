@@ -1,0 +1,7 @@
+{
+  "Id": "Course_Checker",
+  "Name": "Course Checker",
+  "Group": 5,
+  "Effect": "Refrains from attacks that would be blocked by walls or allies.",
+  "RequiredIQ": 0
+}

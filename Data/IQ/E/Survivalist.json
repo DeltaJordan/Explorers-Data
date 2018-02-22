@@ -1,0 +1,7 @@
+{
+  "Id": "Survivalist",
+  "Name": "Survivalist",
+  "Group": 4,
+  "Effect": "Restores more Belly stat when eating food. Sometimes avoids getting status changes when eating Grimy Food.",
+  "RequiredIQ": 140
+}

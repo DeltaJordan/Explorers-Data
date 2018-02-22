@@ -1,0 +1,7 @@
+{
+  "Id": "Clutch_Performer",
+  "Name": "Clutch Performer",
+  "Group": 2,
+  "Effect": "Raises Evasion by 2 when HP is below 25%.",
+  "RequiredIQ": 360
+}

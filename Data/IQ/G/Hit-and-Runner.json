@@ -1,0 +1,7 @@
+{
+  "Id": "Hit-and-Runner",
+  "Name": "Hit-and-Runner",
+  "Group": 6,
+  "Effect": "Sometimes nullifies counter-attacks.",
+  "RequiredIQ": 270
+}

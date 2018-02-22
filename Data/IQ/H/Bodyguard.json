@@ -1,0 +1,7 @@
+{
+  "Id": "Bodyguard",
+  "Name": "Bodyguard",
+  "Group": 7,
+  "Effect": "Takes damage in place of allies who are low on HP.",
+  "RequiredIQ": 65
+}

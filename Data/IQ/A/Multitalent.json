@@ -1,0 +1,7 @@
+{
+  "Id": "Multitalent",
+  "Name": "Multitalent",
+  "Group": 0,
+  "Effect": "Adds 5 to Pok�mon's max PP. Cannot be turned off.",
+  "RequiredIQ": 310
+}

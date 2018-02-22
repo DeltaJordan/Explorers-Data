@@ -1,0 +1,7 @@
+{
+  "Id": "Lava_Evader",
+  "Name": "Lava Evader",
+  "Group": 3,
+  "Effect": "Avoids entering lava.",
+  "RequiredIQ": 300
+}

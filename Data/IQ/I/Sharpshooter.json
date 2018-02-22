@@ -1,0 +1,7 @@
+{
+  "Id": "Sharpshooter",
+  "Name": "Sharpshooter",
+  "Group": 10,
+  "Effect": "Raises critical-hit rate.",
+  "RequiredIQ": 260
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Gap_Prober",
+  "Name": "Gap Prober",
+  "Group": 1,
+  "Effect": "Moves and throwing items pass harmlessly through allies.",
+  "RequiredIQ": 170
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Nontraitor",
+  "Name": "Nontraitor",
+  "Group": 0,
+  "Effect": "Does not attack friends, even when confused or in cowering status.",
+  "RequiredIQ": 40
+}

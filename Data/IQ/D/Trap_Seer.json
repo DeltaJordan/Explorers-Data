@@ -1,0 +1,7 @@
+{
+  "Id": "Trap_Seer",
+  "Name": "Trap Seer",
+  "Group": 3,
+  "Effect": "Able to step on traps without setting off.",
+  "RequiredIQ": 600
+}

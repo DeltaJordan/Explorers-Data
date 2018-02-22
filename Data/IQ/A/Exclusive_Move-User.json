@@ -1,0 +1,7 @@
+{
+  "Id": "Exclusive_Move-User",
+  "Name": "Exclusive Move-User",
+  "Group": 0,
+  "Effect": "Uses only moves, not regular attacks.",
+  "RequiredIQ": 0
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Map_Surveyor",
+  "Name": "Map Surveyor",
+  "Group": 0,
+  "Effect": "Knows the floor layout.",
+  "RequiredIQ": 580
+}

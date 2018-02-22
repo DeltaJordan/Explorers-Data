@@ -1,0 +1,7 @@
+{
+  "Id": "Critical_Dodger",
+  "Name": "Critical Dodger",
+  "Group": 6,
+  "Effect": "Pok�mon is immune to critical-hits.",
+  "RequiredIQ": 440
+}

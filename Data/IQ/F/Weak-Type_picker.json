@@ -1,0 +1,7 @@
+{
+  "Id": "Weak-Type_picker",
+  "Name": "Weak-Type picker",
+  "Group": 5,
+  "Effect": "Targets foes with good type compatibility.",
+  "RequiredIQ": 125
+}

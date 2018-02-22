@@ -1,0 +1,7 @@
+{
+  "Id": "Trap_Avoider",
+  "Name": "Trap Avoider",
+  "Group": 6,
+  "Effect": "Dodges visible traps.",
+  "RequiredIQ": 240
+}

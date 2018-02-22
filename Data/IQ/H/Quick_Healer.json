@@ -1,0 +1,7 @@
+{
+  "Id": "Quick_Healer",
+  "Name": "Quick Healer",
+  "Group": 7,
+  "Effect": "Raises rate of natural HP recovery.",
+  "RequiredIQ": 290
+}

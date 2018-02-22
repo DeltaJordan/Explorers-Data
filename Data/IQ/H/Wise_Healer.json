@@ -1,0 +1,7 @@
+{
+  "Id": "Wise_Healer",
+  "Name": "Wise Healer",
+  "Group": 7,
+  "Effect": "Raises the effectiveness of HP-recovery items and moves.",
+  "RequiredIQ": 175
+}

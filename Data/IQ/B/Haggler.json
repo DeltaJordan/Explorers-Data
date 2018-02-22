@@ -1,0 +1,7 @@
+{
+  "Id": "Haggler",
+  "Name": "Haggler",
+  "Group": 1,
+  "Effect": "Can buy low and sell high at Kecleon Markets inside dungeons.",
+  "RequiredIQ": 350
+}

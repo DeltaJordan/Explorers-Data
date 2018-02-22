@@ -1,0 +1,7 @@
+{
+  "Id": "Energy_Saver",
+  "Name": "Energy Saver",
+  "Group": 4,
+  "Effect": "Belly goes down slower.",
+  "RequiredIQ": 250
+}

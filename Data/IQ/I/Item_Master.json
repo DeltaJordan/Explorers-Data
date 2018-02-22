@@ -1,0 +1,7 @@
+{
+  "Id": "Item_Master",
+  "Name": "Item Master",
+  "Group": 10,
+  "Effect": "Can use and throw its hold item.",
+  "RequiredIQ": 0
+}

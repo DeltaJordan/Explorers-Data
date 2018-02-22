@@ -1,0 +1,7 @@
+{
+  "Id": "Power_Pitcher",
+  "Name": "Power Pitcher",
+  "Group": 10,
+  "Effect": "Throwing items deal 1.5 times the damage. Does not work with Gravelerocks.",
+  "RequiredIQ": 130
+}

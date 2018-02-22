@@ -1,0 +1,7 @@
+{
+  "Id": "Acute_Sniffer",
+  "Name": "Acute Sniffer",
+  "Group": 6,
+  "Effect": "Lets you know the number of items on the floor.",
+  "RequiredIQ": 50
+}

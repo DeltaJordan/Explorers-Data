@@ -1,0 +1,7 @@
+{
+  "Id": "Practice_Swinger",
+  "Name": "Practice Swinger",
+  "Group": 2,
+  "Effect": "Raises Attack and Special Attack by 1 on the turn after a missed attack.",
+  "RequiredIQ": 195
+}

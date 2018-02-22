@@ -1,0 +1,7 @@
+{
+  "Id": "Trap_Buster",
+  "Name": "Trap Buster",
+  "Group": 1,
+  "Effect": "Occasionally destroys traps by stepping on them.",
+  "RequiredIQ": 420
+}

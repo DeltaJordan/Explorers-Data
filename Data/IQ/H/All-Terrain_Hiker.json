@@ -1,0 +1,7 @@
+{
+  "Id": "All-Terrain_Hiker",
+  "Name": "All-Terrain Hiker",
+  "Group": 7,
+  "Effect": "Can cross water, lava, and valleys.",
+  "RequiredIQ": 400
+}

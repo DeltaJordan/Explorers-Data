@@ -1,0 +1,7 @@
+{
+  "Id": "Wary_Fighter",
+  "Name": "Wary Fighter",
+  "Group": 5,
+  "Effect": "User steps back one tile when it misses a move.",
+  "RequiredIQ": 180
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Pierce_Hurler",
+  "Name": "Pierce Hurler",
+  "Group": 1,
+  "Effect": "Throwing items penetrate Pok�mon and walls, and continue flying.",
+  "RequiredIQ": 850
+}

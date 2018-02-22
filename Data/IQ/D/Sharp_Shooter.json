@@ -1,0 +1,7 @@
+{
+  "Id": "Sharp_Shooter",
+  "Name": "Sharp Shooter",
+  "Group": 3,
+  "Effect": "Raises critical-hit ratio.",
+  "RequiredIQ": 260
+}

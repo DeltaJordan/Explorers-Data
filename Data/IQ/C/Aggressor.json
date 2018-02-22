@@ -1,0 +1,7 @@
+{
+  "Id": "Aggressor",
+  "Name": "Aggressor",
+  "Group": 2,
+  "Effect": "Raises both Attack stats by 1 each, but decreases both Defense stats by 1 each.",
+  "RequiredIQ": 220
+}
